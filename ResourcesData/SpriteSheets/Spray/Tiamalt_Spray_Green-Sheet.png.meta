@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: 73313c4d95554164ba082c6093ba5a8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Tiamalt_GreenEplosion_F01
+  - first:
+      213: 21300002
+    second: Tiamalt_GreenEplosion_F02
+  - first:
+      213: 21300004
+    second: Tiamalt_GreenEplosion_F03
+  - first:
+      213: 21300006
+    second: Tiamalt_GreenEplosion_F04
+  - first:
+      213: 21300008
+    second: Tiamalt_GreenEplosion_F05
+  - first:
+      213: 21300010
+    second: Tiamalt_GreenEplosion_F06
+  - first:
+      213: 21300012
+    second: Tiamalt_GreenEplosion_F07
+  - first:
+      213: 21300014
+    second: Tiamalt_GreenEplosion_F08
+  - first:
+      213: 21300016
+    second: Tiamalt_GreenEplosion_F09
+  - first:
+      213: 21300018
+    second: Tiamalt_GreenEplosion_F10
+  - first:
+      213: 21300020
+    second: Tiamalt_GreenEplosion_F11
+  - first:
+      213: 21300022
+    second: Tiamalt_GreenEplosion_F12
+  - first:
+      213: 21300024
+    second: Tiamalt_GreenEplosion_F13
+  - first:
+      213: 21300026
+    second: Tiamalt_GreenEplosion_F14
+  - first:
+      213: 21300028
+    second: Tiamalt_GreenEplosion_F15
+  - first:
+      213: 21300030
+    second: Tiamalt_GreenEplosion_F16
+  - first:
+      213: 21300032
+    second: Tiamalt_GreenEplosion_F17
+  - first:
+      213: 21300034
+    second: Tiamalt_GreenEplosion_F18
+  - first:
+      213: 21300036
+    second: Tiamalt_GreenEplosion_F19
+  - first:
+      213: 21300038
+    second: Tiamalt_GreenEplosion_F20
+  - first:
+      213: 21300040
+    second: Tiamalt_GreenEplosion_F21
+  - first:
+      213: 21300042
+    second: Tiamalt_GreenEplosion_F22
+  - first:
+      213: 21300044
+    second: Tiamalt_GreenEplosion_F23
+  - first:
+      213: 21300046
+    second: Tiamalt_GreenEplosion_F24
+  - first:
+      213: 21300048
+    second: Tiamalt_Spray_Green_F01
+  - first:
+      213: 21300050
+    second: Tiamalt_Spray_Green_F02
+  - first:
+      213: 21300052
+    second: Tiamalt_Spray_Green_F03
+  - first:
+      213: 21300054
+    second: Tiamalt_Spray_Green_F04
+  - first:
+      213: 21300056
+    second: Tiamalt_Spray_Green_F05
+  - first:
+      213: 21300058
+    second: Tiamalt_Spray_Green_F06
+  - first:
+      213: 21300060
+    second: Tiamalt_Spray_Green_F07
+  - first:
+      213: 21300062
+    second: Tiamalt_Spray_Green_F08
+  - first:
+      213: 21300064
+    second: Tiamalt_Spray_Green_F09
+  - first:
+      213: 21300066
+    second: Tiamalt_Spray_Green_F10
+  - first:
+      213: 21300068
+    second: Tiamalt_Spray_Green_F11
+  - first:
+      213: 21300070
+    second: Tiamalt_Spray_Green_F12
+  - first:
+      213: 21300072
+    second: Tiamalt_Spray_Green_F13
+  - first:
+      213: 21300074
+    second: Tiamalt_Spray_Green_F14
+  - first:
+      213: 21300076
+    second: Tiamalt_Spray_Green_F15
+  - first:
+      213: 21300078
+    second: Tiamalt_Spray_Green_F16
+  - first:
+      213: 21300080
+    second: Tiamalt_Spray_Green_F17
+  - first:
+      213: 21300082
+    second: Tiamalt_Spray_Green_F18
+  - first:
+      213: 21300084
+    second: Tiamalt_Spray_Green_F19
+  - first:
+      213: 21300086
+    second: Tiamalt_Spray_Green_F20
+  - first:
+      213: 21300088
+    second: Tiamalt_Spray_Green_F21
+  - first:
+      213: 21300090
+    second: Tiamalt_Spray_Green_F22
+  - first:
+      213: 21300092
+    second: Tiamalt_Spray_Green_F23
+  - first:
+      213: 21300094
+    second: Tiamalt_Spray_Green_F24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c09059d3fd6a64b90ab21cc215f1c9
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef1f9461c9afe43af8c5e1ab850aa9
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7f9cf5b7f2de47bb49a7742b2fe0b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F04
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf802eb8b9a88744bcdc6bb060586d3
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F05
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179542a1c08028458dc66ac0096ffee
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F06
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c7de88746f2cc4ea83e8e9ac90be94
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d715aab36cbead4090c3d40a6ae90c2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F08
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf446fb735eac0448b948205c38dd673
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F09
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dedeeccea64bac4180ca80c15c8edf8
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7bd60388a66ae4a954fbb8119809a2
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb69dd247e7f1c40b65d3b3f4183d1c
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8472d4b0567e8a41a25a43581e81ea9
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93819a36a1e321d44803a891193e789b
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe792419352f8f4893291dc33e748c0
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e0c5d2c9b76b40a27bc76f742fa56
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72586ed1b984c394986d2d9bf63872c6
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c082357724c1e489034af380e1cbbf
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe9486bccf6e444790144db4943c5ca
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d459de236ef09a4e8177e0e642ce020
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3091dd0781dd3f54498f3944e1c3faab
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0344389e1a6eb4b9716756d4c6491b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615da5758ae6f5448a35ec4b0d890f86
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89461cedddf46484b97c00db0da9a27e
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Green_F24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d948d474af11418633a0dc11647df
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiamalt_Spray_Green_F20: 21300086
+      Tiamalt_Spray_Green_F01: 21300048
+      Tiamalt_Spray_Green_F10: 21300066
+      Tiamalt_Spray_Green_F08: 21300062
+      Tiamalt_Spray_Green_F05: 21300056
+      Tiamalt_Spray_Green_F21: 21300088
+      Tiamalt_Spray_Green_F15: 21300076
+      Tiamalt_Spray_Green_F14: 21300074
+      Tiamalt_Spray_Green_F18: 21300082
+      Tiamalt_Spray_Green_F23: 21300092
+      Tiamalt_Spray_Green_F11: 21300068
+      Tiamalt_Spray_Green_F16: 21300078
+      Tiamalt_Spray_Green_F09: 21300064
+      Tiamalt_Spray_Green_F13: 21300072
+      Tiamalt_Spray_Green_F17: 21300080
+      Tiamalt_Spray_Green_F06: 21300058
+      Tiamalt_Spray_Green_F19: 21300084
+      Tiamalt_Spray_Green_F04: 21300054
+      Tiamalt_Spray_Green_F02: 21300050
+      Tiamalt_Spray_Green_F22: 21300090
+      Tiamalt_Spray_Green_F24: 21300094
+      Tiamalt_Spray_Green_F12: 21300070
+      Tiamalt_Spray_Green_F03: 21300052
+      Tiamalt_Spray_Green_F07: 21300060
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 1e388cab83a0480698af7c6b06dfedb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Graul98_YellowExplosion_01F
+  - first:
+      213: 21300002
+    second: Graul98_YellowExplosion_02F
+  - first:
+      213: 21300004
+    second: Graul98_YellowExplosion_03F
+  - first:
+      213: 21300006
+    second: Graul98_YellowExplosion_04F
+  - first:
+      213: 21300008
+    second: Graul98_YellowExplosion_05F
+  - first:
+      213: 21300010
+    second: Graul98_YellowExplosion_06F
+  - first:
+      213: 21300012
+    second: Graul98_YellowExplosion_07F
+  - first:
+      213: 21300014
+    second: Graul98_YellowExplosion_08F
+  - first:
+      213: 21300016
+    second: Graul98_YellowExplosion_09F
+  - first:
+      213: 21300018
+    second: Graul98_YellowExplosion_10F
+  - first:
+      213: 21300020
+    second: Graul98_YellowExplosion_F01
+  - first:
+      213: 21300022
+    second: Graul98_YellowExplosion_F02
+  - first:
+      213: 21300024
+    second: Graul98_YellowExplosion_F03
+  - first:
+      213: 21300026
+    second: Graul98_YellowExplosion_F04
+  - first:
+      213: 21300028
+    second: Graul98_YellowExplosion_F05
+  - first:
+      213: 21300030
+    second: Graul98_YellowExplosion_F06
+  - first:
+      213: 21300032
+    second: Graul98_YellowExplosion_F07
+  - first:
+      213: 21300034
+    second: Graul98_YellowExplosion_F08
+  - first:
+      213: 21300036
+    second: Graul98_YellowExplosion_F09
+  - first:
+      213: 21300038
+    second: Graul98_YellowExplosion_F10
+  - first:
+      213: 21300040
+    second: Graul98_Explosion_Yellow_F01
+  - first:
+      213: 21300042
+    second: Graul98_Explosion_Yellow_F02
+  - first:
+      213: 21300044
+    second: Graul98_Explosion_Yellow_F03
+  - first:
+      213: 21300046
+    second: Graul98_Explosion_Yellow_F04
+  - first:
+      213: 21300048
+    second: Graul98_Explosion_Yellow_F05
+  - first:
+      213: 21300050
+    second: Graul98_Explosion_Yellow_F06
+  - first:
+      213: 21300052
+    second: Graul98_Explosion_Yellow_F07
+  - first:
+      213: 21300054
+    second: Graul98_Explosion_Yellow_F08
+  - first:
+      213: 21300056
+    second: Graul98_Explosion_Yellow_F09
+  - first:
+      213: 21300058
+    second: Graul98_Explosion_Yellow_F10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4c4ae6e045774489499057c0f55d51
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b029631290bcd094c8e2ffaeb816c209
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e0ef9b44ff32241b48ccf1a10c3431
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F04
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca4083172bc5774c973f431737b2415
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a952de5d2a898bf48a1fb0d9255882a0
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F06
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52d82f19e0c8da4aa4611212de96b4c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F07
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbacc1d8ebb623a42b1f86a54134ac09
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf9c8b7da489474983b961a52aeac3b
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4a531cf610a64887e76f23c4ccef3
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Yellow_F10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e24a5d674130814da2453d51c6e13c2
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Graul98_Explosion_Yellow_F02: 21300042
+      Graul98_Explosion_Yellow_F09: 21300056
+      Graul98_Explosion_Yellow_F05: 21300048
+      Graul98_Explosion_Yellow_F08: 21300054
+      Graul98_Explosion_Yellow_F10: 21300058
+      Graul98_Explosion_Yellow_F07: 21300052
+      Graul98_Explosion_Yellow_F04: 21300046
+      Graul98_Explosion_Yellow_F06: 21300050
+      Graul98_Explosion_Yellow_F01: 21300040
+      Graul98_Explosion_Yellow_F03: 21300044
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

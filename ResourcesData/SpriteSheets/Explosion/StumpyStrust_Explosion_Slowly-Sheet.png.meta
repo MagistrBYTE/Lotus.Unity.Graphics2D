@@ -1,0 +1,3048 @@
+fileFormatVersion: 2
+guid: 470fb3b257666fc4c880b97924beccbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: test3_0
+  - first:
+      213: 21300002
+    second: test3_1
+  - first:
+      213: 21300004
+    second: test3_2
+  - first:
+      213: 21300006
+    second: test3_3
+  - first:
+      213: 21300008
+    second: test3_4
+  - first:
+      213: 21300010
+    second: test3_5
+  - first:
+      213: 21300012
+    second: test3_6
+  - first:
+      213: 21300014
+    second: test3_7
+  - first:
+      213: 21300016
+    second: test3_8
+  - first:
+      213: 21300018
+    second: test3_9
+  - first:
+      213: 21300020
+    second: test3_10
+  - first:
+      213: 21300022
+    second: test3_11
+  - first:
+      213: 21300024
+    second: test3_12
+  - first:
+      213: 21300026
+    second: test3_13
+  - first:
+      213: 21300028
+    second: test3_14
+  - first:
+      213: 21300030
+    second: test3_15
+  - first:
+      213: 21300032
+    second: test3_16
+  - first:
+      213: 21300034
+    second: test3_17
+  - first:
+      213: 21300036
+    second: test3_18
+  - first:
+      213: 21300038
+    second: test3_19
+  - first:
+      213: 21300040
+    second: test3_20
+  - first:
+      213: 21300042
+    second: test3_21
+  - first:
+      213: 21300044
+    second: test3_22
+  - first:
+      213: 21300046
+    second: test3_23
+  - first:
+      213: 21300048
+    second: test3_24
+  - first:
+      213: 21300050
+    second: test3_25
+  - first:
+      213: 21300052
+    second: test3_26
+  - first:
+      213: 21300054
+    second: test3_27
+  - first:
+      213: 21300056
+    second: test3_28
+  - first:
+      213: 21300058
+    second: test3_29
+  - first:
+      213: 21300060
+    second: test3_30
+  - first:
+      213: 21300062
+    second: test3_31
+  - first:
+      213: 21300064
+    second: test3_32
+  - first:
+      213: 21300066
+    second: test3_33
+  - first:
+      213: 21300068
+    second: test3_34
+  - first:
+      213: 21300070
+    second: test3_35
+  - first:
+      213: 21300072
+    second: test3_36
+  - first:
+      213: 21300074
+    second: test3_37
+  - first:
+      213: 21300076
+    second: test3_38
+  - first:
+      213: 21300078
+    second: test3_39
+  - first:
+      213: 21300080
+    second: test3_40
+  - first:
+      213: 21300082
+    second: test3_41
+  - first:
+      213: 21300084
+    second: test3_42
+  - first:
+      213: 21300086
+    second: test3_43
+  - first:
+      213: 21300088
+    second: test3_44
+  - first:
+      213: 21300090
+    second: test3_45
+  - first:
+      213: 21300092
+    second: test3_46
+  - first:
+      213: 21300094
+    second: test3_47
+  - first:
+      213: 21300096
+    second: test3_48
+  - first:
+      213: 21300098
+    second: test3_49
+  - first:
+      213: 21300100
+    second: test3_50
+  - first:
+      213: 21300102
+    second: test3_51
+  - first:
+      213: 21300104
+    second: test3_52
+  - first:
+      213: 21300106
+    second: test3_53
+  - first:
+      213: 21300108
+    second: test3_54
+  - first:
+      213: 21300110
+    second: test3_55
+  - first:
+      213: 21300112
+    second: test3_56
+  - first:
+      213: 21300114
+    second: test3_57
+  - first:
+      213: 21300116
+    second: test3_58
+  - first:
+      213: 21300118
+    second: test3_59
+  - first:
+      213: 21300120
+    second: test3_60
+  - first:
+      213: 21300122
+    second: test3_61
+  - first:
+      213: 21300124
+    second: test3_62
+  - first:
+      213: 21300126
+    second: test3_63
+  - first:
+      213: 21300128
+    second: test3_64
+  - first:
+      213: 21300130
+    second: test3_65
+  - first:
+      213: 21300132
+    second: test3_66
+  - first:
+      213: 21300134
+    second: test3_67
+  - first:
+      213: 21300136
+    second: test3_68
+  - first:
+      213: 21300138
+    second: test3_69
+  - first:
+      213: 21300140
+    second: test3_70
+  - first:
+      213: 21300142
+    second: test3_71
+  - first:
+      213: 21300144
+    second: test3_72
+  - first:
+      213: 21300146
+    second: test3_73
+  - first:
+      213: 21300148
+    second: test3_74
+  - first:
+      213: 21300150
+    second: test3_75
+  - first:
+      213: 21300152
+    second: test3_76
+  - first:
+      213: 21300154
+    second: test3_77
+  - first:
+      213: 21300156
+    second: test3_78
+  - first:
+      213: 21300158
+    second: test3_79
+  - first:
+      213: 21300160
+    second: test3_80
+  - first:
+      213: 21300162
+    second: test3_81
+  - first:
+      213: 21300164
+    second: test3_82
+  - first:
+      213: 21300166
+    second: test3_83
+  - first:
+      213: 21300168
+    second: test3_84
+  - first:
+      213: 21300170
+    second: test3_85
+  - first:
+      213: 21300172
+    second: test3_86
+  - first:
+      213: 21300174
+    second: test3_87
+  - first:
+      213: 21300176
+    second: test3_88
+  - first:
+      213: 21300178
+    second: test3_89
+  - first:
+      213: 21300180
+    second: test3_90
+  - first:
+      213: 21300182
+    second: test3_91
+  - first:
+      213: 21300184
+    second: test3_92
+  - first:
+      213: 21300186
+    second: test3_93
+  - first:
+      213: 21300188
+    second: StumpyStrust_ExplosionSlowly_F01
+  - first:
+      213: 21300190
+    second: StumpyStrust_ExplosionSlowly_F02
+  - first:
+      213: 21300192
+    second: StumpyStrust_ExplosionSlowly_F03
+  - first:
+      213: 21300194
+    second: StumpyStrust_ExplosionSlowly_F04
+  - first:
+      213: 21300196
+    second: StumpyStrust_ExplosionSlowly_F05
+  - first:
+      213: 21300198
+    second: StumpyStrust_ExplosionSlowly_F06
+  - first:
+      213: 21300200
+    second: StumpyStrust_ExplosionSlowly_F07
+  - first:
+      213: 21300202
+    second: StumpyStrust_ExplosionSlowly_F08
+  - first:
+      213: 21300204
+    second: StumpyStrust_ExplosionSlowly_F09
+  - first:
+      213: 21300206
+    second: StumpyStrust_ExplosionSlowly_F10
+  - first:
+      213: 21300208
+    second: StumpyStrust_ExplosionSlowly_F11
+  - first:
+      213: 21300210
+    second: StumpyStrust_ExplosionSlowly_F12
+  - first:
+      213: 21300212
+    second: StumpyStrust_ExplosionSlowly_F13
+  - first:
+      213: 21300214
+    second: StumpyStrust_ExplosionSlowly_F14
+  - first:
+      213: 21300216
+    second: StumpyStrust_ExplosionSlowly_F15
+  - first:
+      213: 21300218
+    second: StumpyStrust_ExplosionSlowly_F16
+  - first:
+      213: 21300220
+    second: StumpyStrust_ExplosionSlowly_F17
+  - first:
+      213: 21300222
+    second: StumpyStrust_ExplosionSlowly_F18
+  - first:
+      213: 21300224
+    second: StumpyStrust_ExplosionSlowly_F19
+  - first:
+      213: 21300226
+    second: StumpyStrust_ExplosionSlowly_F20
+  - first:
+      213: 21300228
+    second: StumpyStrust_ExplosionSlowly_F21
+  - first:
+      213: 21300230
+    second: StumpyStrust_ExplosionSlowly_F22
+  - first:
+      213: 21300232
+    second: StumpyStrust_ExplosionSlowly_F23
+  - first:
+      213: 21300234
+    second: StumpyStrust_ExplosionSlowly_F24
+  - first:
+      213: 21300236
+    second: StumpyStrust_ExplosionSlowly_F25
+  - first:
+      213: 21300238
+    second: StumpyStrust_ExplosionSlowly_F26
+  - first:
+      213: 21300240
+    second: StumpyStrust_ExplosionSlowly_F27
+  - first:
+      213: 21300242
+    second: StumpyStrust_ExplosionSlowly_F28
+  - first:
+      213: 21300244
+    second: StumpyStrust_ExplosionSlowly_F29
+  - first:
+      213: 21300246
+    second: StumpyStrust_ExplosionSlowly_F30
+  - first:
+      213: 21300248
+    second: StumpyStrust_ExplosionSlowly_F31
+  - first:
+      213: 21300250
+    second: StumpyStrust_ExplosionSlowly_F32
+  - first:
+      213: 21300252
+    second: StumpyStrust_ExplosionSlowly_F33
+  - first:
+      213: 21300254
+    second: StumpyStrust_ExplosionSlowly_F34
+  - first:
+      213: 21300256
+    second: StumpyStrust_ExplosionSlowly_F35
+  - first:
+      213: 21300258
+    second: StumpyStrust_ExplosionSlowly_F36
+  - first:
+      213: 21300260
+    second: StumpyStrust_ExplosionSlowly_F37
+  - first:
+      213: 21300262
+    second: StumpyStrust_ExplosionSlowly_F38
+  - first:
+      213: 21300264
+    second: StumpyStrust_ExplosionSlowly_F39
+  - first:
+      213: 21300266
+    second: StumpyStrust_ExplosionSlowly_F40
+  - first:
+      213: 21300268
+    second: StumpyStrust_ExplosionSlowly_F41
+  - first:
+      213: 21300270
+    second: StumpyStrust_ExplosionSlowly_F42
+  - first:
+      213: 21300272
+    second: StumpyStrust_ExplosionSlowly_F43
+  - first:
+      213: 21300274
+    second: StumpyStrust_ExplosionSlowly_F44
+  - first:
+      213: 21300276
+    second: StumpyStrust_ExplosionSlowly_F45
+  - first:
+      213: 21300278
+    second: StumpyStrust_ExplosionSlowly_F46
+  - first:
+      213: 21300280
+    second: StumpyStrust_ExplosionSlowly_F47
+  - first:
+      213: 21300282
+    second: StumpyStrust_ExplosionSlowly_F48
+  - first:
+      213: 21300284
+    second: StumpyStrust_ExplosionSlowly_F49
+  - first:
+      213: 21300286
+    second: StumpyStrust_ExplosionSlowly_F50
+  - first:
+      213: 21300288
+    second: StumpyStrust_ExplosionSlowly_F51
+  - first:
+      213: 21300290
+    second: StumpyStrust_ExplosionSlowly_F52
+  - first:
+      213: 21300292
+    second: StumpyStrust_ExplosionSlowly_F53
+  - first:
+      213: 21300294
+    second: StumpyStrust_ExplosionSlowly_F54
+  - first:
+      213: 21300296
+    second: StumpyStrust_ExplosionSlowly_F55
+  - first:
+      213: 21300298
+    second: StumpyStrust_ExplosionSlowly_F56
+  - first:
+      213: 21300300
+    second: StumpyStrust_ExplosionSlowly_F57
+  - first:
+      213: 21300302
+    second: StumpyStrust_ExplosionSlowly_F58
+  - first:
+      213: 21300304
+    second: StumpyStrust_ExplosionSlowly_F59
+  - first:
+      213: 21300306
+    second: StumpyStrust_ExplosionSlowly_F60
+  - first:
+      213: 21300308
+    second: StumpyStrust_ExplosionSlowly_F61
+  - first:
+      213: 21300310
+    second: StumpyStrust_ExplosionSlowly_F62
+  - first:
+      213: 21300312
+    second: StumpyStrust_ExplosionSlowly_F63
+  - first:
+      213: 21300314
+    second: StumpyStrust_ExplosionSlowly_F64
+  - first:
+      213: 21300316
+    second: StumpyStrust_ExplosionSlowly_F65
+  - first:
+      213: 21300318
+    second: StumpyStrust_ExplosionSlowly_F66
+  - first:
+      213: 21300320
+    second: StumpyStrust_ExplosionSlowly_F67
+  - first:
+      213: 21300322
+    second: StumpyStrust_ExplosionSlowly_F68
+  - first:
+      213: 21300324
+    second: StumpyStrust_ExplosionSlowly_F69
+  - first:
+      213: 21300326
+    second: StumpyStrust_ExplosionSlowly_F70
+  - first:
+      213: 21300328
+    second: StumpyStrust_ExplosionSlowly_F71
+  - first:
+      213: 21300330
+    second: StumpyStrust_ExplosionSlowly_F72
+  - first:
+      213: 21300332
+    second: StumpyStrust_ExplosionSlowly_F73
+  - first:
+      213: 21300334
+    second: StumpyStrust_ExplosionSlowly_F74
+  - first:
+      213: 21300336
+    second: StumpyStrust_ExplosionSlowly_F75
+  - first:
+      213: 21300338
+    second: StumpyStrust_ExplosionSlowly_F76
+  - first:
+      213: 21300340
+    second: StumpyStrust_ExplosionSlowly_F77
+  - first:
+      213: 21300342
+    second: StumpyStrust_ExplosionSlowly_F78
+  - first:
+      213: 21300344
+    second: StumpyStrust_ExplosionSlowly_F79
+  - first:
+      213: 21300346
+    second: StumpyStrust_ExplosionSlowly_F80
+  - first:
+      213: 21300348
+    second: StumpyStrust_ExplosionSlowly_F81
+  - first:
+      213: 21300350
+    second: StumpyStrust_ExplosionSlowly_F82
+  - first:
+      213: 21300352
+    second: StumpyStrust_ExplosionSlowly_F83
+  - first:
+      213: 21300354
+    second: StumpyStrust_ExplosionSlowly_F84
+  - first:
+      213: 21300356
+    second: StumpyStrust_ExplosionSlowly_F85
+  - first:
+      213: 21300358
+    second: StumpyStrust_ExplosionSlowly_F86
+  - first:
+      213: 21300360
+    second: StumpyStrust_ExplosionSlowly_F87
+  - first:
+      213: 21300362
+    second: StumpyStrust_ExplosionSlowly_F88
+  - first:
+      213: 21300364
+    second: StumpyStrust_ExplosionSlowly_F89
+  - first:
+      213: 21300366
+    second: StumpyStrust_ExplosionSlowly_F90
+  - first:
+      213: 21300368
+    second: StumpyStrust_ExplosionSlowly_F91
+  - first:
+      213: 21300370
+    second: StumpyStrust_ExplosionSlowly_F92
+  - first:
+      213: 21300372
+    second: StumpyStrust_ExplosionSlowly_F93
+  - first:
+      213: 21300374
+    second: StumpyStrust_ExplosionSlowly_F94
+  - first:
+      213: 21300376
+    second: StumpyStrust_Explosion_Slowly_F01
+  - first:
+      213: 21300378
+    second: StumpyStrust_Explosion_Slowly_F02
+  - first:
+      213: 21300380
+    second: StumpyStrust_Explosion_Slowly_F03
+  - first:
+      213: 21300382
+    second: StumpyStrust_Explosion_Slowly_F04
+  - first:
+      213: 21300384
+    second: StumpyStrust_Explosion_Slowly_F05
+  - first:
+      213: 21300386
+    second: StumpyStrust_Explosion_Slowly_F06
+  - first:
+      213: 21300388
+    second: StumpyStrust_Explosion_Slowly_F07
+  - first:
+      213: 21300390
+    second: StumpyStrust_Explosion_Slowly_F08
+  - first:
+      213: 21300392
+    second: StumpyStrust_Explosion_Slowly_F09
+  - first:
+      213: 21300394
+    second: StumpyStrust_Explosion_Slowly_F10
+  - first:
+      213: 21300396
+    second: StumpyStrust_Explosion_Slowly_F11
+  - first:
+      213: 21300398
+    second: StumpyStrust_Explosion_Slowly_F12
+  - first:
+      213: 21300400
+    second: StumpyStrust_Explosion_Slowly_F13
+  - first:
+      213: 21300402
+    second: StumpyStrust_Explosion_Slowly_F14
+  - first:
+      213: 21300404
+    second: StumpyStrust_Explosion_Slowly_F15
+  - first:
+      213: 21300406
+    second: StumpyStrust_Explosion_Slowly_F16
+  - first:
+      213: 21300408
+    second: StumpyStrust_Explosion_Slowly_F17
+  - first:
+      213: 21300410
+    second: StumpyStrust_Explosion_Slowly_F18
+  - first:
+      213: 21300412
+    second: StumpyStrust_Explosion_Slowly_F19
+  - first:
+      213: 21300414
+    second: StumpyStrust_Explosion_Slowly_F20
+  - first:
+      213: 21300416
+    second: StumpyStrust_Explosion_Slowly_F21
+  - first:
+      213: 21300418
+    second: StumpyStrust_Explosion_Slowly_F22
+  - first:
+      213: 21300420
+    second: StumpyStrust_Explosion_Slowly_F23
+  - first:
+      213: 21300422
+    second: StumpyStrust_Explosion_Slowly_F24
+  - first:
+      213: 21300424
+    second: StumpyStrust_Explosion_Slowly_F25
+  - first:
+      213: 21300426
+    second: StumpyStrust_Explosion_Slowly_F26
+  - first:
+      213: 21300428
+    second: StumpyStrust_Explosion_Slowly_F27
+  - first:
+      213: 21300430
+    second: StumpyStrust_Explosion_Slowly_F28
+  - first:
+      213: 21300432
+    second: StumpyStrust_Explosion_Slowly_F29
+  - first:
+      213: 21300434
+    second: StumpyStrust_Explosion_Slowly_F30
+  - first:
+      213: 21300436
+    second: StumpyStrust_Explosion_Slowly_F31
+  - first:
+      213: 21300438
+    second: StumpyStrust_Explosion_Slowly_F32
+  - first:
+      213: 21300440
+    second: StumpyStrust_Explosion_Slowly_F33
+  - first:
+      213: 21300442
+    second: StumpyStrust_Explosion_Slowly_F34
+  - first:
+      213: 21300444
+    second: StumpyStrust_Explosion_Slowly_F35
+  - first:
+      213: 21300446
+    second: StumpyStrust_Explosion_Slowly_F36
+  - first:
+      213: 21300448
+    second: StumpyStrust_Explosion_Slowly_F37
+  - first:
+      213: 21300450
+    second: StumpyStrust_Explosion_Slowly_F38
+  - first:
+      213: 21300452
+    second: StumpyStrust_Explosion_Slowly_F39
+  - first:
+      213: 21300454
+    second: StumpyStrust_Explosion_Slowly_F40
+  - first:
+      213: 21300456
+    second: StumpyStrust_Explosion_Slowly_F41
+  - first:
+      213: 21300458
+    second: StumpyStrust_Explosion_Slowly_F42
+  - first:
+      213: 21300460
+    second: StumpyStrust_Explosion_Slowly_F43
+  - first:
+      213: 21300462
+    second: StumpyStrust_Explosion_Slowly_F44
+  - first:
+      213: 21300464
+    second: StumpyStrust_Explosion_Slowly_F45
+  - first:
+      213: 21300466
+    second: StumpyStrust_Explosion_Slowly_F46
+  - first:
+      213: 21300468
+    second: StumpyStrust_Explosion_Slowly_F47
+  - first:
+      213: 21300470
+    second: StumpyStrust_Explosion_Slowly_F48
+  - first:
+      213: 21300472
+    second: StumpyStrust_Explosion_Slowly_F49
+  - first:
+      213: 21300474
+    second: StumpyStrust_Explosion_Slowly_F50
+  - first:
+      213: 21300476
+    second: StumpyStrust_Explosion_Slowly_F51
+  - first:
+      213: 21300478
+    second: StumpyStrust_Explosion_Slowly_F52
+  - first:
+      213: 21300480
+    second: StumpyStrust_Explosion_Slowly_F53
+  - first:
+      213: 21300482
+    second: StumpyStrust_Explosion_Slowly_F54
+  - first:
+      213: 21300484
+    second: StumpyStrust_Explosion_Slowly_F55
+  - first:
+      213: 21300486
+    second: StumpyStrust_Explosion_Slowly_F56
+  - first:
+      213: 21300488
+    second: StumpyStrust_Explosion_Slowly_F57
+  - first:
+      213: 21300490
+    second: StumpyStrust_Explosion_Slowly_F58
+  - first:
+      213: 21300492
+    second: StumpyStrust_Explosion_Slowly_F59
+  - first:
+      213: 21300494
+    second: StumpyStrust_Explosion_Slowly_F60
+  - first:
+      213: 21300496
+    second: StumpyStrust_Explosion_Slowly_F61
+  - first:
+      213: 21300498
+    second: StumpyStrust_Explosion_Slowly_F62
+  - first:
+      213: 21300500
+    second: StumpyStrust_Explosion_Slowly_F63
+  - first:
+      213: 21300502
+    second: StumpyStrust_Explosion_Slowly_F64
+  - first:
+      213: 21300504
+    second: StumpyStrust_Explosion_Slowly_F65
+  - first:
+      213: 21300506
+    second: StumpyStrust_Explosion_Slowly_F66
+  - first:
+      213: 21300508
+    second: StumpyStrust_Explosion_Slowly_F67
+  - first:
+      213: 21300510
+    second: StumpyStrust_Explosion_Slowly_F68
+  - first:
+      213: 21300512
+    second: StumpyStrust_Explosion_Slowly_F69
+  - first:
+      213: 21300514
+    second: StumpyStrust_Explosion_Slowly_F70
+  - first:
+      213: 21300516
+    second: StumpyStrust_Explosion_Slowly_F71
+  - first:
+      213: 21300518
+    second: StumpyStrust_Explosion_Slowly_F72
+  - first:
+      213: 21300520
+    second: StumpyStrust_Explosion_Slowly_F73
+  - first:
+      213: 21300522
+    second: StumpyStrust_Explosion_Slowly_F74
+  - first:
+      213: 21300524
+    second: StumpyStrust_Explosion_Slowly_F75
+  - first:
+      213: 21300526
+    second: StumpyStrust_Explosion_Slowly_F76
+  - first:
+      213: 21300528
+    second: StumpyStrust_Explosion_Slowly_F77
+  - first:
+      213: 21300530
+    second: StumpyStrust_Explosion_Slowly_F78
+  - first:
+      213: 21300532
+    second: StumpyStrust_Explosion_Slowly_F79
+  - first:
+      213: 21300534
+    second: StumpyStrust_Explosion_Slowly_F80
+  - first:
+      213: 21300536
+    second: StumpyStrust_Explosion_Slowly_F81
+  - first:
+      213: 21300538
+    second: StumpyStrust_Explosion_Slowly_F82
+  - first:
+      213: 21300540
+    second: StumpyStrust_Explosion_Slowly_F83
+  - first:
+      213: 21300542
+    second: StumpyStrust_Explosion_Slowly_F84
+  - first:
+      213: 21300544
+    second: StumpyStrust_Explosion_Slowly_F85
+  - first:
+      213: 21300546
+    second: StumpyStrust_Explosion_Slowly_F86
+  - first:
+      213: 21300548
+    second: StumpyStrust_Explosion_Slowly_F87
+  - first:
+      213: 21300550
+    second: StumpyStrust_Explosion_Slowly_F88
+  - first:
+      213: 21300552
+    second: StumpyStrust_Explosion_Slowly_F89
+  - first:
+      213: 21300554
+    second: StumpyStrust_Explosion_Slowly_F90
+  - first:
+      213: 21300556
+    second: StumpyStrust_Explosion_Slowly_F91
+  - first:
+      213: 21300558
+    second: StumpyStrust_Explosion_Slowly_F92
+  - first:
+      213: 21300560
+    second: StumpyStrust_Explosion_Slowly_F93
+  - first:
+      213: 21300562
+    second: StumpyStrust_Explosion_Slowly_F94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7362f1ccb173f40a503d9d278d610a
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F02
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835515a05fb1c2f4393a4607c25a40c9
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F03
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3990fecb0b0e604b80a0e789a505dfb
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F04
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2829ccb3cb480f445a052092fd451d53
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F05
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d530336e1b26bcf49a9b899756d403be
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F06
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75521fdf49fa36c45a10ce1b80160193
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F07
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa7c9b0119afa4c828b628e38b88fa
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F08
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb4c53aeb680a5419c4a7388b08c748
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F09
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30402933c18c1d3428c1ead00713f5fb
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3584f0380b601dd4580b7693fcf2c47e
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7b20ee0562fd498eb6b5136b0d942
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b209d1ff50e5ec84a92f4a3e418cdd4b
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1825f22d5de83440b7e473948bb29f7
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1fa1b3f4649f74ab7a687dd6f8ecd9
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded7fc782f73374ebe319fc436dbc1a
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71be9f82c4a8624bb2fb29ae585bd3a
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d1a809fafd2f4e80d2614af7ad7ec
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79abd1e76fcef304e92a2b00e319a0d0
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8521f4911e28f694397cd107b01d3e1a
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a15283f6d2a00c4bb287c0c305b3af5
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6899bf6c7d346644a44432394563e35
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b597c15832c81fd41800836a778a91dd
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2c74d415017c41a8118047735d1c7
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf9c39436374e647b2e88ed7ebb7346
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26fb8e199011ba4e9a5ffa9cbe057f7
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ce2745f937a641abae4b77033fadf
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca41f6b213a1a448955cdb0141c62f9
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fec2b6e1eb74774488bbee057ead9d5
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05311178c9f110048965e72e2220d834
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8229d227f90e542912b7a793436ff7
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d4b87273ef3e44cbfc9be1ce66ae50
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65b1293491fba645acf181657fc07c2
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257d2ce0db78264295a7138db7947ff
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d49b31fc4ffd46ac856470eec671c
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86c8113783b774b9972d97b4d92c74
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1396e261eb2b3d74aa8ef37e8b137bff
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da3dc54fd60a44397aba5fdec3c5f3
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F38
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5457aceb403331b4fa79310729c20050
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59da8231658bc42af371a6072458d6
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F40
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067fd90d1f75d44eb11077f61e461f1
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb32eafeee8554f8d7953a58a14db1
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5cef55980699e468d7e1ba50d2fa90
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aa33d113fc0e74f8e4cebeee5a822d
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3310cd86c119cc458bc2e87ca0d52bd
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3bd3a79e2f7834f8be621df0a725fa
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4be8f44691876145be9432567f4215c
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e5185bf8ba1f44d84e454f896da3a7
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9768dc4e2bf661489dcc4c5ba41f6d5
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f54afce0d6b7c49b408adfe71b3058
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F50
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420654a5ffbf6764795234b982e21fff
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cac89f3f1df0d84e86b1107288b994a
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50be6343997daf479529cf11a7e8a67
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfabba8cc4ca4b428187a4db37a083f
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4ee48989a5f14d8bc7c4e02d57229
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259ceb7115e96e468617ab2015a2562
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9526f0c3786fd438ac70d82803bf56
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844b748a77b9f24281554f7d2fc406e
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F58
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5e130e75cbf140ae482e7dd25cc7b
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F59
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd557d780b72242b9b0b4d60e75f3c
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F60
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ecb0df0346b144886d698d61a56f74
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c637135e6baa9f947aeb314e42d8a1fd
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d12dcb70c3f244b433aa92a49c588
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e722f51f4ea979543aa3129641b97be3
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcfcf8f01a4ded48bfed31020485743
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce6da333df2ed4eb12ee251a4d6485
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1567857df6c65e4780995ea4512f748
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cbdea756d40e64683a87586c2aa193
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F68
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90da69b94065247aeaac39d80fb2b7
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F69
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986d1f715bf1b3a418f6b245f0c7e020
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4edf62fa79d442ac71f4dfa64cf79
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d48e73a630d394aaf1048bb9f5130a
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2074fd6b76badd94fb469d3380adff50
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76570a07d5b37aa4b85376b57bb27adf
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2244ab59352c79d4f9ceb45b02dadef6
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F75
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480ffcd36566f5d4c88735350bcf1308
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4545376e32938c14a98a1ea42f7e2500
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d9dd95995e1f42aa0f840241af8f0
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F78
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65235648ba5c68449443f695ea0a5c1
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F79
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017864783d8bbb8438ed287e34656899
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F80
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dc223e9be0d7e49b4dd404c925d366
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac74df35680554f8386cea34c99058
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28478d5a2a3c80b4da8dbb80abb93da0
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93619018f0d73d545b4aa6ed7fc1dc17
+      internalID: 21300540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dd68b3309c95c41ae37fbbeda25202
+      internalID: 21300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d143c6088bbb9e54284732b0259b4880
+      internalID: 21300544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d8a32abd04224e83aaefac30ac7de
+      internalID: 21300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c38803ff50824db123aad41a83782
+      internalID: 21300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F88
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a4af55e734f9d41a18e5dbd866f3ae
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e217f86951c050459448426e4722185
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F90
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b628a45e3e67c478a5510e49eb3ae3
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e6cb56e77a6140ab1bb330e9c18ee
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8bc5d58ad5d83499fdd6f4fa0ecf5d
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e267d71e8ff270a44bedbe69040ee026
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpyStrust_Explosion_Slowly_F94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8092f1e3cc4b44eb3703bfb08415c8
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6745a4b2921b01c4ba893ecf95e81f57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StumpyStrust_Explosion_Slowly_F32: 21300438
+      StumpyStrust_Explosion_Slowly_F51: 21300476
+      StumpyStrust_Explosion_Slowly_F09: 21300392
+      StumpyStrust_Explosion_Slowly_F72: 21300518
+      StumpyStrust_Explosion_Slowly_F80: 21300534
+      StumpyStrust_Explosion_Slowly_F79: 21300532
+      StumpyStrust_Explosion_Slowly_F44: 21300462
+      StumpyStrust_Explosion_Slowly_F59: 21300492
+      StumpyStrust_Explosion_Slowly_F73: 21300520
+      StumpyStrust_Explosion_Slowly_F49: 21300472
+      StumpyStrust_Explosion_Slowly_F31: 21300436
+      StumpyStrust_Explosion_Slowly_F64: 21300502
+      StumpyStrust_Explosion_Slowly_F81: 21300536
+      StumpyStrust_Explosion_Slowly_F29: 21300432
+      StumpyStrust_Explosion_Slowly_F87: 21300548
+      StumpyStrust_Explosion_Slowly_F33: 21300440
+      StumpyStrust_Explosion_Slowly_F67: 21300508
+      StumpyStrust_Explosion_Slowly_F16: 21300406
+      StumpyStrust_Explosion_Slowly_F88: 21300550
+      StumpyStrust_Explosion_Slowly_F70: 21300514
+      StumpyStrust_Explosion_Slowly_F35: 21300444
+      StumpyStrust_Explosion_Slowly_F56: 21300486
+      StumpyStrust_Explosion_Slowly_F24: 21300422
+      StumpyStrust_Explosion_Slowly_F30: 21300434
+      StumpyStrust_Explosion_Slowly_F19: 21300412
+      StumpyStrust_Explosion_Slowly_F65: 21300504
+      StumpyStrust_Explosion_Slowly_F47: 21300468
+      StumpyStrust_Explosion_Slowly_F91: 21300556
+      StumpyStrust_Explosion_Slowly_F52: 21300478
+      StumpyStrust_Explosion_Slowly_F27: 21300428
+      StumpyStrust_Explosion_Slowly_F61: 21300496
+      StumpyStrust_Explosion_Slowly_F50: 21300474
+      StumpyStrust_Explosion_Slowly_F45: 21300464
+      StumpyStrust_Explosion_Slowly_F43: 21300460
+      StumpyStrust_Explosion_Slowly_F08: 21300390
+      StumpyStrust_Explosion_Slowly_F62: 21300498
+      StumpyStrust_Explosion_Slowly_F14: 21300402
+      StumpyStrust_Explosion_Slowly_F85: 21300544
+      StumpyStrust_Explosion_Slowly_F21: 21300416
+      StumpyStrust_Explosion_Slowly_F18: 21300410
+      StumpyStrust_Explosion_Slowly_F38: 21300450
+      StumpyStrust_Explosion_Slowly_F93: 21300560
+      StumpyStrust_Explosion_Slowly_F12: 21300398
+      StumpyStrust_Explosion_Slowly_F42: 21300458
+      StumpyStrust_Explosion_Slowly_F06: 21300386
+      StumpyStrust_Explosion_Slowly_F28: 21300430
+      StumpyStrust_Explosion_Slowly_F57: 21300488
+      StumpyStrust_Explosion_Slowly_F68: 21300510
+      StumpyStrust_Explosion_Slowly_F94: 21300562
+      StumpyStrust_Explosion_Slowly_F48: 21300470
+      StumpyStrust_Explosion_Slowly_F76: 21300526
+      StumpyStrust_Explosion_Slowly_F77: 21300528
+      StumpyStrust_Explosion_Slowly_F46: 21300466
+      StumpyStrust_Explosion_Slowly_F04: 21300382
+      StumpyStrust_Explosion_Slowly_F13: 21300400
+      StumpyStrust_Explosion_Slowly_F36: 21300446
+      StumpyStrust_Explosion_Slowly_F83: 21300540
+      StumpyStrust_Explosion_Slowly_F54: 21300482
+      StumpyStrust_Explosion_Slowly_F26: 21300426
+      StumpyStrust_Explosion_Slowly_F22: 21300418
+      StumpyStrust_Explosion_Slowly_F17: 21300408
+      StumpyStrust_Explosion_Slowly_F66: 21300506
+      StumpyStrust_Explosion_Slowly_F55: 21300484
+      StumpyStrust_Explosion_Slowly_F34: 21300442
+      StumpyStrust_Explosion_Slowly_F90: 21300554
+      StumpyStrust_Explosion_Slowly_F05: 21300384
+      StumpyStrust_Explosion_Slowly_F39: 21300452
+      StumpyStrust_Explosion_Slowly_F74: 21300522
+      StumpyStrust_Explosion_Slowly_F37: 21300448
+      StumpyStrust_Explosion_Slowly_F53: 21300480
+      StumpyStrust_Explosion_Slowly_F71: 21300516
+      StumpyStrust_Explosion_Slowly_F89: 21300552
+      StumpyStrust_Explosion_Slowly_F40: 21300454
+      StumpyStrust_Explosion_Slowly_F01: 21300376
+      StumpyStrust_Explosion_Slowly_F03: 21300380
+      StumpyStrust_Explosion_Slowly_F78: 21300530
+      StumpyStrust_Explosion_Slowly_F58: 21300490
+      StumpyStrust_Explosion_Slowly_F86: 21300546
+      StumpyStrust_Explosion_Slowly_F10: 21300394
+      StumpyStrust_Explosion_Slowly_F15: 21300404
+      StumpyStrust_Explosion_Slowly_F25: 21300424
+      StumpyStrust_Explosion_Slowly_F20: 21300414
+      StumpyStrust_Explosion_Slowly_F60: 21300494
+      StumpyStrust_Explosion_Slowly_F07: 21300388
+      StumpyStrust_Explosion_Slowly_F84: 21300542
+      StumpyStrust_Explosion_Slowly_F92: 21300558
+      StumpyStrust_Explosion_Slowly_F82: 21300538
+      StumpyStrust_Explosion_Slowly_F63: 21300500
+      StumpyStrust_Explosion_Slowly_F02: 21300378
+      StumpyStrust_Explosion_Slowly_F41: 21300456
+      StumpyStrust_Explosion_Slowly_F75: 21300524
+      StumpyStrust_Explosion_Slowly_F23: 21300420
+      StumpyStrust_Explosion_Slowly_F69: 21300512
+      StumpyStrust_Explosion_Slowly_F11: 21300396
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

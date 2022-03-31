@@ -1,0 +1,2534 @@
+fileFormatVersion: 2
+guid: eb1e7b190bc641f28eeb3b49bbb165e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 000202
+  - first:
+      213: 21300002
+    second: 000203
+  - first:
+      213: 21300004
+    second: 000204
+  - first:
+      213: 21300006
+    second: 000205
+  - first:
+      213: 21300008
+    second: 000206
+  - first:
+      213: 21300010
+    second: 000207
+  - first:
+      213: 21300012
+    second: 000208
+  - first:
+      213: 21300014
+    second: 000209
+  - first:
+      213: 21300016
+    second: 000210
+  - first:
+      213: 21300018
+    second: 000211
+  - first:
+      213: 21300020
+    second: 000212
+  - first:
+      213: 21300022
+    second: 000213
+  - first:
+      213: 21300024
+    second: 000214
+  - first:
+      213: 21300026
+    second: 000215
+  - first:
+      213: 21300028
+    second: 000216
+  - first:
+      213: 21300030
+    second: 000217
+  - first:
+      213: 21300032
+    second: 000218
+  - first:
+      213: 21300034
+    second: 000219
+  - first:
+      213: 21300036
+    second: 000220
+  - first:
+      213: 21300038
+    second: 000221
+  - first:
+      213: 21300040
+    second: 000222
+  - first:
+      213: 21300042
+    second: 000223
+  - first:
+      213: 21300044
+    second: 000224
+  - first:
+      213: 21300046
+    second: 000225
+  - first:
+      213: 21300048
+    second: 000226
+  - first:
+      213: 21300050
+    second: 000227
+  - first:
+      213: 21300052
+    second: 000228
+  - first:
+      213: 21300054
+    second: 000229
+  - first:
+      213: 21300056
+    second: 000230
+  - first:
+      213: 21300058
+    second: 000231
+  - first:
+      213: 21300060
+    second: 000232
+  - first:
+      213: 21300062
+    second: 000233
+  - first:
+      213: 21300064
+    second: 000234
+  - first:
+      213: 21300066
+    second: 000235
+  - first:
+      213: 21300068
+    second: 000236
+  - first:
+      213: 21300070
+    second: 000237
+  - first:
+      213: 21300072
+    second: 000238
+  - first:
+      213: 21300074
+    second: 000239
+  - first:
+      213: 21300076
+    second: 000240
+  - first:
+      213: 21300078
+    second: 000241
+  - first:
+      213: 21300080
+    second: 000242
+  - first:
+      213: 21300082
+    second: 000243
+  - first:
+      213: 21300084
+    second: 000244
+  - first:
+      213: 21300086
+    second: 000245
+  - first:
+      213: 21300088
+    second: 000246
+  - first:
+      213: 21300090
+    second: 000247
+  - first:
+      213: 21300092
+    second: 000248
+  - first:
+      213: 21300094
+    second: 000249
+  - first:
+      213: 21300096
+    second: 000250
+  - first:
+      213: 21300098
+    second: 000251
+  - first:
+      213: 21300100
+    second: 000252
+  - first:
+      213: 21300102
+    second: 000253
+  - first:
+      213: 21300104
+    second: 000254
+  - first:
+      213: 21300106
+    second: 000255
+  - first:
+      213: 21300108
+    second: 000256
+  - first:
+      213: 21300110
+    second: 000257
+  - first:
+      213: 21300112
+    second: 000258
+  - first:
+      213: 21300114
+    second: 000259
+  - first:
+      213: 21300116
+    second: 000260
+  - first:
+      213: 21300118
+    second: 000261
+  - first:
+      213: 21300120
+    second: 000262
+  - first:
+      213: 21300122
+    second: 000263
+  - first:
+      213: 21300124
+    second: 000264
+  - first:
+      213: 21300126
+    second: 000265
+  - first:
+      213: 21300128
+    second: 000266
+  - first:
+      213: 21300130
+    second: 000267
+  - first:
+      213: 21300132
+    second: 000268
+  - first:
+      213: 21300134
+    second: 000269
+  - first:
+      213: 21300136
+    second: 000270
+  - first:
+      213: 21300138
+    second: 000271
+  - first:
+      213: 21300140
+    second: 000272
+  - first:
+      213: 21300142
+    second: 000273
+  - first:
+      213: 21300144
+    second: 000274
+  - first:
+      213: 21300146
+    second: 000275
+  - first:
+      213: 21300148
+    second: 000276
+  - first:
+      213: 21300150
+    second: 000277
+  - first:
+      213: 21300152
+    second: 000278
+  - first:
+      213: 21300154
+    second: 000279
+  - first:
+      213: 21300156
+    second: 000280
+  - first:
+      213: 21300158
+    second: 000281
+  - first:
+      213: 21300160
+    second: 000282
+  - first:
+      213: 21300162
+    second: 000283
+  - first:
+      213: 21300164
+    second: 000284
+  - first:
+      213: 21300166
+    second: 000285
+  - first:
+      213: 21300168
+    second: 000286
+  - first:
+      213: 21300170
+    second: 000287
+  - first:
+      213: 21300172
+    second: 000288
+  - first:
+      213: 21300174
+    second: Fscopel_ImpactUp_F01
+  - first:
+      213: 21300176
+    second: Fscopel_ImpactUp_F02
+  - first:
+      213: 21300178
+    second: Fscopel_ImpactUp_F03
+  - first:
+      213: 21300180
+    second: Fscopel_ImpactUp_F04
+  - first:
+      213: 21300182
+    second: Fscopel_ImpactUp_F05
+  - first:
+      213: 21300184
+    second: Fscopel_ImpactUp_F06
+  - first:
+      213: 21300186
+    second: Fscopel_ImpactUp_F07
+  - first:
+      213: 21300188
+    second: Fscopel_ImpactUp_F08
+  - first:
+      213: 21300190
+    second: Fscopel_ImpactUp_F09
+  - first:
+      213: 21300192
+    second: Fscopel_ImpactUp_F10
+  - first:
+      213: 21300194
+    second: Fscopel_ImpactUp_F11
+  - first:
+      213: 21300196
+    second: Fscopel_ImpactUp_F12
+  - first:
+      213: 21300198
+    second: Fscopel_ImpactUp_F13
+  - first:
+      213: 21300200
+    second: Fscopel_ImpactUp_F14
+  - first:
+      213: 21300202
+    second: Fscopel_ImpactUp_F15
+  - first:
+      213: 21300204
+    second: Fscopel_ImpactUp_F16
+  - first:
+      213: 21300206
+    second: Fscopel_ImpactUp_F17
+  - first:
+      213: 21300208
+    second: Fscopel_ImpactUp_F18
+  - first:
+      213: 21300210
+    second: Fscopel_ImpactUp_F19
+  - first:
+      213: 21300212
+    second: Fscopel_ImpactUp_F20
+  - first:
+      213: 21300214
+    second: Fscopel_ImpactUp_F21
+  - first:
+      213: 21300216
+    second: Fscopel_ImpactUp_F22
+  - first:
+      213: 21300218
+    second: Fscopel_ImpactUp_F23
+  - first:
+      213: 21300220
+    second: Fscopel_ImpactUp_F24
+  - first:
+      213: 21300222
+    second: Fscopel_ImpactUp_F25
+  - first:
+      213: 21300224
+    second: Fscopel_ImpactUp_F26
+  - first:
+      213: 21300226
+    second: Fscopel_ImpactUp_F27
+  - first:
+      213: 21300228
+    second: Fscopel_ImpactUp_F28
+  - first:
+      213: 21300230
+    second: Fscopel_ImpactUp_F29
+  - first:
+      213: 21300232
+    second: Fscopel_ImpactUp_F30
+  - first:
+      213: 21300234
+    second: Fscopel_ImpactUp_F31
+  - first:
+      213: 21300236
+    second: Fscopel_ImpactUp_F32
+  - first:
+      213: 21300238
+    second: Fscopel_ImpactUp_F33
+  - first:
+      213: 21300240
+    second: Fscopel_ImpactUp_F34
+  - first:
+      213: 21300242
+    second: Fscopel_ImpactUp_F35
+  - first:
+      213: 21300244
+    second: Fscopel_ImpactUp_F36
+  - first:
+      213: 21300246
+    second: Fscopel_ImpactUp_F37
+  - first:
+      213: 21300248
+    second: Fscopel_ImpactUp_F38
+  - first:
+      213: 21300250
+    second: Fscopel_ImpactUp_F39
+  - first:
+      213: 21300252
+    second: Fscopel_ImpactUp_F40
+  - first:
+      213: 21300254
+    second: Fscopel_ImpactUp_F41
+  - first:
+      213: 21300256
+    second: Fscopel_ImpactUp_F42
+  - first:
+      213: 21300258
+    second: Fscopel_ImpactUp_F43
+  - first:
+      213: 21300260
+    second: Fscopel_ImpactUp_F44
+  - first:
+      213: 21300262
+    second: Fscopel_ImpactUp_F45
+  - first:
+      213: 21300264
+    second: Fscopel_ImpactUp_F46
+  - first:
+      213: 21300266
+    second: Fscopel_ImpactUp_F47
+  - first:
+      213: 21300268
+    second: Fscopel_ImpactUp_F48
+  - first:
+      213: 21300270
+    second: Fscopel_ImpactUp_F49
+  - first:
+      213: 21300272
+    second: Fscopel_ImpactUp_F50
+  - first:
+      213: 21300274
+    second: Fscopel_ImpactUp_F51
+  - first:
+      213: 21300276
+    second: Fscopel_ImpactUp_F52
+  - first:
+      213: 21300278
+    second: Fscopel_ImpactUp_F53
+  - first:
+      213: 21300280
+    second: Fscopel_ImpactUp_F54
+  - first:
+      213: 21300282
+    second: Fscopel_ImpactUp_F55
+  - first:
+      213: 21300284
+    second: Fscopel_ImpactUp_F56
+  - first:
+      213: 21300286
+    second: Fscopel_ImpactUp_F57
+  - first:
+      213: 21300288
+    second: Fscopel_ImpactUp_F58
+  - first:
+      213: 21300290
+    second: Fscopel_ImpactUp_F59
+  - first:
+      213: 21300292
+    second: Fscopel_ImpactUp_F60
+  - first:
+      213: 21300294
+    second: Fscopel_ImpactUp_F61
+  - first:
+      213: 21300296
+    second: Fscopel_ImpactUp_F62
+  - first:
+      213: 21300298
+    second: Fscopel_ImpactUp_F63
+  - first:
+      213: 21300300
+    second: Fscopel_ImpactUp_F64
+  - first:
+      213: 21300302
+    second: Fscopel_ImpactUp_F65
+  - first:
+      213: 21300304
+    second: Fscopel_ImpactUp_F66
+  - first:
+      213: 21300306
+    second: Fscopel_ImpactUp_F67
+  - first:
+      213: 21300308
+    second: Fscopel_ImpactUp_F68
+  - first:
+      213: 21300310
+    second: Fscopel_ImpactUp_F69
+  - first:
+      213: 21300312
+    second: Fscopel_ImpactUp_F70
+  - first:
+      213: 21300314
+    second: Fscopel_ImpactUp_F71
+  - first:
+      213: 21300316
+    second: Fscopel_ImpactUp_F72
+  - first:
+      213: 21300318
+    second: Fscopel_ImpactUp_F73
+  - first:
+      213: 21300320
+    second: Fscopel_ImpactUp_F74
+  - first:
+      213: 21300322
+    second: Fscopel_ImpactUp_F75
+  - first:
+      213: 21300324
+    second: Fscopel_ImpactUp_F76
+  - first:
+      213: 21300326
+    second: Fscopel_ImpactUp_F77
+  - first:
+      213: 21300328
+    second: Fscopel_ImpactUp_F78
+  - first:
+      213: 21300330
+    second: Fscopel_ImpactUp_F79
+  - first:
+      213: 21300332
+    second: Fscopel_ImpactUp_F80
+  - first:
+      213: 21300334
+    second: Fscopel_ImpactUp_F81
+  - first:
+      213: 21300336
+    second: Fscopel_ImpactUp_F82
+  - first:
+      213: 21300338
+    second: Fscopel_ImpactUp_F83
+  - first:
+      213: 21300340
+    second: Fscopel_ImpactUp_F84
+  - first:
+      213: 21300342
+    second: Fscopel_ImpactUp_F85
+  - first:
+      213: 21300344
+    second: Fscopel_ImpactUp_F86
+  - first:
+      213: 21300346
+    second: Fscopel_ImpactUp_F87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d6ff159829fcb4988ca1288259aebc
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c444cf8e04c18c6448520f5078d2cf6f
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d69c3dbb1b38e4d9bd9a3cf12e4922
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eff4f59a7ae2fc4eb9f4e786aecc974
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86bf81e148ff674b8cb92cbd47a4468
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F06
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ed1217f4d763f4c844ee1bc4f68c94
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F07
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b359c528df693d7419a3ecf4ec3f4aa4
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F08
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd406184665054f945e45443aefc46
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F09
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 769
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6bba1b5490f5d479b82c22f1dd1767
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da495aec56cae6c41a554df9dbb14cff
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175f47e032f35d24aae11867d2843232
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e2e2525391d542aac07c39d8c421c
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593bf4fa1d2c0b94cb42bf6b317d8a7b
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56244bfbe0ffaac47a33ebd5e6150d9f
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624e355e175942e4080a6fd22b00b2ff
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f30c451f10bed46a9715f0cf017f47
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3492944364446f46bbccd4fc27ca7f3
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02b8f20b97ae2b4db63fbad57c3f599
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768a7316d22628444b0ae7c236b8507f
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7097053e3769604791b7af86de418a5
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6091dd24c6653f145bc17ab7d4edf83d
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60cc10ae024c404eb97b1af0cc841aa
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd701991807e354c8cc74d456cba699
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad5e4bcd82f8684490842e12fc3c3ec
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71f0c270f91bf44b7a7f321f7751de
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca75ebb8c65a04c9aea5536e8af39c
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cbd9f3fd67cdf46b532370dea6c22d
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369d463a26934b41b3a14b8438ef8b1
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accdb9266c38bf54c8366d529e50c663
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acee5f9de96b4f45b950bc2bb69e3ec
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26876b65c2567714fb66549d9a4c0ee1
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b9930b803cd3241bfe7197b5789794
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558890a7bd872a845b272ac93e574466
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16703ab31a61d43a025df70761d81d
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750e90b64a1bef3438006fe03eefe19b
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fe972a6b35c27468096fdb5139d0d2
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66513d57d6e2694b8e36f0c284678af
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b34d7428bcfe740ace288a11ba2520
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870cf6ba601f10144adedd63b7c8640c
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60c0969d05844449ab3935fa0682d43
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957228770aef0b4e8bcd8430b30d76e
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48222392a2f4e141ba273f060f049bc
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1807ff43575e4cbea67f6bd9ba4a8
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2faf9b1bb465a4382b06e1b2cc8e74
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F45
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3317a75bc62c554a8994952d9927bfc
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c66b977b2d79874cb8cf970b4b8ff24
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45c88a4f3e5b2841a5640ef72af304b
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a98a4f7ba03764a94dd69f60a19397
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0f1af688cdfc449a684a76a810c8de
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841436a2c74bead49aa7930214450f23
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90449ec3b42b42b44bc9e63bd2d8f0ef
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc44614a59b798498e72a22eefbb47b
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17532fbcf67bc4b4ca486d89d5723ee0
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F54
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600f823bc59e5f4c84eaad1361cfd82
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e22107dc4fe84b8fb8cabd88141b5
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d3ba6b3dbb5640a7fd6d034570da8
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f01bc40af3e7484a87e068e8c6c0c09
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c53204c8557d3948bddf2a4eb33aca6
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6062b7829a59da74c9b48d76522d4466
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976d1a6ce3e647d47a6e8e123e303b1a
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e17afb1ea7df4429e9f38bb673643d
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1dc0a945beb124b91d28db033b4426
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F63
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5636d58482a0a614d934d9c0d856c181
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5af2d8cde422814495902406e77649f
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa94f1adffbe3409e5b6103d4f14a9
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94929c12dee138640a24a04dc2ebc186
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ce61b5c2507cc4abd6d995eaa5e365
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0163a08c78b80445a385178a1686b77
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180ec23e6e9a0b048b667b6e8c8b8c0c
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef804d1383288f4d81316c06b785724
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29abf45cebf2d8a429bdd831349975f3
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162b030a6f1952a43815fdb4da4d95a3
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d971fff525f12a04d9a2c885f826ce92
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7981db9ba0b783043a5e94d8beada2c4
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe1e07f6d7e794fa5cc96b0cdd9b5e
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b0e06cdf00286409c617a1c9bed596
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a7e4089d4dd3741b65cb938033d3fe
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8597a776ee8e47854b6d558ba2b4a
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F79
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bc37694a232624396a910235e3ffdd
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F80
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8467190c6252abc43b6e24d199e8129a
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F81
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee52051911ebe54ea26eb4c3e5c27d4
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6a6de555925b6429f69704173e6b90
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b94d970a224984f954f95a7b56830c
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae279846cb2a24ebd875de43ebf5ee
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a906a4bda48be0418e1d373fc8bcef3
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f554f41d0a832f341a321e00171f53c9
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ImpactUp_F87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd34d7e5460c2214fa6ec4f7f29ab2c2
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fscopel_ImpactUp_F76: 21300324
+      Fscopel_ImpactUp_F82: 21300336
+      Fscopel_ImpactUp_F23: 21300218
+      Fscopel_ImpactUp_F77: 21300326
+      Fscopel_ImpactUp_F10: 21300192
+      Fscopel_ImpactUp_F14: 21300200
+      Fscopel_ImpactUp_F70: 21300312
+      Fscopel_ImpactUp_F15: 21300202
+      Fscopel_ImpactUp_F85: 21300342
+      Fscopel_ImpactUp_F12: 21300196
+      Fscopel_ImpactUp_F19: 21300210
+      Fscopel_ImpactUp_F60: 21300292
+      Fscopel_ImpactUp_F71: 21300314
+      Fscopel_ImpactUp_F26: 21300224
+      Fscopel_ImpactUp_F50: 21300272
+      Fscopel_ImpactUp_F57: 21300286
+      Fscopel_ImpactUp_F54: 21300280
+      Fscopel_ImpactUp_F74: 21300320
+      Fscopel_ImpactUp_F24: 21300220
+      Fscopel_ImpactUp_F72: 21300316
+      Fscopel_ImpactUp_F17: 21300206
+      Fscopel_ImpactUp_F49: 21300270
+      Fscopel_ImpactUp_F38: 21300248
+      Fscopel_ImpactUp_F32: 21300236
+      Fscopel_ImpactUp_F63: 21300298
+      Fscopel_ImpactUp_F73: 21300318
+      Fscopel_ImpactUp_F27: 21300226
+      Fscopel_ImpactUp_F04: 21300180
+      Fscopel_ImpactUp_F09: 21300190
+      Fscopel_ImpactUp_F39: 21300250
+      Fscopel_ImpactUp_F41: 21300254
+      Fscopel_ImpactUp_F25: 21300222
+      Fscopel_ImpactUp_F34: 21300240
+      Fscopel_ImpactUp_F67: 21300306
+      Fscopel_ImpactUp_F30: 21300232
+      Fscopel_ImpactUp_F20: 21300212
+      Fscopel_ImpactUp_F02: 21300176
+      Fscopel_ImpactUp_F29: 21300230
+      Fscopel_ImpactUp_F48: 21300268
+      Fscopel_ImpactUp_F68: 21300308
+      Fscopel_ImpactUp_F01: 21300174
+      Fscopel_ImpactUp_F37: 21300246
+      Fscopel_ImpactUp_F31: 21300234
+      Fscopel_ImpactUp_F22: 21300216
+      Fscopel_ImpactUp_F40: 21300252
+      Fscopel_ImpactUp_F28: 21300228
+      Fscopel_ImpactUp_F80: 21300332
+      Fscopel_ImpactUp_F59: 21300290
+      Fscopel_ImpactUp_F16: 21300204
+      Fscopel_ImpactUp_F86: 21300344
+      Fscopel_ImpactUp_F66: 21300304
+      Fscopel_ImpactUp_F35: 21300242
+      Fscopel_ImpactUp_F06: 21300184
+      Fscopel_ImpactUp_F46: 21300264
+      Fscopel_ImpactUp_F07: 21300186
+      Fscopel_ImpactUp_F75: 21300322
+      Fscopel_ImpactUp_F53: 21300278
+      Fscopel_ImpactUp_F21: 21300214
+      Fscopel_ImpactUp_F45: 21300262
+      Fscopel_ImpactUp_F58: 21300288
+      Fscopel_ImpactUp_F43: 21300258
+      Fscopel_ImpactUp_F62: 21300296
+      Fscopel_ImpactUp_F47: 21300266
+      Fscopel_ImpactUp_F65: 21300302
+      Fscopel_ImpactUp_F56: 21300284
+      Fscopel_ImpactUp_F03: 21300178
+      Fscopel_ImpactUp_F52: 21300276
+      Fscopel_ImpactUp_F87: 21300346
+      Fscopel_ImpactUp_F64: 21300300
+      Fscopel_ImpactUp_F11: 21300194
+      Fscopel_ImpactUp_F36: 21300244
+      Fscopel_ImpactUp_F55: 21300282
+      Fscopel_ImpactUp_F05: 21300182
+      Fscopel_ImpactUp_F83: 21300338
+      Fscopel_ImpactUp_F51: 21300274
+      Fscopel_ImpactUp_F81: 21300334
+      Fscopel_ImpactUp_F18: 21300208
+      Fscopel_ImpactUp_F13: 21300198
+      Fscopel_ImpactUp_F84: 21300340
+      Fscopel_ImpactUp_F33: 21300238
+      Fscopel_ImpactUp_F44: 21300260
+      Fscopel_ImpactUp_F08: 21300188
+      Fscopel_ImpactUp_F42: 21300256
+      Fscopel_ImpactUp_F61: 21300294
+      Fscopel_ImpactUp_F79: 21300330
+      Fscopel_ImpactUp_F78: 21300328
+      Fscopel_ImpactUp_F69: 21300310
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

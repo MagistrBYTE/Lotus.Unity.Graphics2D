@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 25da94d1fcef4bce9dbc759e0d019a26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Chabull_Muzzle_F01
+  - first:
+      213: 21300002
+    second: Chabull_Muzzle_F02
+  - first:
+      213: 21300004
+    second: Chabull_Muzzle_F03
+  - first:
+      213: 21300006
+    second: Chabull_Muzzle_F04
+  - first:
+      213: 21300008
+    second: Chabull_Muzzle_F05
+  - first:
+      213: 21300010
+    second: Chabull_Muzzle_F06
+  - first:
+      213: 21300012
+    second: Chabull_Muzzle_F07
+  - first:
+      213: 21300014
+    second: Chabull_Muzzle_F08
+  - first:
+      213: 21300016
+    second: Chabull_Muzzle_F09
+  - first:
+      213: 21300018
+    second: Chabull_Muzzle_F10
+  - first:
+      213: 21300020
+    second: Chabull_Muzzle_F11
+  - first:
+      213: 21300022
+    second: Chabull_Muzzle_F12
+  - first:
+      213: 21300024
+    second: Chabull_Muzzle_F13
+  - first:
+      213: 21300026
+    second: Chabull_Muzzle_F14
+  - first:
+      213: 21300028
+    second: Chabull_Muzzle_F15
+  - first:
+      213: 21300030
+    second: Chabull_Muzzle_F16
+  - first:
+      213: 21300032
+    second: Chabull_Muzzle_F17
+  - first:
+      213: 21300034
+    second: Chabull_Muzzle_F18
+  - first:
+      213: 21300036
+    second: Chabull_Muzzle_F19
+  - first:
+      213: 21300038
+    second: Chabull_Muzzle_F20
+  - first:
+      213: 21300040
+    second: Chabull_Muzzle_F21
+  - first:
+      213: 21300042
+    second: Chabull_Muzzle_F22
+  - first:
+      213: 21300044
+    second: Chabull_Muzzle_F23
+  - first:
+      213: -1482405226145656757
+    second: Chabull_Muzzle-Sheet_0
+  - first:
+      213: -1681318346398973778
+    second: Chabull_Muzzle-Sheet_1
+  - first:
+      213: -6956134041731039607
+    second: Chabull_Muzzle-Sheet_2
+  - first:
+      213: -7131510810845842771
+    second: Chabull_Muzzle-Sheet_3
+  - first:
+      213: 7045346378349180808
+    second: Chabull_Muzzle-Sheet_4
+  - first:
+      213: 482761813659434034
+    second: Chabull_Muzzle-Sheet_5
+  - first:
+      213: 7469193424302474072
+    second: Chabull_Muzzle-Sheet_6
+  - first:
+      213: 1809429211823980146
+    second: Chabull_Muzzle-Sheet_7
+  - first:
+      213: 8591168424973477127
+    second: Chabull_Muzzle-Sheet_8
+  - first:
+      213: 5788058720515072383
+    second: Chabull_Muzzle-Sheet_9
+  - first:
+      213: -8783979711304194014
+    second: Chabull_Muzzle-Sheet_10
+  - first:
+      213: 5187483530738408442
+    second: Chabull_Muzzle-Sheet_11
+  - first:
+      213: -5488103924985244941
+    second: Chabull_Muzzle-Sheet_12
+  - first:
+      213: -1086828892073981748
+    second: Chabull_Muzzle-Sheet_13
+  - first:
+      213: 7568619062541696031
+    second: Chabull_Muzzle-Sheet_14
+  - first:
+      213: 1095601702484154372
+    second: Chabull_Muzzle-Sheet_15
+  - first:
+      213: 252187841707450782
+    second: Chabull_Muzzle-Sheet_16
+  - first:
+      213: -1946892690121084611
+    second: Chabull_Muzzle-Sheet_17
+  - first:
+      213: 8989665547779054588
+    second: Chabull_Muzzle-Sheet_18
+  - first:
+      213: 4394725858231093446
+    second: Chabull_Muzzle-Sheet_19
+  - first:
+      213: -6347866660047047538
+    second: Chabull_Muzzle-Sheet_20
+  - first:
+      213: -2247236089773313571
+    second: Chabull_Muzzle-Sheet_21
+  - first:
+      213: -6676785925690106385
+    second: Chabull_Muzzle-Sheet_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d76a0d407d6be0800000000000000
+      internalID: -1482405226145656757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ca883fd1caa8e0800000000000000
+      internalID: -1681318346398973778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7e98b1f8d67f90800000000000000
+      internalID: -6956134041731039607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2fcafa3b8c70d90800000000000000
+      internalID: -7131510810845842771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877619043916c160800000000000000
+      internalID: 7045346378349180808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c3b4ecf4d13b600800000000000000
+      internalID: 482761813659434034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538b3e88d7e7a760800000000000000
+      internalID: 7469193424302474072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ebbf808426c1910800000000000000
+      internalID: 1809429211823980146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705a8102a26f93770800000000000000
+      internalID: 8591168424973477127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7127676db0535050800000000000000
+      internalID: 5788058720515072383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a979fdf8091680800000000000000
+      internalID: -8783979711304194014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb1ad769c4adf740800000000000000
+      internalID: 5187483530738408442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d3d4be8656d3b0800000000000000
+      internalID: -5488103924985244941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc88c4481eecae0f0800000000000000
+      internalID: -1086828892073981748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c3c07efe2290960800000000000000
+      internalID: 7568619062541696031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40891e391fb543f00800000000000000
+      internalID: 1095601702484154372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9125a18183ff7300800000000000000
+      internalID: 252187841707450782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313785d96f3bf4e0800000000000000
+      internalID: -1946892690121084611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb10f8bf25b1cc70800000000000000
+      internalID: 8989665547779054588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8861142e33dfc30800000000000000
+      internalID: 4394725858231093446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b956b7e8d7e7a0800000000000000
+      internalID: -6347866660047047538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1bf96cea630d0e0800000000000000
+      internalID: -2247236089773313571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chabull_Muzzle-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd9e1639a4753a0800000000000000
+      internalID: -6676785925690106385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 838a6e6ebabf48b4799adc700a3aa5b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chabull_Muzzle-Sheet_7: 1809429211823980146
+      Chabull_Muzzle-Sheet_9: 5788058720515072383
+      Chabull_Muzzle-Sheet_16: 252187841707450782
+      Chabull_Muzzle-Sheet_17: -1946892690121084611
+      Chabull_Muzzle-Sheet_11: 5187483530738408442
+      Chabull_Muzzle-Sheet_14: 7568619062541696031
+      Chabull_Muzzle-Sheet_18: 8989665547779054588
+      Chabull_Muzzle-Sheet_13: -1086828892073981748
+      Chabull_Muzzle-Sheet_6: 7469193424302474072
+      Chabull_Muzzle-Sheet_4: 7045346378349180808
+      Chabull_Muzzle-Sheet_5: 482761813659434034
+      Chabull_Muzzle-Sheet_3: -7131510810845842771
+      Chabull_Muzzle-Sheet_15: 1095601702484154372
+      Chabull_Muzzle-Sheet_22: -6676785925690106385
+      Chabull_Muzzle-Sheet_1: -1681318346398973778
+      Chabull_Muzzle-Sheet_0: -1482405226145656757
+      Chabull_Muzzle-Sheet_20: -6347866660047047538
+      Chabull_Muzzle-Sheet_21: -2247236089773313571
+      Chabull_Muzzle-Sheet_2: -6956134041731039607
+      Chabull_Muzzle-Sheet_10: -8783979711304194014
+      Chabull_Muzzle-Sheet_12: -5488103924985244941
+      Chabull_Muzzle-Sheet_19: 4394725858231093446
+      Chabull_Muzzle-Sheet_8: 8591168424973477127
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

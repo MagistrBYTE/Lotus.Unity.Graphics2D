@@ -1,0 +1,23 @@
+{
+    "name": "com.magistrbyte.cubexgraphics2d",
+    "version": "1.0.0",
+    "displayName": "CubeXGraphics2D",
+    "description": "General set Graphics2D for Unity",
+    "unity": "2019.1",
+
+    "dependencies": {
+        "com.magistrbyte.cubexbasis": "1.0.0"
+    },
+
+    "keywords": [
+        "ElementUI",
+        "IMGUI",
+        "Sprite",
+        "ScreenGame"
+    ],
+    "author": {
+        "name": "MagistrBYTE aka DanielDem",
+        "email": "dementevds@gmail.com"
+    },
+    "type": "library"
+}

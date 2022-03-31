@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 9324a1b947dd528419d8bd3a1e20c1d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PSystem41156_0
+  - first:
+      213: 21300002
+    second: PSystem41156_1
+  - first:
+      213: 21300004
+    second: PSystem41156_2
+  - first:
+      213: 21300006
+    second: PSystem41156_3
+  - first:
+      213: 21300008
+    second: PSystem41156_4
+  - first:
+      213: 21300010
+    second: PSystem41156_5
+  - first:
+      213: 21300012
+    second: PSystem41156_6
+  - first:
+      213: 21300014
+    second: PSystem41156_7
+  - first:
+      213: 21300016
+    second: PSystem41156_8
+  - first:
+      213: 21300018
+    second: PSystem41156_9
+  - first:
+      213: 21300020
+    second: PSystem41156_10
+  - first:
+      213: 21300022
+    second: PSystem41156_11
+  - first:
+      213: 21300024
+    second: PSystem41156_12
+  - first:
+      213: 21300026
+    second: PSystem41156_13
+  - first:
+      213: 21300028
+    second: PSystem41156_14
+  - first:
+      213: 21300030
+    second: PSystem41156_15
+  - first:
+      213: 21300032
+    second: PSystem41156_16
+  - first:
+      213: 21300034
+    second: PSystem41156_17
+  - first:
+      213: 21300036
+    second: PSystem41156_18
+  - first:
+      213: 21300038
+    second: PSystem41156_19
+  - first:
+      213: 21300040
+    second: ElricJohan_Love2_01F
+  - first:
+      213: 21300042
+    second: ElricJohan_Love2_02F
+  - first:
+      213: 21300044
+    second: ElricJohan_Love2_03F
+  - first:
+      213: 21300046
+    second: ElricJohan_Love2_04F
+  - first:
+      213: 21300048
+    second: ElricJohan_Love2_05F
+  - first:
+      213: 21300050
+    second: ElricJohan_Love2_06F
+  - first:
+      213: 21300052
+    second: ElricJohan_Love2_07F
+  - first:
+      213: 21300054
+    second: ElricJohan_Love2_08F
+  - first:
+      213: 21300056
+    second: ElricJohan_Love2_09F
+  - first:
+      213: 21300058
+    second: ElricJohan_Love2_010F
+  - first:
+      213: 21300060
+    second: ElricJohan_Love2_011F
+  - first:
+      213: 21300062
+    second: ElricJohan_Love2_012F
+  - first:
+      213: 21300064
+    second: ElricJohan_Love2_013F
+  - first:
+      213: 21300066
+    second: ElricJohan_Love2_014F
+  - first:
+      213: 21300068
+    second: ElricJohan_Love2_015F
+  - first:
+      213: 21300070
+    second: ElricJohan_Love2_016F
+  - first:
+      213: 21300072
+    second: ElricJohan_Love2_017F
+  - first:
+      213: 21300074
+    second: ElricJohan_Love2_018F
+  - first:
+      213: 21300076
+    second: ElricJohan_Love2_019F
+  - first:
+      213: 21300078
+    second: ElricJohan_Love2_020F
+  - first:
+      213: 21300080
+    second: ElricJohan_Love2_F01
+  - first:
+      213: 21300082
+    second: ElricJohan_Love2_F02
+  - first:
+      213: 21300084
+    second: ElricJohan_Love2_F03
+  - first:
+      213: 21300086
+    second: ElricJohan_Love2_F04
+  - first:
+      213: 21300088
+    second: ElricJohan_Love2_F05
+  - first:
+      213: 21300090
+    second: ElricJohan_Love2_F06
+  - first:
+      213: 21300092
+    second: ElricJohan_Love2_F07
+  - first:
+      213: 21300094
+    second: ElricJohan_Love2_F08
+  - first:
+      213: 21300096
+    second: ElricJohan_Love2_F09
+  - first:
+      213: 21300098
+    second: ElricJohan_Love2_F10
+  - first:
+      213: 21300100
+    second: ElricJohan_Love2_F11
+  - first:
+      213: 21300102
+    second: ElricJohan_Love2_F12
+  - first:
+      213: 21300104
+    second: ElricJohan_Love2_F13
+  - first:
+      213: 21300106
+    second: ElricJohan_Love2_F14
+  - first:
+      213: 21300108
+    second: ElricJohan_Love2_F15
+  - first:
+      213: 21300110
+    second: ElricJohan_Love2_F16
+  - first:
+      213: 21300112
+    second: ElricJohan_Love2_F17
+  - first:
+      213: 21300114
+    second: ElricJohan_Love2_F18
+  - first:
+      213: 21300116
+    second: ElricJohan_Love2_F19
+  - first:
+      213: 21300118
+    second: ElricJohan_Love2_F20
+  - first:
+      213: 21300120
+    second: ElricJohan_Love_02_F01
+  - first:
+      213: 21300122
+    second: ElricJohan_Love_02_F02
+  - first:
+      213: 21300124
+    second: ElricJohan_Love_02_F03
+  - first:
+      213: 21300126
+    second: ElricJohan_Love_02_F04
+  - first:
+      213: 21300128
+    second: ElricJohan_Love_02_F05
+  - first:
+      213: 21300130
+    second: ElricJohan_Love_02_F06
+  - first:
+      213: 21300132
+    second: ElricJohan_Love_02_F07
+  - first:
+      213: 21300134
+    second: ElricJohan_Love_02_F08
+  - first:
+      213: 21300136
+    second: ElricJohan_Love_02_F09
+  - first:
+      213: 21300138
+    second: ElricJohan_Love_02_F10
+  - first:
+      213: 21300140
+    second: ElricJohan_Love_02_F11
+  - first:
+      213: 21300142
+    second: ElricJohan_Love_02_F12
+  - first:
+      213: 21300144
+    second: ElricJohan_Love_02_F13
+  - first:
+      213: 21300146
+    second: ElricJohan_Love_02_F14
+  - first:
+      213: 21300148
+    second: ElricJohan_Love_02_F15
+  - first:
+      213: 21300150
+    second: ElricJohan_Love_02_F16
+  - first:
+      213: 21300152
+    second: ElricJohan_Love_02_F17
+  - first:
+      213: 21300154
+    second: ElricJohan_Love_02_F18
+  - first:
+      213: 21300156
+    second: ElricJohan_Love_02_F19
+  - first:
+      213: 21300158
+    second: ElricJohan_Love_02_F20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc3690a3d07854595cdc7687d4fab6
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22182d72b052c274e8cd27b71ca018f9
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5217ce07de4d91748ab5b7dbfb8b3d73
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110778cb0e9289c4ba3c83148312122b
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807657f3fff271a42841a43d2eb9f2b5
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F06
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa376d3781fd62438ed17999568c5ff
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F07
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765a83ab851a9f74b8cf1f1bba32a531
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F08
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6abde418c51147b07c7d28f50e518
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F09
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6482cb1058e16b8498879270561a4271
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c43facc5833e1a4691fbd695ca17925
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262ba9450ca8ed340896b439e5b1f4a6
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df112d4cdbf3942b628657f1601eed
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2364001ad69431045a286461c100ae00
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d17d0e53eae8748b456da8bbbea3ae
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca75f473fb2374d8627ce3d47c0083
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecd299e01ab4d944a2d09658d36699e
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd4a3523bb11b549ac92b69496441ed
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a38df31bcea4443aea4bc5142d9059
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f291761cebb92bf4a81c5fb5a61f9fb8
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Love_02_F20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594cf6d70134773459a12d282c376673
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b09f99cb8cd05544db60204d6f832a78
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElricJohan_Love_02_F07: 21300132
+      ElricJohan_Love_02_F15: 21300148
+      ElricJohan_Love_02_F06: 21300130
+      ElricJohan_Love_02_F16: 21300150
+      ElricJohan_Love_02_F01: 21300120
+      ElricJohan_Love_02_F19: 21300156
+      ElricJohan_Love_02_F04: 21300126
+      ElricJohan_Love_02_F02: 21300122
+      ElricJohan_Love_02_F10: 21300138
+      ElricJohan_Love_02_F18: 21300154
+      ElricJohan_Love_02_F09: 21300136
+      ElricJohan_Love_02_F17: 21300152
+      ElricJohan_Love_02_F14: 21300146
+      ElricJohan_Love_02_F03: 21300124
+      ElricJohan_Love_02_F12: 21300142
+      ElricJohan_Love_02_F11: 21300140
+      ElricJohan_Love_02_F20: 21300158
+      ElricJohan_Love_02_F05: 21300128
+      ElricJohan_Love_02_F13: 21300144
+      ElricJohan_Love_02_F08: 21300134
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

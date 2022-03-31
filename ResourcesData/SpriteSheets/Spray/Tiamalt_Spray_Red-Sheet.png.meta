@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: 62928765740b4058b340d3623fec488d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: red_snakeplosion_00001
+  - first:
+      213: 21300002
+    second: red_snakeplosion_00002
+  - first:
+      213: 21300004
+    second: red_snakeplosion_00003
+  - first:
+      213: 21300006
+    second: red_snakeplosion_00004
+  - first:
+      213: 21300008
+    second: red_snakeplosion_00005
+  - first:
+      213: 21300010
+    second: red_snakeplosion_00006
+  - first:
+      213: 21300012
+    second: red_snakeplosion_00007
+  - first:
+      213: 21300014
+    second: red_snakeplosion_00008
+  - first:
+      213: 21300016
+    second: red_snakeplosion_00009
+  - first:
+      213: 21300018
+    second: red_snakeplosion_00010
+  - first:
+      213: 21300020
+    second: red_snakeplosion_00011
+  - first:
+      213: 21300022
+    second: red_snakeplosion_00012
+  - first:
+      213: 21300024
+    second: red_snakeplosion_00013
+  - first:
+      213: 21300026
+    second: red_snakeplosion_00014
+  - first:
+      213: 21300028
+    second: red_snakeplosion_00015
+  - first:
+      213: 21300030
+    second: red_snakeplosion_00016
+  - first:
+      213: 21300032
+    second: red_snakeplosion_00017
+  - first:
+      213: 21300034
+    second: red_snakeplosion_00018
+  - first:
+      213: 21300036
+    second: red_snakeplosion_00019
+  - first:
+      213: 21300038
+    second: red_snakeplosion_00020
+  - first:
+      213: 21300040
+    second: red_snakeplosion_00021
+  - first:
+      213: 21300042
+    second: red_snakeplosion_00022
+  - first:
+      213: 21300044
+    second: red_snakeplosion_00023
+  - first:
+      213: 21300046
+    second: red_snakeplosion_00024
+  - first:
+      213: 21300048
+    second: Tiamalt_Spray_Red_F01
+  - first:
+      213: 21300050
+    second: Tiamalt_Spray_Red_F02
+  - first:
+      213: 21300052
+    second: Tiamalt_Spray_Red_F03
+  - first:
+      213: 21300054
+    second: Tiamalt_Spray_Red_F04
+  - first:
+      213: 21300056
+    second: Tiamalt_Spray_Red_F05
+  - first:
+      213: 21300058
+    second: Tiamalt_Spray_Red_F06
+  - first:
+      213: 21300060
+    second: Tiamalt_Spray_Red_F07
+  - first:
+      213: 21300062
+    second: Tiamalt_Spray_Red_F08
+  - first:
+      213: 21300064
+    second: Tiamalt_Spray_Red_F09
+  - first:
+      213: 21300066
+    second: Tiamalt_Spray_Red_F10
+  - first:
+      213: 21300068
+    second: Tiamalt_Spray_Red_F11
+  - first:
+      213: 21300070
+    second: Tiamalt_Spray_Red_F12
+  - first:
+      213: 21300072
+    second: Tiamalt_Spray_Red_F13
+  - first:
+      213: 21300074
+    second: Tiamalt_Spray_Red_F14
+  - first:
+      213: 21300076
+    second: Tiamalt_Spray_Red_F15
+  - first:
+      213: 21300078
+    second: Tiamalt_Spray_Red_F16
+  - first:
+      213: 21300080
+    second: Tiamalt_Spray_Red_F17
+  - first:
+      213: 21300082
+    second: Tiamalt_Spray_Red_F18
+  - first:
+      213: 21300084
+    second: Tiamalt_Spray_Red_F19
+  - first:
+      213: 21300086
+    second: Tiamalt_Spray_Red_F20
+  - first:
+      213: 21300088
+    second: Tiamalt_Spray_Red_F21
+  - first:
+      213: 21300090
+    second: Tiamalt_Spray_Red_F22
+  - first:
+      213: 21300092
+    second: Tiamalt_Spray_Red_F23
+  - first:
+      213: 21300094
+    second: Tiamalt_Spray_Red_F24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b5ed39a1b28fd49ac91c3f0e54df38
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fbfddd5bd0d6146a5e88a63235cf80
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66e8ea364f95f4d8cc4291db69e533
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F04
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091da693505ca494689796957d142132
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F05
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cf95039306c11418ba86d5ada1b95d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F06
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a8896ab371a54a89c1a4453fb0f02
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001dfc8a8acb1474d9e5fc07e3124a4d
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F08
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78053753959d87944aaee8bef59270de
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F09
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f539309e5c15d4a92ce214778e53cc
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8e1159105ffdb4eb9e8df83ed43909
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3881b60aef4780c43968b177e4c0e68f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cb7748cbb902c4b90c42edaa098d9b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a089352a21f7c0e4f987397043b13289
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847796749d1295f49bd4b81889d00bf5
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6639bcdf0851c24e8036cba94498d8a
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b423519f63ad9034f9a0d1579aba433b
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ded5a4ff9d5764fa7f668aa0d9b50b
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b06a59d083d34f48b834e87f28f1fb0
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235bfd01454704d4c89cacac2b85da82
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ff3a98a3e0b7459724a28c8a31702
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b9d829ad1dfa408ad88ed8d4c37cd
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1465cea81a8409843a93baa153084dc8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005ff25db6952a9419ab120152738b02
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Red_F24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ab463bd1da3b74d9b0f11d6bea193c
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiamalt_Spray_Red_F21: 21300088
+      Tiamalt_Spray_Red_F01: 21300048
+      Tiamalt_Spray_Red_F02: 21300050
+      Tiamalt_Spray_Red_F03: 21300052
+      Tiamalt_Spray_Red_F04: 21300054
+      Tiamalt_Spray_Red_F24: 21300094
+      Tiamalt_Spray_Red_F08: 21300062
+      Tiamalt_Spray_Red_F12: 21300070
+      Tiamalt_Spray_Red_F20: 21300086
+      Tiamalt_Spray_Red_F06: 21300058
+      Tiamalt_Spray_Red_F15: 21300076
+      Tiamalt_Spray_Red_F22: 21300090
+      Tiamalt_Spray_Red_F05: 21300056
+      Tiamalt_Spray_Red_F09: 21300064
+      Tiamalt_Spray_Red_F19: 21300084
+      Tiamalt_Spray_Red_F11: 21300068
+      Tiamalt_Spray_Red_F14: 21300074
+      Tiamalt_Spray_Red_F18: 21300082
+      Tiamalt_Spray_Red_F16: 21300078
+      Tiamalt_Spray_Red_F13: 21300072
+      Tiamalt_Spray_Red_F07: 21300060
+      Tiamalt_Spray_Red_F23: 21300092
+      Tiamalt_Spray_Red_F17: 21300080
+      Tiamalt_Spray_Red_F10: 21300066
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

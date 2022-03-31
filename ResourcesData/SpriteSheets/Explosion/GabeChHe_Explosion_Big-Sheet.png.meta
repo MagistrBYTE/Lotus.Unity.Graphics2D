@@ -1,0 +1,2609 @@
+fileFormatVersion: 2
+guid: ebf89674fa1940df804b328255b3afa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GabeChHe_BigExplosion_01F
+  - first:
+      213: 21300002
+    second: GabeChHe_BigExplosion_02F
+  - first:
+      213: 21300004
+    second: GabeChHe_BigExplosion_03F
+  - first:
+      213: 21300006
+    second: GabeChHe_BigExplosion_04F
+  - first:
+      213: 21300008
+    second: GabeChHe_BigExplosion_05F
+  - first:
+      213: 21300010
+    second: GabeChHe_BigExplosion_06F
+  - first:
+      213: 21300012
+    second: GabeChHe_BigExplosion_07F
+  - first:
+      213: 21300014
+    second: GabeChHe_BigExplosion_08F
+  - first:
+      213: 21300016
+    second: GabeChHe_BigExplosion_09F
+  - first:
+      213: 21300018
+    second: GabeChHe_BigExplosion_10F
+  - first:
+      213: 21300020
+    second: GabeChHe_BigExplosion_11F
+  - first:
+      213: 21300022
+    second: GabeChHe_BigExplosion_12F
+  - first:
+      213: 21300024
+    second: GabeChHe_BigExplosion_13F
+  - first:
+      213: 21300026
+    second: GabeChHe_BigExplosion_14F
+  - first:
+      213: 21300028
+    second: GabeChHe_BigExplosion_15F
+  - first:
+      213: 21300030
+    second: GabeChHe_BigExplosion_16F
+  - first:
+      213: 21300032
+    second: GabeChHe_BigExplosion_17F
+  - first:
+      213: 21300034
+    second: GabeChHe_BigExplosion_18F
+  - first:
+      213: 21300036
+    second: GabeChHe_BigExplosion_19F
+  - first:
+      213: 21300038
+    second: GabeChHe_BigExplosion_20F
+  - first:
+      213: 21300040
+    second: GabeChHe_BigExplosion_21F
+  - first:
+      213: 21300042
+    second: GabeChHe_BigExplosion_22F
+  - first:
+      213: 21300044
+    second: GabeChHe_BigExplosion_23F
+  - first:
+      213: 21300046
+    second: GabeChHe_BigExplosion_24F
+  - first:
+      213: 21300048
+    second: GabeChHe_BigExplosion_25F
+  - first:
+      213: 21300050
+    second: GabeChHe_BigExplosion_26F
+  - first:
+      213: 21300052
+    second: GabeChHe_BigExplosion_27F
+  - first:
+      213: 21300054
+    second: GabeChHe_BigExplosion_28F
+  - first:
+      213: 21300056
+    second: GabeChHe_BigExplosion_29F
+  - first:
+      213: 21300058
+    second: GabeChHe_BigExplosion_30F
+  - first:
+      213: 21300060
+    second: GabeChHe_BigExplosion_31F
+  - first:
+      213: 21300062
+    second: GabeChHe_BigExplosion_32F
+  - first:
+      213: 21300064
+    second: GabeChHe_BigExplosion_33F
+  - first:
+      213: 21300066
+    second: GabeChHe_BigExplosion_34F
+  - first:
+      213: 21300068
+    second: GabeChHe_BigExplosion_35F
+  - first:
+      213: 21300070
+    second: GabeChHe_BigExplosion_36F
+  - first:
+      213: 21300072
+    second: GabeChHe_BigExplosion_37F
+  - first:
+      213: 21300074
+    second: GabeChHe_BigExplosion_38F
+  - first:
+      213: 21300076
+    second: GabeChHe_BigExplosion_39F
+  - first:
+      213: 21300078
+    second: GabeChHe_BigExplosion_40F
+  - first:
+      213: 21300080
+    second: GabeChHe_BigExplosion_41F
+  - first:
+      213: 21300082
+    second: GabeChHe_BigExplosion_42F
+  - first:
+      213: 21300084
+    second: GabeChHe_BigExplosion_43F
+  - first:
+      213: 21300086
+    second: GabeChHe_BigExplosion_44F
+  - first:
+      213: 21300088
+    second: GabeChHe_BigExplosion_45F
+  - first:
+      213: 21300090
+    second: GabeChHe_BigExplosion_46F
+  - first:
+      213: 21300092
+    second: GabeChHe_BigExplosion_47F
+  - first:
+      213: 21300094
+    second: GabeChHe_BigExplosion_48F
+  - first:
+      213: 21300096
+    second: GabeChHe_BigExplosion_49F
+  - first:
+      213: 21300098
+    second: GabeChHe_BigExplosion_50F
+  - first:
+      213: 21300100
+    second: GabeChHe_BigExplosion_51F
+  - first:
+      213: 21300102
+    second: GabeChHe_BigExplosion_52F
+  - first:
+      213: 21300104
+    second: GabeChHe_BigExplosion_53F
+  - first:
+      213: 21300106
+    second: GabeChHe_BigExplosion_54F
+  - first:
+      213: 21300108
+    second: GabeChHe_BigExplosion_55F
+  - first:
+      213: 21300110
+    second: GabeChHe_BigExplosion_56F
+  - first:
+      213: 21300112
+    second: GabeChHe_BigExplosion_57F
+  - first:
+      213: 21300114
+    second: GabeChHe_BigExplosion_58F
+  - first:
+      213: 21300116
+    second: GabeChHe_BigExplosion_59F
+  - first:
+      213: 21300118
+    second: GabeChHe_BigExplosion_60F
+  - first:
+      213: 21300120
+    second: GabeChHe_BigExplosion_61F
+  - first:
+      213: 21300122
+    second: GabeChHe_BigExplosion_62F
+  - first:
+      213: 21300124
+    second: GabeChHe_BigExplosion_63F
+  - first:
+      213: 21300126
+    second: GabeChHe_BigExplosion_64F
+  - first:
+      213: 21300128
+    second: GabeChHe_BigExplosion_65F
+  - first:
+      213: 21300130
+    second: GabeChHe_BigExplosion_66F
+  - first:
+      213: 21300132
+    second: GabeChHe_BigExplosion_67F
+  - first:
+      213: 21300134
+    second: GabeChHe_BigExplosion_68F
+  - first:
+      213: 21300136
+    second: GabeChHe_BigExplosion_69F
+  - first:
+      213: 21300138
+    second: GabeChHe_BigExplosion_70F
+  - first:
+      213: 21300140
+    second: GabeChHe_BigExplosion_71F
+  - first:
+      213: 21300142
+    second: GabeChHe_BigExplosion_72F
+  - first:
+      213: 21300144
+    second: GabeChHe_BigExplosion_73F
+  - first:
+      213: 21300146
+    second: GabeChHe_BigExplosion_74F
+  - first:
+      213: 21300148
+    second: GabeChHe_BigExplosion_75F
+  - first:
+      213: 21300150
+    second: GabeChHe_BigExplosion_76F
+  - first:
+      213: 21300152
+    second: GabeChHe_BigExplosion_77F
+  - first:
+      213: 21300154
+    second: GabeChHe_BigExplosion_78F
+  - first:
+      213: 21300156
+    second: GabeChHe_BigExplosion_79F
+  - first:
+      213: 21300158
+    second: GabeChHe_BigExplosion_80F
+  - first:
+      213: 21300160
+    second: GabeChHe_BigExplosion_81F
+  - first:
+      213: 21300162
+    second: GabeChHe_BigExplosion_F01
+  - first:
+      213: 21300164
+    second: GabeChHe_BigExplosion_F02
+  - first:
+      213: 21300166
+    second: GabeChHe_BigExplosion_F03
+  - first:
+      213: 21300168
+    second: GabeChHe_BigExplosion_F04
+  - first:
+      213: 21300170
+    second: GabeChHe_BigExplosion_F05
+  - first:
+      213: 21300172
+    second: GabeChHe_BigExplosion_F06
+  - first:
+      213: 21300174
+    second: GabeChHe_BigExplosion_F07
+  - first:
+      213: 21300176
+    second: GabeChHe_BigExplosion_F08
+  - first:
+      213: 21300178
+    second: GabeChHe_BigExplosion_F09
+  - first:
+      213: 21300180
+    second: GabeChHe_BigExplosion_F10
+  - first:
+      213: 21300182
+    second: GabeChHe_BigExplosion_F11
+  - first:
+      213: 21300184
+    second: GabeChHe_BigExplosion_F12
+  - first:
+      213: 21300186
+    second: GabeChHe_BigExplosion_F13
+  - first:
+      213: 21300188
+    second: GabeChHe_BigExplosion_F14
+  - first:
+      213: 21300190
+    second: GabeChHe_BigExplosion_F15
+  - first:
+      213: 21300192
+    second: GabeChHe_BigExplosion_F16
+  - first:
+      213: 21300194
+    second: GabeChHe_BigExplosion_F17
+  - first:
+      213: 21300196
+    second: GabeChHe_BigExplosion_F18
+  - first:
+      213: 21300198
+    second: GabeChHe_BigExplosion_F19
+  - first:
+      213: 21300200
+    second: GabeChHe_BigExplosion_F20
+  - first:
+      213: 21300202
+    second: GabeChHe_BigExplosion_F21
+  - first:
+      213: 21300204
+    second: GabeChHe_BigExplosion_F22
+  - first:
+      213: 21300206
+    second: GabeChHe_BigExplosion_F23
+  - first:
+      213: 21300208
+    second: GabeChHe_BigExplosion_F24
+  - first:
+      213: 21300210
+    second: GabeChHe_BigExplosion_F25
+  - first:
+      213: 21300212
+    second: GabeChHe_BigExplosion_F26
+  - first:
+      213: 21300214
+    second: GabeChHe_BigExplosion_F27
+  - first:
+      213: 21300216
+    second: GabeChHe_BigExplosion_F28
+  - first:
+      213: 21300218
+    second: GabeChHe_BigExplosion_F29
+  - first:
+      213: 21300220
+    second: GabeChHe_BigExplosion_F30
+  - first:
+      213: 21300222
+    second: GabeChHe_BigExplosion_F31
+  - first:
+      213: 21300224
+    second: GabeChHe_BigExplosion_F32
+  - first:
+      213: 21300226
+    second: GabeChHe_BigExplosion_F33
+  - first:
+      213: 21300228
+    second: GabeChHe_BigExplosion_F34
+  - first:
+      213: 21300230
+    second: GabeChHe_BigExplosion_F35
+  - first:
+      213: 21300232
+    second: GabeChHe_BigExplosion_F36
+  - first:
+      213: 21300234
+    second: GabeChHe_BigExplosion_F37
+  - first:
+      213: 21300236
+    second: GabeChHe_BigExplosion_F38
+  - first:
+      213: 21300238
+    second: GabeChHe_BigExplosion_F39
+  - first:
+      213: 21300240
+    second: GabeChHe_BigExplosion_F40
+  - first:
+      213: 21300242
+    second: GabeChHe_BigExplosion_F41
+  - first:
+      213: 21300244
+    second: GabeChHe_BigExplosion_F42
+  - first:
+      213: 21300246
+    second: GabeChHe_BigExplosion_F43
+  - first:
+      213: 21300248
+    second: GabeChHe_BigExplosion_F44
+  - first:
+      213: 21300250
+    second: GabeChHe_BigExplosion_F45
+  - first:
+      213: 21300252
+    second: GabeChHe_BigExplosion_F46
+  - first:
+      213: 21300254
+    second: GabeChHe_BigExplosion_F47
+  - first:
+      213: 21300256
+    second: GabeChHe_BigExplosion_F48
+  - first:
+      213: 21300258
+    second: GabeChHe_BigExplosion_F49
+  - first:
+      213: 21300260
+    second: GabeChHe_BigExplosion_F50
+  - first:
+      213: 21300262
+    second: GabeChHe_BigExplosion_F51
+  - first:
+      213: 21300264
+    second: GabeChHe_BigExplosion_F52
+  - first:
+      213: 21300266
+    second: GabeChHe_BigExplosion_F53
+  - first:
+      213: 21300268
+    second: GabeChHe_BigExplosion_F54
+  - first:
+      213: 21300270
+    second: GabeChHe_BigExplosion_F55
+  - first:
+      213: 21300272
+    second: GabeChHe_BigExplosion_F56
+  - first:
+      213: 21300274
+    second: GabeChHe_BigExplosion_F57
+  - first:
+      213: 21300276
+    second: GabeChHe_BigExplosion_F58
+  - first:
+      213: 21300278
+    second: GabeChHe_BigExplosion_F59
+  - first:
+      213: 21300280
+    second: GabeChHe_BigExplosion_F60
+  - first:
+      213: 21300282
+    second: GabeChHe_BigExplosion_F61
+  - first:
+      213: 21300284
+    second: GabeChHe_BigExplosion_F62
+  - first:
+      213: 21300286
+    second: GabeChHe_BigExplosion_F63
+  - first:
+      213: 21300288
+    second: GabeChHe_BigExplosion_F64
+  - first:
+      213: 21300290
+    second: GabeChHe_BigExplosion_F65
+  - first:
+      213: 21300292
+    second: GabeChHe_BigExplosion_F66
+  - first:
+      213: 21300294
+    second: GabeChHe_BigExplosion_F67
+  - first:
+      213: 21300296
+    second: GabeChHe_BigExplosion_F68
+  - first:
+      213: 21300298
+    second: GabeChHe_BigExplosion_F69
+  - first:
+      213: 21300300
+    second: GabeChHe_BigExplosion_F70
+  - first:
+      213: 21300302
+    second: GabeChHe_BigExplosion_F71
+  - first:
+      213: 21300304
+    second: GabeChHe_BigExplosion_F72
+  - first:
+      213: 21300306
+    second: GabeChHe_BigExplosion_F73
+  - first:
+      213: 21300308
+    second: GabeChHe_BigExplosion_F74
+  - first:
+      213: 21300310
+    second: GabeChHe_BigExplosion_F75
+  - first:
+      213: 21300312
+    second: GabeChHe_BigExplosion_F76
+  - first:
+      213: 21300314
+    second: GabeChHe_BigExplosion_F77
+  - first:
+      213: 21300316
+    second: GabeChHe_BigExplosion_F78
+  - first:
+      213: 21300318
+    second: GabeChHe_BigExplosion_F79
+  - first:
+      213: 21300320
+    second: GabeChHe_BigExplosion_F80
+  - first:
+      213: 21300322
+    second: GabeChHe_BigExplosion_F81
+  - first:
+      213: 21300324
+    second: GabeChHe_Explosion_Big_F01
+  - first:
+      213: 21300326
+    second: GabeChHe_Explosion_Big_F02
+  - first:
+      213: 21300328
+    second: GabeChHe_Explosion_Big_F03
+  - first:
+      213: 21300330
+    second: GabeChHe_Explosion_Big_F04
+  - first:
+      213: 21300332
+    second: GabeChHe_Explosion_Big_F05
+  - first:
+      213: 21300334
+    second: GabeChHe_Explosion_Big_F06
+  - first:
+      213: 21300336
+    second: GabeChHe_Explosion_Big_F07
+  - first:
+      213: 21300338
+    second: GabeChHe_Explosion_Big_F08
+  - first:
+      213: 21300340
+    second: GabeChHe_Explosion_Big_F09
+  - first:
+      213: 21300342
+    second: GabeChHe_Explosion_Big_F10
+  - first:
+      213: 21300344
+    second: GabeChHe_Explosion_Big_F11
+  - first:
+      213: 21300346
+    second: GabeChHe_Explosion_Big_F12
+  - first:
+      213: 21300348
+    second: GabeChHe_Explosion_Big_F13
+  - first:
+      213: 21300350
+    second: GabeChHe_Explosion_Big_F14
+  - first:
+      213: 21300352
+    second: GabeChHe_Explosion_Big_F15
+  - first:
+      213: 21300354
+    second: GabeChHe_Explosion_Big_F16
+  - first:
+      213: 21300356
+    second: GabeChHe_Explosion_Big_F17
+  - first:
+      213: 21300358
+    second: GabeChHe_Explosion_Big_F18
+  - first:
+      213: 21300360
+    second: GabeChHe_Explosion_Big_F19
+  - first:
+      213: 21300362
+    second: GabeChHe_Explosion_Big_F20
+  - first:
+      213: 21300364
+    second: GabeChHe_Explosion_Big_F21
+  - first:
+      213: 21300366
+    second: GabeChHe_Explosion_Big_F22
+  - first:
+      213: 21300368
+    second: GabeChHe_Explosion_Big_F23
+  - first:
+      213: 21300370
+    second: GabeChHe_Explosion_Big_F24
+  - first:
+      213: 21300372
+    second: GabeChHe_Explosion_Big_F25
+  - first:
+      213: 21300374
+    second: GabeChHe_Explosion_Big_F26
+  - first:
+      213: 21300376
+    second: GabeChHe_Explosion_Big_F27
+  - first:
+      213: 21300378
+    second: GabeChHe_Explosion_Big_F28
+  - first:
+      213: 21300380
+    second: GabeChHe_Explosion_Big_F29
+  - first:
+      213: 21300382
+    second: GabeChHe_Explosion_Big_F30
+  - first:
+      213: 21300384
+    second: GabeChHe_Explosion_Big_F31
+  - first:
+      213: 21300386
+    second: GabeChHe_Explosion_Big_F32
+  - first:
+      213: 21300388
+    second: GabeChHe_Explosion_Big_F33
+  - first:
+      213: 21300390
+    second: GabeChHe_Explosion_Big_F34
+  - first:
+      213: 21300392
+    second: GabeChHe_Explosion_Big_F35
+  - first:
+      213: 21300394
+    second: GabeChHe_Explosion_Big_F36
+  - first:
+      213: 21300396
+    second: GabeChHe_Explosion_Big_F37
+  - first:
+      213: 21300398
+    second: GabeChHe_Explosion_Big_F38
+  - first:
+      213: 21300400
+    second: GabeChHe_Explosion_Big_F39
+  - first:
+      213: 21300402
+    second: GabeChHe_Explosion_Big_F40
+  - first:
+      213: 21300404
+    second: GabeChHe_Explosion_Big_F41
+  - first:
+      213: 21300406
+    second: GabeChHe_Explosion_Big_F42
+  - first:
+      213: 21300408
+    second: GabeChHe_Explosion_Big_F43
+  - first:
+      213: 21300410
+    second: GabeChHe_Explosion_Big_F44
+  - first:
+      213: 21300412
+    second: GabeChHe_Explosion_Big_F45
+  - first:
+      213: 21300414
+    second: GabeChHe_Explosion_Big_F46
+  - first:
+      213: 21300416
+    second: GabeChHe_Explosion_Big_F47
+  - first:
+      213: 21300418
+    second: GabeChHe_Explosion_Big_F48
+  - first:
+      213: 21300420
+    second: GabeChHe_Explosion_Big_F49
+  - first:
+      213: 21300422
+    second: GabeChHe_Explosion_Big_F50
+  - first:
+      213: 21300424
+    second: GabeChHe_Explosion_Big_F51
+  - first:
+      213: 21300426
+    second: GabeChHe_Explosion_Big_F52
+  - first:
+      213: 21300428
+    second: GabeChHe_Explosion_Big_F53
+  - first:
+      213: 21300430
+    second: GabeChHe_Explosion_Big_F54
+  - first:
+      213: 21300432
+    second: GabeChHe_Explosion_Big_F55
+  - first:
+      213: 21300434
+    second: GabeChHe_Explosion_Big_F56
+  - first:
+      213: 21300436
+    second: GabeChHe_Explosion_Big_F57
+  - first:
+      213: 21300438
+    second: GabeChHe_Explosion_Big_F58
+  - first:
+      213: 21300440
+    second: GabeChHe_Explosion_Big_F59
+  - first:
+      213: 21300442
+    second: GabeChHe_Explosion_Big_F60
+  - first:
+      213: 21300444
+    second: GabeChHe_Explosion_Big_F61
+  - first:
+      213: 21300446
+    second: GabeChHe_Explosion_Big_F62
+  - first:
+      213: 21300448
+    second: GabeChHe_Explosion_Big_F63
+  - first:
+      213: 21300450
+    second: GabeChHe_Explosion_Big_F64
+  - first:
+      213: 21300452
+    second: GabeChHe_Explosion_Big_F65
+  - first:
+      213: 21300454
+    second: GabeChHe_Explosion_Big_F66
+  - first:
+      213: 21300456
+    second: GabeChHe_Explosion_Big_F67
+  - first:
+      213: 21300458
+    second: GabeChHe_Explosion_Big_F68
+  - first:
+      213: 21300460
+    second: GabeChHe_Explosion_Big_F69
+  - first:
+      213: 21300462
+    second: GabeChHe_Explosion_Big_F70
+  - first:
+      213: 21300464
+    second: GabeChHe_Explosion_Big_F71
+  - first:
+      213: 21300466
+    second: GabeChHe_Explosion_Big_F72
+  - first:
+      213: 21300468
+    second: GabeChHe_Explosion_Big_F73
+  - first:
+      213: 21300470
+    second: GabeChHe_Explosion_Big_F74
+  - first:
+      213: 21300472
+    second: GabeChHe_Explosion_Big_F75
+  - first:
+      213: 21300474
+    second: GabeChHe_Explosion_Big_F76
+  - first:
+      213: 21300476
+    second: GabeChHe_Explosion_Big_F77
+  - first:
+      213: 21300478
+    second: GabeChHe_Explosion_Big_F78
+  - first:
+      213: 21300480
+    second: GabeChHe_Explosion_Big_F79
+  - first:
+      213: 21300482
+    second: GabeChHe_Explosion_Big_F80
+  - first:
+      213: 21300484
+    second: GabeChHe_Explosion_Big_F81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493c7e5ba5c1e7f488a2ff15beb9ed18
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd2133f5e261a49a58a62497523702
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a47851469e76074b86c3dfaa96de82d
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F04
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18710fecda2564f948d70ed3f0f9a2
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F05
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf17cc70231474cb06e3d892ad8ebe
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F06
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d97b480ecbf0e549a05a41551ba5142
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F07
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecc4494260f562478e32744ba627325
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F08
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416b6e182a6ea724293e69b7dd6e217c
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F09
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695a75529d3fa424aa3ae4268ab087d3
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab11500896258ea479226b6754f642cd
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c37d8df26d505a46aace3db511ab6f3
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd2099a2e08a244cbc2212a3a4e62bf
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa6b82d3af7c8d4fbeec53818690da0
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97fa3b476c61c44882f53a0e27b6e55
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a62e4179875644a74ded3584fa2ab
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61991a4ecde84443b4691d5dd921027
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a27a5304407ef84da86de0abc53a4bf
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f05d101088d975459fd4d4eedd3d09b
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfdd9910b24f8145af7a3aac45bb0fc
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca347154a8e1340b8ba410eca5f2fb
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a700756f6731a4fa17ab1837d52dfe
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627e658fbca61bc4b824e33db725aee8
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ae1abab12a20d4292c97a3e0fa8698
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096c23fe2d6fed9438d89451a2a2aa62
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d795af01a4a7419a923176f1d0ecd
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F26
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be41575d49b0ba942ada1142a40ba69b
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F27
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e5ac4abc7966240bffea31f146f555
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0eb28222a56a744b77149651694de1
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817c84ce303901a4d8e7315b6df67a93
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f941a1e788c57ba4686f3ae337d62411
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43382f80ea13643419b3a349a33dd171
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b7ee85ee496646925c3e57f3b94ab
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57d693783b48ea4bb7bcc16611aa706
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a550988c7aef0be44890a0f6ad17c8db
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F35
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf2c454b44b24644ad2cb427dac9c55
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b112992ec8782445b8e478a25d2fdb4
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee09c9b2fc92511449700530a5f7a37e
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea695aa1e6009b54d923f9241ffcacb1
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1644291e3655ab44187c9d081704ded5
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c7281b31ccfb418c62f6ad57952a4
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f6a3ddcc89304ebc829b12937abdf
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbeb36aad2c92b4982e1c7727a6c85c
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4717d636ca54274e887d1a7a7f6495b
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588cb1bbc12d6af4788b56d374524f84
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F45
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891ec8d5f7e9bbc49875c7f60ac353cd
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457aea0cc8aa9b42b67dc2fc5051f8f
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad832828700da514192379d5a60949c5
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e307441da50c2045a0469b855266f7b
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd301ed6c89ad0b44b2da76056b1d91d
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b565a42e0a88c714095f5cbb07757fe6
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F51
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c63365c958fb44c9d7337637c256d9
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c29ccdfd86c5949b4d44620dfc6299
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F53
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4186e7810d245e1499480fba49bb44cf
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7e1ffb0229d5649afe96e3a8489a9f
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd8ed2274438144a8d387510988de5
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59660d20028ac3c42b2794f4ce7b0c19
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ca6b4b5d1150f45874dff23a12b834
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921862dc86fe3f24a94b7867f4890f54
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F59
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018036e5bb3fb174dbfb982458c412e1
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1108f39431ab943bb0282094c88be3
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F61
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39964227f2b68a44a903e332f78018a4
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6675b0ef80050f74fa5ed9793ec1881f
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F63
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c88eaef3844d04458a3275587228f96
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f5bb26d7ed1341b4f95ba7778b1df
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c27ff75476af74bb66eb7b49031fb6
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac3b4a415e23f4a8296288a430f0e6
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F67
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b5d75ba6309434eb4fb83419328a2e
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b5c6ab19a341043887d4f5228aabf6
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F69
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996dcee3b89090a46bb0be13767ec2ac
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F70
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0257f33f3a1939642b0d36d9003a394d
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F71
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe753b5b3dede446b66cf5e0980dffc
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F72
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7b1183e857ebf4d99a674fe5677cf5
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b7304f16e0bca4eb6db875790d7979
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b415ddb5edb2a754d819b94b9b17a82b
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b428cb36d50f545826211b2b20618a
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e4aef0ae30ceb46a667e0ac2d36fd2
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F77
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ded3e76083444abce8bfab280d591
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F78
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21a7b885cf654a40bbd3aea096b9a79
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F79
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658342d9134e90499e5c3ff8bbcc9a1
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F80
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146e6554c6387124eacc93cba64ba089
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GabeChHe_Explosion_Big_F81
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee95a9dbc1e18041a563b6f131912a4
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GabeChHe_Explosion_Big_F79: 21300480
+      GabeChHe_Explosion_Big_F01: 21300324
+      GabeChHe_Explosion_Big_F52: 21300426
+      GabeChHe_Explosion_Big_F56: 21300434
+      GabeChHe_Explosion_Big_F74: 21300470
+      GabeChHe_Explosion_Big_F20: 21300362
+      GabeChHe_Explosion_Big_F26: 21300374
+      GabeChHe_Explosion_Big_F43: 21300408
+      GabeChHe_Explosion_Big_F32: 21300386
+      GabeChHe_Explosion_Big_F30: 21300382
+      GabeChHe_Explosion_Big_F77: 21300476
+      GabeChHe_Explosion_Big_F59: 21300440
+      GabeChHe_Explosion_Big_F70: 21300462
+      GabeChHe_Explosion_Big_F22: 21300366
+      GabeChHe_Explosion_Big_F25: 21300372
+      GabeChHe_Explosion_Big_F33: 21300388
+      GabeChHe_Explosion_Big_F31: 21300384
+      GabeChHe_Explosion_Big_F57: 21300436
+      GabeChHe_Explosion_Big_F17: 21300356
+      GabeChHe_Explosion_Big_F23: 21300368
+      GabeChHe_Explosion_Big_F06: 21300334
+      GabeChHe_Explosion_Big_F76: 21300474
+      GabeChHe_Explosion_Big_F42: 21300406
+      GabeChHe_Explosion_Big_F67: 21300456
+      GabeChHe_Explosion_Big_F69: 21300460
+      GabeChHe_Explosion_Big_F15: 21300352
+      GabeChHe_Explosion_Big_F78: 21300478
+      GabeChHe_Explosion_Big_F10: 21300342
+      GabeChHe_Explosion_Big_F72: 21300466
+      GabeChHe_Explosion_Big_F80: 21300482
+      GabeChHe_Explosion_Big_F27: 21300376
+      GabeChHe_Explosion_Big_F60: 21300442
+      GabeChHe_Explosion_Big_F73: 21300468
+      GabeChHe_Explosion_Big_F62: 21300446
+      GabeChHe_Explosion_Big_F65: 21300452
+      GabeChHe_Explosion_Big_F55: 21300432
+      GabeChHe_Explosion_Big_F08: 21300338
+      GabeChHe_Explosion_Big_F48: 21300418
+      GabeChHe_Explosion_Big_F35: 21300392
+      GabeChHe_Explosion_Big_F36: 21300394
+      GabeChHe_Explosion_Big_F44: 21300410
+      GabeChHe_Explosion_Big_F63: 21300448
+      GabeChHe_Explosion_Big_F75: 21300472
+      GabeChHe_Explosion_Big_F39: 21300400
+      GabeChHe_Explosion_Big_F58: 21300438
+      GabeChHe_Explosion_Big_F40: 21300402
+      GabeChHe_Explosion_Big_F11: 21300344
+      GabeChHe_Explosion_Big_F61: 21300444
+      GabeChHe_Explosion_Big_F28: 21300378
+      GabeChHe_Explosion_Big_F09: 21300340
+      GabeChHe_Explosion_Big_F07: 21300336
+      GabeChHe_Explosion_Big_F50: 21300422
+      GabeChHe_Explosion_Big_F16: 21300354
+      GabeChHe_Explosion_Big_F03: 21300328
+      GabeChHe_Explosion_Big_F37: 21300396
+      GabeChHe_Explosion_Big_F24: 21300370
+      GabeChHe_Explosion_Big_F12: 21300346
+      GabeChHe_Explosion_Big_F51: 21300424
+      GabeChHe_Explosion_Big_F54: 21300430
+      GabeChHe_Explosion_Big_F64: 21300450
+      GabeChHe_Explosion_Big_F38: 21300398
+      GabeChHe_Explosion_Big_F68: 21300458
+      GabeChHe_Explosion_Big_F29: 21300380
+      GabeChHe_Explosion_Big_F18: 21300358
+      GabeChHe_Explosion_Big_F81: 21300484
+      GabeChHe_Explosion_Big_F21: 21300364
+      GabeChHe_Explosion_Big_F46: 21300414
+      GabeChHe_Explosion_Big_F04: 21300330
+      GabeChHe_Explosion_Big_F13: 21300348
+      GabeChHe_Explosion_Big_F34: 21300390
+      GabeChHe_Explosion_Big_F05: 21300332
+      GabeChHe_Explosion_Big_F02: 21300326
+      GabeChHe_Explosion_Big_F47: 21300416
+      GabeChHe_Explosion_Big_F49: 21300420
+      GabeChHe_Explosion_Big_F45: 21300412
+      GabeChHe_Explosion_Big_F41: 21300404
+      GabeChHe_Explosion_Big_F66: 21300454
+      GabeChHe_Explosion_Big_F53: 21300428
+      GabeChHe_Explosion_Big_F71: 21300464
+      GabeChHe_Explosion_Big_F19: 21300360
+      GabeChHe_Explosion_Big_F14: 21300350
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

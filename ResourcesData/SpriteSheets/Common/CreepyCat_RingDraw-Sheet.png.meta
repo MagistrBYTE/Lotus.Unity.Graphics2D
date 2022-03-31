@@ -1,0 +1,1870 @@
+fileFormatVersion: 2
+guid: 8ea8088b750508043aaef8e73967addb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CreepyCat_RingDraw#_0
+  - first:
+      213: 21300002
+    second: CreepyCat_RingDraw#_1
+  - first:
+      213: 21300004
+    second: CreepyCat_RingDraw#_2
+  - first:
+      213: 21300006
+    second: CreepyCat_RingDraw#_3
+  - first:
+      213: 21300008
+    second: CreepyCat_RingDraw#_4
+  - first:
+      213: 21300010
+    second: CreepyCat_RingDraw#_5
+  - first:
+      213: 21300012
+    second: CreepyCat_RingDraw#_6
+  - first:
+      213: 21300014
+    second: CreepyCat_RingDraw#_7
+  - first:
+      213: 21300016
+    second: CreepyCat_RingDraw#_8
+  - first:
+      213: 21300018
+    second: CreepyCat_RingDraw#_9
+  - first:
+      213: 21300020
+    second: CreepyCat_RingDraw#_10
+  - first:
+      213: 21300022
+    second: CreepyCat_RingDraw#_11
+  - first:
+      213: 21300024
+    second: CreepyCat_RingDraw#_12
+  - first:
+      213: 21300026
+    second: CreepyCat_RingDraw#_13
+  - first:
+      213: 21300028
+    second: CreepyCat_RingDraw#_14
+  - first:
+      213: 21300030
+    second: CreepyCat_RingDraw#_15
+  - first:
+      213: 21300032
+    second: CreepyCat_RingDraw#_16
+  - first:
+      213: 21300034
+    second: CreepyCat_RingDraw#_17
+  - first:
+      213: 21300036
+    second: CreepyCat_RingDraw#_18
+  - first:
+      213: 21300038
+    second: CreepyCat_RingDraw#_19
+  - first:
+      213: 21300040
+    second: CreepyCat_RingDraw#_20
+  - first:
+      213: 21300042
+    second: CreepyCat_RingDraw#_21
+  - first:
+      213: 21300044
+    second: CreepyCat_RingDraw#_22
+  - first:
+      213: 21300046
+    second: CreepyCat_RingDraw#_23
+  - first:
+      213: 21300048
+    second: CreepyCat_RingDraw#_24
+  - first:
+      213: 21300050
+    second: CreepyCat_RingDraw#_25
+  - first:
+      213: 21300052
+    second: CreepyCat_RingDraw#_26
+  - first:
+      213: 21300054
+    second: CreepyCat_RingDraw#_27
+  - first:
+      213: 21300056
+    second: CreepyCat_RingDraw#_28
+  - first:
+      213: 21300058
+    second: CreepyCat_RingDraw#_29
+  - first:
+      213: 21300060
+    second: CreepyCat_RingDraw#_30
+  - first:
+      213: 21300062
+    second: CreepyCat_RingDraw#_31
+  - first:
+      213: 21300064
+    second: CreepyCat_RingDraw#_32
+  - first:
+      213: 21300066
+    second: CreepyCat_RingDraw#_33
+  - first:
+      213: 21300068
+    second: CreepyCat_RingDraw#_34
+  - first:
+      213: 21300070
+    second: CreepyCat_RingDraw#_35
+  - first:
+      213: 21300072
+    second: CreepyCat_RingDraw#_36
+  - first:
+      213: 21300074
+    second: CreepyCat_RingDraw#_37
+  - first:
+      213: 21300076
+    second: CreepyCat_RingDraw#_38
+  - first:
+      213: 21300078
+    second: CreepyCat_RingDraw#_39
+  - first:
+      213: 21300080
+    second: CreepyCat_RingDraw#_40
+  - first:
+      213: 21300082
+    second: CreepyCat_RingDraw#_41
+  - first:
+      213: 21300084
+    second: CreepyCat_RingDraw#_42
+  - first:
+      213: 21300086
+    second: CreepyCat_RingDraw#_43
+  - first:
+      213: 21300088
+    second: CreepyCat_RingDraw#_44
+  - first:
+      213: 21300090
+    second: CreepyCat_RingDraw#_45
+  - first:
+      213: 21300092
+    second: CreepyCat_RingDraw#_46
+  - first:
+      213: 21300094
+    second: CreepyCat_RingDraw#_47
+  - first:
+      213: 21300096
+    second: CreepyCat_RingDraw#_48
+  - first:
+      213: 21300098
+    second: CreepyCat_RingDraw#_49
+  - first:
+      213: 21300100
+    second: CreepyCat_RingDraw#_50
+  - first:
+      213: 21300102
+    second: CreepyCat_RingDraw#_51
+  - first:
+      213: 21300104
+    second: CreepyCat_RingDraw#_52
+  - first:
+      213: 21300106
+    second: CreepyCat_RingDraw#_53
+  - first:
+      213: 21300108
+    second: CreepyCat_RingDraw#_54
+  - first:
+      213: 21300110
+    second: CreepyCat_RingDraw#_55
+  - first:
+      213: 21300112
+    second: CreepyCat_RingDraw#_56
+  - first:
+      213: 21300114
+    second: CreepyCat_RingDraw#_57
+  - first:
+      213: 21300116
+    second: CreepyCat_RingDraw#_58
+  - first:
+      213: 21300118
+    second: CreepyCat_RingDraw#_59
+  - first:
+      213: 21300120
+    second: CreepyCat_RingDraw#_60
+  - first:
+      213: 21300122
+    second: CreepyCat_RingDraw#_61
+  - first:
+      213: 21300124
+    second: CreepyCat_RingDraw_F01
+  - first:
+      213: 21300126
+    second: CreepyCat_RingDraw_F02
+  - first:
+      213: 21300128
+    second: CreepyCat_RingDraw_F03
+  - first:
+      213: 21300130
+    second: CreepyCat_RingDraw_F04
+  - first:
+      213: 21300132
+    second: CreepyCat_RingDraw_F05
+  - first:
+      213: 21300134
+    second: CreepyCat_RingDraw_F06
+  - first:
+      213: 21300136
+    second: CreepyCat_RingDraw_F07
+  - first:
+      213: 21300138
+    second: CreepyCat_RingDraw_F08
+  - first:
+      213: 21300140
+    second: CreepyCat_RingDraw_F09
+  - first:
+      213: 21300142
+    second: CreepyCat_RingDraw_F10
+  - first:
+      213: 21300144
+    second: CreepyCat_RingDraw_F11
+  - first:
+      213: 21300146
+    second: CreepyCat_RingDraw_F12
+  - first:
+      213: 21300148
+    second: CreepyCat_RingDraw_F13
+  - first:
+      213: 21300150
+    second: CreepyCat_RingDraw_F14
+  - first:
+      213: 21300152
+    second: CreepyCat_RingDraw_F15
+  - first:
+      213: 21300154
+    second: CreepyCat_RingDraw_F16
+  - first:
+      213: 21300156
+    second: CreepyCat_RingDraw_F17
+  - first:
+      213: 21300158
+    second: CreepyCat_RingDraw_F18
+  - first:
+      213: 21300160
+    second: CreepyCat_RingDraw_F19
+  - first:
+      213: 21300162
+    second: CreepyCat_RingDraw_F20
+  - first:
+      213: 21300164
+    second: CreepyCat_RingDraw_F21
+  - first:
+      213: 21300166
+    second: CreepyCat_RingDraw_F22
+  - first:
+      213: 21300168
+    second: CreepyCat_RingDraw_F23
+  - first:
+      213: 21300170
+    second: CreepyCat_RingDraw_F24
+  - first:
+      213: 21300172
+    second: CreepyCat_RingDraw_F25
+  - first:
+      213: 21300174
+    second: CreepyCat_RingDraw_F26
+  - first:
+      213: 21300176
+    second: CreepyCat_RingDraw_F27
+  - first:
+      213: 21300178
+    second: CreepyCat_RingDraw_F28
+  - first:
+      213: 21300180
+    second: CreepyCat_RingDraw_F29
+  - first:
+      213: 21300182
+    second: CreepyCat_RingDraw_F30
+  - first:
+      213: 21300184
+    second: CreepyCat_RingDraw_F31
+  - first:
+      213: 21300186
+    second: CreepyCat_RingDraw_F32
+  - first:
+      213: 21300188
+    second: CreepyCat_RingDraw_F33
+  - first:
+      213: 21300190
+    second: CreepyCat_RingDraw_F34
+  - first:
+      213: 21300192
+    second: CreepyCat_RingDraw_F35
+  - first:
+      213: 21300194
+    second: CreepyCat_RingDraw_F36
+  - first:
+      213: 21300196
+    second: CreepyCat_RingDraw_F37
+  - first:
+      213: 21300198
+    second: CreepyCat_RingDraw_F38
+  - first:
+      213: 21300200
+    second: CreepyCat_RingDraw_F39
+  - first:
+      213: 21300202
+    second: CreepyCat_RingDraw_F40
+  - first:
+      213: 21300204
+    second: CreepyCat_RingDraw_F41
+  - first:
+      213: 21300206
+    second: CreepyCat_RingDraw_F42
+  - first:
+      213: 21300208
+    second: CreepyCat_RingDraw_F43
+  - first:
+      213: 21300210
+    second: CreepyCat_RingDraw_F44
+  - first:
+      213: 21300212
+    second: CreepyCat_RingDraw_F45
+  - first:
+      213: 21300214
+    second: CreepyCat_RingDraw_F46
+  - first:
+      213: 21300216
+    second: CreepyCat_RingDraw_F47
+  - first:
+      213: 21300218
+    second: CreepyCat_RingDraw_F48
+  - first:
+      213: 21300220
+    second: CreepyCat_RingDraw_F49
+  - first:
+      213: 21300222
+    second: CreepyCat_RingDraw_F50
+  - first:
+      213: 21300224
+    second: CreepyCat_RingDraw_F51
+  - first:
+      213: 21300226
+    second: CreepyCat_RingDraw_F52
+  - first:
+      213: 21300228
+    second: CreepyCat_RingDraw_F53
+  - first:
+      213: 21300230
+    second: CreepyCat_RingDraw_F54
+  - first:
+      213: 21300232
+    second: CreepyCat_RingDraw_F55
+  - first:
+      213: 21300234
+    second: CreepyCat_RingDraw_F56
+  - first:
+      213: 21300236
+    second: CreepyCat_RingDraw_F57
+  - first:
+      213: 21300238
+    second: CreepyCat_RingDraw_F58
+  - first:
+      213: 21300240
+    second: CreepyCat_RingDraw_F59
+  - first:
+      213: 21300242
+    second: CreepyCat_RingDraw_F60
+  - first:
+      213: 21300244
+    second: CreepyCat_RingDraw_F61
+  - first:
+      213: 21300246
+    second: CreepyCat_RingDraw_F62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F01
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561e3c0856ccfa4994e5787c1f0f4b7
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212d830837bf564884bac3cc8379257
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058656a0c29ec4d44a800367a5227508
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F04
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05033c76df5c71c4ea55f02321ec6023
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F05
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e6fc7113b205488e0dc1e603d0dca
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F06
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9856e5fed9bc26946838c4e121e8825a
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F07
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad49adbd0eba40a4c9ee092d27de129a
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28a0e2d01e1ea349afb953954e3e717
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F09
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148e247546c166e4bb51d2babd6234da
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07c2470a14bf98449186d37a2b4f1db
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb48f6e0f084247b7744f257adf341
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb66e892cc7c18d4593608ae72b8d899
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e53d996dac23dc48a0e00cd305a16a8
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a3cbed2c567e4b8d8261c4ca8095d
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cefd4057ca5674da6e7a5a31e4b8f2
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c099dff2baf8f44beeaccc0383c48b
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a3bd14c8757840bbeaaf9204d6f78
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd99b2ac3f577f14283621674cdd5de8
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cecf5c7a1752544ac2f2c40ca557b5
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76112763dedf63a47975b1d6197d2b4e
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d306074c4f5df4b92a0eed3e432ae9
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d48c9a2e10d44f984043eaa47174f
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e50e15aeed96f49bcf03d7e479f3c6
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e09a66b1538e247901ede902a03016
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f03aa7f08a94254eada26144bfaa5ce
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d388120cc040445b6edd2543dc80c5
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4ebd2791814fe418fee3c8370f772f
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb3186bbaccf174f8b555e65f673920
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2336a3734434c1d448dec025675da330
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a29b84c4572f094bad2ccf590324584
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc099caffa96cb049b40a3699c435447
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319204571d2a16844a47616318226d58
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb38a938d51cc44a4eea7694786ee5
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b106d825e0879014b806f8bbb912649a
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf1061471f2e104a9754c423f9f9e70
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65892558dfcecce488db1c2d71b74dab
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b061a9f7e4930e643bf4c733ad15d5f4
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb30312cf63a01244acf9837816a1e3a
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523decb358ebd544a8f095460802661c
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419cc01ed12bda4daffde5de9ea1509
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19829514900b9c479360835e464951b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa1638a8b9726d43a07af1c16f6e264
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b496b3837a9bb4b9d1d0bc42680c66
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e663038058834199198df064be368
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618578bc1d05d0c42b9201dcc0ff6e36
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8354ba7c96fc2f4c8e17f40b7c82065
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752e1e19d24e8dc42b11437a0c442623
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb13bdaccacec4d9e559b4ccd7b351
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2166cdee9e7c4424e93089514da79df6
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca09e00eea1f8e4890428ab28100b30
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2216093bcd75d2c4eb8dba2afc6ddff2
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d56e3630f67ec43addf23c7251b0dd
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93857e2ed30e9f46b8ac770ce668d28
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d508352072ec1d47971c8f3aa681e30
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400c8e3bc2e4e0a4aaf2a594cb2d54ea
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc6dbc55b2322047a654d6bbf835c14
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab507c762151e174dbb7c1df9f3227d6
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f1165f0edc964d8ed574bf2870fd6
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfba0dcb6419e14bb646e3be3cbb173
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ee654e3582204caf73f92cd2f27fd
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547815a18e395104989ced9d8f587702
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_RingDraw_F62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c399a089a93a41bcfccc338a78b4a
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a2dadf6dfeba59b498e9c0a61d4a0239
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CreepyCat_RingDraw_F21: 21300164
+      CreepyCat_RingDraw_F23: 21300168
+      CreepyCat_RingDraw_F34: 21300190
+      CreepyCat_RingDraw_F29: 21300180
+      CreepyCat_RingDraw_F42: 21300206
+      CreepyCat_RingDraw_F33: 21300188
+      CreepyCat_RingDraw_F11: 21300144
+      CreepyCat_RingDraw_F44: 21300210
+      CreepyCat_RingDraw_F17: 21300156
+      CreepyCat_RingDraw_F08: 21300138
+      CreepyCat_RingDraw_F41: 21300204
+      CreepyCat_RingDraw_F06: 21300134
+      CreepyCat_RingDraw_F58: 21300238
+      CreepyCat_RingDraw_F13: 21300148
+      CreepyCat_RingDraw_F16: 21300154
+      CreepyCat_RingDraw_F14: 21300150
+      CreepyCat_RingDraw_F55: 21300232
+      CreepyCat_RingDraw_F19: 21300160
+      CreepyCat_RingDraw_F56: 21300234
+      CreepyCat_RingDraw_F36: 21300194
+      CreepyCat_RingDraw_F31: 21300184
+      CreepyCat_RingDraw_F40: 21300202
+      CreepyCat_RingDraw_F62: 21300246
+      CreepyCat_RingDraw_F30: 21300182
+      CreepyCat_RingDraw_F60: 21300242
+      CreepyCat_RingDraw_F20: 21300162
+      CreepyCat_RingDraw_F26: 21300174
+      CreepyCat_RingDraw_F27: 21300176
+      CreepyCat_RingDraw_F39: 21300200
+      CreepyCat_RingDraw_F04: 21300130
+      CreepyCat_RingDraw_F03: 21300128
+      CreepyCat_RingDraw_F45: 21300212
+      CreepyCat_RingDraw_F48: 21300218
+      CreepyCat_RingDraw_F32: 21300186
+      CreepyCat_RingDraw_F49: 21300220
+      CreepyCat_RingDraw_F43: 21300208
+      CreepyCat_RingDraw_F52: 21300226
+      CreepyCat_RingDraw_F54: 21300230
+      CreepyCat_RingDraw_F18: 21300158
+      CreepyCat_RingDraw_F47: 21300216
+      CreepyCat_RingDraw_F05: 21300132
+      CreepyCat_RingDraw_F35: 21300192
+      CreepyCat_RingDraw_F51: 21300224
+      CreepyCat_RingDraw_F22: 21300166
+      CreepyCat_RingDraw_F25: 21300172
+      CreepyCat_RingDraw_F53: 21300228
+      CreepyCat_RingDraw_F24: 21300170
+      CreepyCat_RingDraw_F46: 21300214
+      CreepyCat_RingDraw_F07: 21300136
+      CreepyCat_RingDraw_F15: 21300152
+      CreepyCat_RingDraw_F01: 21300124
+      CreepyCat_RingDraw_F12: 21300146
+      CreepyCat_RingDraw_F37: 21300196
+      CreepyCat_RingDraw_F09: 21300140
+      CreepyCat_RingDraw_F10: 21300142
+      CreepyCat_RingDraw_F38: 21300198
+      CreepyCat_RingDraw_F28: 21300178
+      CreepyCat_RingDraw_F57: 21300236
+      CreepyCat_RingDraw_F50: 21300222
+      CreepyCat_RingDraw_F59: 21300240
+      CreepyCat_RingDraw_F02: 21300126
+      CreepyCat_RingDraw_F61: 21300244
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

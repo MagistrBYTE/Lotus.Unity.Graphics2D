@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 3e255c273f37d5048882c3192c4d306d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PSystem1540_0
+  - first:
+      213: 21300002
+    second: PSystem1540_1
+  - first:
+      213: 21300004
+    second: PSystem1540_2
+  - first:
+      213: 21300006
+    second: PSystem1540_3
+  - first:
+      213: 21300008
+    second: PSystem1540_4
+  - first:
+      213: 21300010
+    second: PSystem1540_5
+  - first:
+      213: 21300012
+    second: PSystem1540_6
+  - first:
+      213: 21300014
+    second: PSystem1540_7
+  - first:
+      213: 21300016
+    second: PSystem1540_8
+  - first:
+      213: 21300018
+    second: PSystem1540_9
+  - first:
+      213: 21300020
+    second: PSystem1540_10
+  - first:
+      213: 21300022
+    second: PSystem1540_11
+  - first:
+      213: 21300024
+    second: PSystem1540_12
+  - first:
+      213: 21300026
+    second: PSystem1540_13
+  - first:
+      213: 21300028
+    second: PSystem1540_14
+  - first:
+      213: 21300030
+    second: ElricJohan_Boom_03_01F
+  - first:
+      213: 21300032
+    second: ElricJohan_Boom_03_02F
+  - first:
+      213: 21300034
+    second: ElricJohan_Boom_03_03F
+  - first:
+      213: 21300036
+    second: ElricJohan_Boom_03_04F
+  - first:
+      213: 21300038
+    second: ElricJohan_Boom_03_05F
+  - first:
+      213: 21300040
+    second: ElricJohan_Boom_03_06F
+  - first:
+      213: 21300042
+    second: ElricJohan_Boom_03_07F
+  - first:
+      213: 21300044
+    second: ElricJohan_Boom_03_08F
+  - first:
+      213: 21300046
+    second: ElricJohan_Boom_03_09F
+  - first:
+      213: 21300048
+    second: ElricJohan_Boom_03_010F
+  - first:
+      213: 21300050
+    second: ElricJohan_Boom_03_011F
+  - first:
+      213: 21300052
+    second: ElricJohan_Boom_03_012F
+  - first:
+      213: 21300054
+    second: ElricJohan_Boom_03_013F
+  - first:
+      213: 21300056
+    second: ElricJohan_Boom_03_014F
+  - first:
+      213: 21300058
+    second: ElricJohan_Boom_03_015F
+  - first:
+      213: 21300060
+    second: ElricJohan_Boom_03_F01
+  - first:
+      213: 21300062
+    second: ElricJohan_Boom_03_F02
+  - first:
+      213: 21300064
+    second: ElricJohan_Boom_03_F03
+  - first:
+      213: 21300066
+    second: ElricJohan_Boom_03_F04
+  - first:
+      213: 21300068
+    second: ElricJohan_Boom_03_F05
+  - first:
+      213: 21300070
+    second: ElricJohan_Boom_03_F06
+  - first:
+      213: 21300072
+    second: ElricJohan_Boom_03_F07
+  - first:
+      213: 21300074
+    second: ElricJohan_Boom_03_F08
+  - first:
+      213: 21300076
+    second: ElricJohan_Boom_03_F09
+  - first:
+      213: 21300078
+    second: ElricJohan_Boom_03_F10
+  - first:
+      213: 21300080
+    second: ElricJohan_Boom_03_F11
+  - first:
+      213: 21300082
+    second: ElricJohan_Boom_03_F12
+  - first:
+      213: 21300084
+    second: ElricJohan_Boom_03_F13
+  - first:
+      213: 21300086
+    second: ElricJohan_Boom_03_F14
+  - first:
+      213: 21300088
+    second: ElricJohan_Boom_03_F15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c813dba95ba9fc2489ec95a9a7abb45a
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06383687a1f30ec4e80f6abbaac22a4b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62b6a0e07aed294e83be7b2a61828d3
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F04
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a91a550a72c0b846a5cedb8f3d040ee
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F05
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cdeeabc19854a44a412dfe4515b038
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F06
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80e719c3e337664bbf8724c18b77ab0
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F07
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c816d323a1578947b7886db58e14249
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297156d83283eb043b9d023c06106ed2
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F09
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4867d5c1ee2b694ebe6ee77d10c0c97
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2655f42595387084b9f743fa0cda0b5c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca76534678287d046823eea53ea2ace4
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e995a9a18b5b5f448a5300ad5dedd39
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23e2b08c492ea94bb3d2321dbbe17fb
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d31ab32621e845a256e15a8017581
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Boom_03_F15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd2364b0c8a96342a34e419e479dbdc
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eaed063d3c130ac4d907111595e21ac3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElricJohan_Boom_03_F09: 21300076
+      ElricJohan_Boom_03_F08: 21300074
+      ElricJohan_Boom_03_F03: 21300064
+      ElricJohan_Boom_03_F10: 21300078
+      ElricJohan_Boom_03_F11: 21300080
+      ElricJohan_Boom_03_F02: 21300062
+      ElricJohan_Boom_03_F06: 21300070
+      ElricJohan_Boom_03_F01: 21300060
+      ElricJohan_Boom_03_F13: 21300084
+      ElricJohan_Boom_03_F15: 21300088
+      ElricJohan_Boom_03_F04: 21300066
+      ElricJohan_Boom_03_F12: 21300082
+      ElricJohan_Boom_03_F07: 21300072
+      ElricJohan_Boom_03_F14: 21300086
+      ElricJohan_Boom_03_F05: 21300068
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2170 @@
+fileFormatVersion: 2
+guid: 84019661d5484ac0bf8e5bb2fabb4d79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fscopel_ExplosionDome_1
+  - first:
+      213: 21300002
+    second: Fscopel_ExplosionDome_2
+  - first:
+      213: 21300004
+    second: Fscopel_ExplosionDome_3
+  - first:
+      213: 21300006
+    second: Fscopel_ExplosionDome_4
+  - first:
+      213: 21300008
+    second: Fscopel_ExplosionDome_5
+  - first:
+      213: 21300010
+    second: Fscopel_ExplosionDome_6
+  - first:
+      213: 21300012
+    second: Fscopel_ExplosionDome_7
+  - first:
+      213: 21300014
+    second: Fscopel_ExplosionDome_8
+  - first:
+      213: 21300016
+    second: Fscopel_ExplosionDome_9
+  - first:
+      213: 21300018
+    second: Fscopel_ExplosionDome_10
+  - first:
+      213: 21300020
+    second: Fscopel_ExplosionDome_11
+  - first:
+      213: 21300022
+    second: Fscopel_ExplosionDome_12
+  - first:
+      213: 21300024
+    second: Fscopel_ExplosionDome_13
+  - first:
+      213: 21300026
+    second: Fscopel_ExplosionDome_14
+  - first:
+      213: 21300028
+    second: Fscopel_ExplosionDome_15
+  - first:
+      213: 21300030
+    second: Fscopel_ExplosionDome_16
+  - first:
+      213: 21300032
+    second: Fscopel_ExplosionDome_17
+  - first:
+      213: 21300034
+    second: Fscopel_ExplosionDome_18
+  - first:
+      213: 21300036
+    second: Fscopel_ExplosionDome_19
+  - first:
+      213: 21300038
+    second: Fscopel_ExplosionDome_20
+  - first:
+      213: 21300040
+    second: Fscopel_ExplosionDome_21
+  - first:
+      213: 21300042
+    second: Fscopel_ExplosionDome_22
+  - first:
+      213: 21300044
+    second: Fscopel_ExplosionDome_23
+  - first:
+      213: 21300046
+    second: Fscopel_ExplosionDome_24
+  - first:
+      213: 21300048
+    second: Fscopel_ExplosionDome_25
+  - first:
+      213: 21300050
+    second: Fscopel_ExplosionDome_26
+  - first:
+      213: 21300052
+    second: Fscopel_ExplosionDome_27
+  - first:
+      213: 21300054
+    second: Fscopel_ExplosionDome_28
+  - first:
+      213: 21300056
+    second: Fscopel_ExplosionDome_29
+  - first:
+      213: 21300058
+    second: Fscopel_ExplosionDome_30
+  - first:
+      213: 21300060
+    second: Fscopel_ExplosionDome_31
+  - first:
+      213: 21300062
+    second: Fscopel_ExplosionDome_32
+  - first:
+      213: 21300064
+    second: Fscopel_ExplosionDome_33
+  - first:
+      213: 21300066
+    second: Fscopel_ExplosionDome_34
+  - first:
+      213: 21300068
+    second: Fscopel_ExplosionDome_35
+  - first:
+      213: 21300070
+    second: Fscopel_ExplosionDome_36
+  - first:
+      213: 21300072
+    second: Fscopel_ExplosionDome_37
+  - first:
+      213: 21300074
+    second: Fscopel_ExplosionDome_38
+  - first:
+      213: 21300076
+    second: Fscopel_ExplosionDome_39
+  - first:
+      213: 21300078
+    second: Fscopel_ExplosionDome_40
+  - first:
+      213: 21300080
+    second: Fscopel_ExplosionDome_41
+  - first:
+      213: 21300082
+    second: Fscopel_ExplosionDome_42
+  - first:
+      213: 21300084
+    second: Fscopel_ExplosionDome_43
+  - first:
+      213: 21300086
+    second: Fscopel_ExplosionDome_44
+  - first:
+      213: 21300088
+    second: Fscopel_ExplosionDome_45
+  - first:
+      213: 21300090
+    second: Fscopel_ExplosionDome_46
+  - first:
+      213: 21300092
+    second: Fscopel_ExplosionDome_47
+  - first:
+      213: 21300094
+    second: Fscopel_ExplosionDome_48
+  - first:
+      213: 21300096
+    second: Fscopel_ExplosionDome_49
+  - first:
+      213: 21300098
+    second: Fscopel_ExplosionDome_50
+  - first:
+      213: 21300100
+    second: Fscopel_ExplosionDome_51
+  - first:
+      213: 21300102
+    second: Fscopel_ExplosionDome_52
+  - first:
+      213: 21300104
+    second: Fscopel_ExplosionDome_53
+  - first:
+      213: 21300106
+    second: Fscopel_ExplosionDome_54
+  - first:
+      213: 21300108
+    second: Fscopel_ExplosionDome_55
+  - first:
+      213: 21300110
+    second: Fscopel_ExplosionDome_56
+  - first:
+      213: 21300112
+    second: Fscopel_ExplosionDome_57
+  - first:
+      213: 21300114
+    second: Fscopel_ExplosionDome_58
+  - first:
+      213: 21300116
+    second: Fscopel_ExplosionDome_59
+  - first:
+      213: 21300118
+    second: Fscopel_ExplosionDome_60
+  - first:
+      213: 21300120
+    second: Fscopel_ExplosionDome_61
+  - first:
+      213: 21300122
+    second: Fscopel_ExplosionDome_62
+  - first:
+      213: 21300124
+    second: Fscopel_ExplosionDome_63
+  - first:
+      213: 21300126
+    second: Fscopel_ExplosionDome_64
+  - first:
+      213: 21300128
+    second: Fscopel_ExplosionDome_65
+  - first:
+      213: 21300130
+    second: Fscopel_ExplosionDome_66
+  - first:
+      213: 21300132
+    second: Fscopel_ExplosionDome_67
+  - first:
+      213: 21300134
+    second: Fscopel_ExplosionDome_68
+  - first:
+      213: 21300136
+    second: Fscopel_ExplosionDome_69
+  - first:
+      213: 21300138
+    second: Fscopel_ExplosionDome_70
+  - first:
+      213: 21300140
+    second: Fscopel_ExplosionDome_71
+  - first:
+      213: 21300142
+    second: Fscopel_ExplosionDome_72
+  - first:
+      213: 21300144
+    second: Fscopel_ExplosionDome_73
+  - first:
+      213: 21300146
+    second: Fscopel_ExplosionDome_74
+  - first:
+      213: 21300148
+    second: Fscopel_ExplosionDome_F01
+  - first:
+      213: 21300150
+    second: Fscopel_ExplosionDome_F02
+  - first:
+      213: 21300152
+    second: Fscopel_ExplosionDome_F03
+  - first:
+      213: 21300154
+    second: Fscopel_ExplosionDome_F04
+  - first:
+      213: 21300156
+    second: Fscopel_ExplosionDome_F05
+  - first:
+      213: 21300158
+    second: Fscopel_ExplosionDome_F06
+  - first:
+      213: 21300160
+    second: Fscopel_ExplosionDome_F07
+  - first:
+      213: 21300162
+    second: Fscopel_ExplosionDome_F08
+  - first:
+      213: 21300164
+    second: Fscopel_ExplosionDome_F09
+  - first:
+      213: 21300166
+    second: Fscopel_ExplosionDome_F10
+  - first:
+      213: 21300168
+    second: Fscopel_ExplosionDome_F11
+  - first:
+      213: 21300170
+    second: Fscopel_ExplosionDome_F12
+  - first:
+      213: 21300172
+    second: Fscopel_ExplosionDome_F13
+  - first:
+      213: 21300174
+    second: Fscopel_ExplosionDome_F14
+  - first:
+      213: 21300176
+    second: Fscopel_ExplosionDome_F15
+  - first:
+      213: 21300178
+    second: Fscopel_ExplosionDome_F16
+  - first:
+      213: 21300180
+    second: Fscopel_ExplosionDome_F17
+  - first:
+      213: 21300182
+    second: Fscopel_ExplosionDome_F18
+  - first:
+      213: 21300184
+    second: Fscopel_ExplosionDome_F19
+  - first:
+      213: 21300186
+    second: Fscopel_ExplosionDome_F20
+  - first:
+      213: 21300188
+    second: Fscopel_ExplosionDome_F21
+  - first:
+      213: 21300190
+    second: Fscopel_ExplosionDome_F22
+  - first:
+      213: 21300192
+    second: Fscopel_ExplosionDome_F23
+  - first:
+      213: 21300194
+    second: Fscopel_ExplosionDome_F24
+  - first:
+      213: 21300196
+    second: Fscopel_ExplosionDome_F25
+  - first:
+      213: 21300198
+    second: Fscopel_ExplosionDome_F26
+  - first:
+      213: 21300200
+    second: Fscopel_ExplosionDome_F27
+  - first:
+      213: 21300202
+    second: Fscopel_ExplosionDome_F28
+  - first:
+      213: 21300204
+    second: Fscopel_ExplosionDome_F29
+  - first:
+      213: 21300206
+    second: Fscopel_ExplosionDome_F30
+  - first:
+      213: 21300208
+    second: Fscopel_ExplosionDome_F31
+  - first:
+      213: 21300210
+    second: Fscopel_ExplosionDome_F32
+  - first:
+      213: 21300212
+    second: Fscopel_ExplosionDome_F33
+  - first:
+      213: 21300214
+    second: Fscopel_ExplosionDome_F34
+  - first:
+      213: 21300216
+    second: Fscopel_ExplosionDome_F35
+  - first:
+      213: 21300218
+    second: Fscopel_ExplosionDome_F36
+  - first:
+      213: 21300220
+    second: Fscopel_ExplosionDome_F37
+  - first:
+      213: 21300222
+    second: Fscopel_ExplosionDome_F38
+  - first:
+      213: 21300224
+    second: Fscopel_ExplosionDome_F39
+  - first:
+      213: 21300226
+    second: Fscopel_ExplosionDome_F40
+  - first:
+      213: 21300228
+    second: Fscopel_ExplosionDome_F41
+  - first:
+      213: 21300230
+    second: Fscopel_ExplosionDome_F42
+  - first:
+      213: 21300232
+    second: Fscopel_ExplosionDome_F43
+  - first:
+      213: 21300234
+    second: Fscopel_ExplosionDome_F44
+  - first:
+      213: 21300236
+    second: Fscopel_ExplosionDome_F45
+  - first:
+      213: 21300238
+    second: Fscopel_ExplosionDome_F46
+  - first:
+      213: 21300240
+    second: Fscopel_ExplosionDome_F47
+  - first:
+      213: 21300242
+    second: Fscopel_ExplosionDome_F48
+  - first:
+      213: 21300244
+    second: Fscopel_ExplosionDome_F49
+  - first:
+      213: 21300246
+    second: Fscopel_ExplosionDome_F50
+  - first:
+      213: 21300248
+    second: Fscopel_ExplosionDome_F51
+  - first:
+      213: 21300250
+    second: Fscopel_ExplosionDome_F52
+  - first:
+      213: 21300252
+    second: Fscopel_ExplosionDome_F53
+  - first:
+      213: 21300254
+    second: Fscopel_ExplosionDome_F54
+  - first:
+      213: 21300256
+    second: Fscopel_ExplosionDome_F55
+  - first:
+      213: 21300258
+    second: Fscopel_ExplosionDome_F56
+  - first:
+      213: 21300260
+    second: Fscopel_ExplosionDome_F57
+  - first:
+      213: 21300262
+    second: Fscopel_ExplosionDome_F58
+  - first:
+      213: 21300264
+    second: Fscopel_ExplosionDome_F59
+  - first:
+      213: 21300266
+    second: Fscopel_ExplosionDome_F60
+  - first:
+      213: 21300268
+    second: Fscopel_ExplosionDome_F61
+  - first:
+      213: 21300270
+    second: Fscopel_ExplosionDome_F62
+  - first:
+      213: 21300272
+    second: Fscopel_ExplosionDome_F63
+  - first:
+      213: 21300274
+    second: Fscopel_ExplosionDome_F64
+  - first:
+      213: 21300276
+    second: Fscopel_ExplosionDome_F65
+  - first:
+      213: 21300278
+    second: Fscopel_ExplosionDome_F66
+  - first:
+      213: 21300280
+    second: Fscopel_ExplosionDome_F67
+  - first:
+      213: 21300282
+    second: Fscopel_ExplosionDome_F68
+  - first:
+      213: 21300284
+    second: Fscopel_ExplosionDome_F69
+  - first:
+      213: 21300286
+    second: Fscopel_ExplosionDome_F70
+  - first:
+      213: 21300288
+    second: Fscopel_ExplosionDome_F71
+  - first:
+      213: 21300290
+    second: Fscopel_ExplosionDome_F72
+  - first:
+      213: 21300292
+    second: Fscopel_ExplosionDome_F73
+  - first:
+      213: 21300294
+    second: Fscopel_ExplosionDome_F74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bbd20099def47448558b89995316b4
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be035d323cabd547b7ff158acde5205
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8fe7458ef23604e9e0a7304c742a37
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9ee3bafc579734d982edfea1b76918
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f3a9f8cd550946ad590ddf38a88e4
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F06
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f37bc78079ae04fa4d88180b64b0fc
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F07
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49dbb4d51a0f0a48934b0acbfe8de21
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F08
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 673
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da8fe329a1b694887aa78d2f9a1fbe
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427141b0cc63b947b976f3789524a42
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262549d750d8a6f4c80d173eb4530877
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7c02f76177d904a8a798f4ded62f02
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fa88687dcfc224abb7197fa0333873
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e48171e9654743a7e3e3a9786862f
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf66154c73eb82f4baf9fc061274fb72
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecbae804f8886943bb93dfc9eab7134
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 577
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84341d3186ae187448d9004f02db8960
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43d9b2a53ed7504ba59c9955b1f7909
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5695fd1c5aed84c90d66c2b90a597a
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbc703de19a4e34791d5b459781511a
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36e0781864564642974ab62d6dd0148
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54153b416ed946448db363fd5dcef43
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99366f7fe109ee242b3185db3c3adaea
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f1d77038ec30e45a63fe3fdb1baf2a
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 481
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa82c6b3b715084ab43c003733c0348
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54570da1f43088d4585eaf8a0678a3fe
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32358dd6340c634428fc5a74c1746315
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15b64681fbbf24fa75b794da57af6c
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0fe3b6d56cbbb418ea3da4219ce417
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24354f37ef1c014e967171928a82940
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53668e2bd3974d943b8b424e6975e298
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632198cc0e1cdaa48991c4ff215c8acb
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 385
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdec7dfd791e68c41aadf1319fddb084
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb63fbd749732bb47872467f4fc49791
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa59fca9bb82b4a802067df9b02386
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd49797aa49c544af0251733068323
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aceb7a3f2f5c5949896e0b3d1866c78
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4961db7ffe5564fac84e8a1a9dbbe6
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f6e3165310de743b5584d003173bed
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f34755c0986644981db69002b88429
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 289
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20ed9b23d3deb48960753c70d7fc6f
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2d4ebd4260dfa4087d560a29f6de64
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed1fd7464ad3cb42be113b5e1d3baed
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be144aba982924094c6ce6cd136756
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183c6fc9dcc8d624ab233056315d2afe
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ebc9cee028bc64b9d0c48c7771047b
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7084dc48c76aece43888754ce87374c5
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31620298a9189de41b50512109b34e0d
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 193
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b06fb98f474b448318032be7a81f0
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ab034b99fb63942a46cbf0bf380c56
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f98326edbf4fd04394eb55b8269719b
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc44755970d43d4da2b6539d53541ab
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16db0f482289ba04fb3a72cb3ec1d2b0
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82119abb565280c4faa95f5e6d9e941f
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68fc252c66c284780e4771b7b4e5ac
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bd01c399404f24f9117b33f80b913f
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 97
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4315b86a8cfdeb148954aa9c34d45bba
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecebc431c1c81f64d8b61a641cd514ca
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e724bee207a0bc47b9d75ffb9e53c4d
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4c7ac3eed6dec4894b2493d4a5c000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5eab93b4390745804aa06ccdf4f61
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238bc3d64fbb2bf4baae87c994d8eb44
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0429b5138fafb41b9b8c940b19b559
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88ec791302991141b4881b3c246a7ee
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F64
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938b3c53336d4bb4aa1d57797d2c9aff
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a92f6610637c746b24fa0daa630cd9
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d4f534be49d1419e344e3d282f2d4
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9f69ed503fd5f4e96c865a13b7ddc2
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d3fd1ef16ebb547aa14b3c242833c8
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d83b5460b91a44ea8e5b5ea786ee10
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaeb25e603869846af451629e61890b
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77620e5ce0d43546a10daa8f1002db9
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8cebb16571d343a463d2729800b90
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0c4f4ef7822f04984136543aeb8f4e
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_ExplosionDome_F74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d18b40ff5918e44997d8493a7ea548
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fscopel_ExplosionDome_F03: 21300152
+      Fscopel_ExplosionDome_F58: 21300262
+      Fscopel_ExplosionDome_F21: 21300188
+      Fscopel_ExplosionDome_F14: 21300174
+      Fscopel_ExplosionDome_F36: 21300218
+      Fscopel_ExplosionDome_F18: 21300182
+      Fscopel_ExplosionDome_F07: 21300160
+      Fscopel_ExplosionDome_F60: 21300266
+      Fscopel_ExplosionDome_F34: 21300214
+      Fscopel_ExplosionDome_F62: 21300270
+      Fscopel_ExplosionDome_F12: 21300170
+      Fscopel_ExplosionDome_F30: 21300206
+      Fscopel_ExplosionDome_F52: 21300250
+      Fscopel_ExplosionDome_F04: 21300154
+      Fscopel_ExplosionDome_F57: 21300260
+      Fscopel_ExplosionDome_F11: 21300168
+      Fscopel_ExplosionDome_F23: 21300192
+      Fscopel_ExplosionDome_F15: 21300176
+      Fscopel_ExplosionDome_F01: 21300148
+      Fscopel_ExplosionDome_F02: 21300150
+      Fscopel_ExplosionDome_F22: 21300190
+      Fscopel_ExplosionDome_F27: 21300200
+      Fscopel_ExplosionDome_F54: 21300254
+      Fscopel_ExplosionDome_F55: 21300256
+      Fscopel_ExplosionDome_F43: 21300232
+      Fscopel_ExplosionDome_F73: 21300292
+      Fscopel_ExplosionDome_F45: 21300236
+      Fscopel_ExplosionDome_F50: 21300246
+      Fscopel_ExplosionDome_F67: 21300280
+      Fscopel_ExplosionDome_F59: 21300264
+      Fscopel_ExplosionDome_F29: 21300204
+      Fscopel_ExplosionDome_F71: 21300288
+      Fscopel_ExplosionDome_F46: 21300238
+      Fscopel_ExplosionDome_F61: 21300268
+      Fscopel_ExplosionDome_F26: 21300198
+      Fscopel_ExplosionDome_F49: 21300244
+      Fscopel_ExplosionDome_F63: 21300272
+      Fscopel_ExplosionDome_F41: 21300228
+      Fscopel_ExplosionDome_F72: 21300290
+      Fscopel_ExplosionDome_F33: 21300212
+      Fscopel_ExplosionDome_F40: 21300226
+      Fscopel_ExplosionDome_F25: 21300196
+      Fscopel_ExplosionDome_F65: 21300276
+      Fscopel_ExplosionDome_F16: 21300178
+      Fscopel_ExplosionDome_F53: 21300252
+      Fscopel_ExplosionDome_F44: 21300234
+      Fscopel_ExplosionDome_F66: 21300278
+      Fscopel_ExplosionDome_F47: 21300240
+      Fscopel_ExplosionDome_F06: 21300158
+      Fscopel_ExplosionDome_F51: 21300248
+      Fscopel_ExplosionDome_F09: 21300164
+      Fscopel_ExplosionDome_F17: 21300180
+      Fscopel_ExplosionDome_F74: 21300294
+      Fscopel_ExplosionDome_F28: 21300202
+      Fscopel_ExplosionDome_F37: 21300220
+      Fscopel_ExplosionDome_F56: 21300258
+      Fscopel_ExplosionDome_F10: 21300166
+      Fscopel_ExplosionDome_F08: 21300162
+      Fscopel_ExplosionDome_F38: 21300222
+      Fscopel_ExplosionDome_F39: 21300224
+      Fscopel_ExplosionDome_F19: 21300184
+      Fscopel_ExplosionDome_F20: 21300186
+      Fscopel_ExplosionDome_F69: 21300284
+      Fscopel_ExplosionDome_F24: 21300194
+      Fscopel_ExplosionDome_F64: 21300274
+      Fscopel_ExplosionDome_F68: 21300282
+      Fscopel_ExplosionDome_F42: 21300230
+      Fscopel_ExplosionDome_F13: 21300172
+      Fscopel_ExplosionDome_F32: 21300210
+      Fscopel_ExplosionDome_F48: 21300242
+      Fscopel_ExplosionDome_F70: 21300286
+      Fscopel_ExplosionDome_F35: 21300216
+      Fscopel_ExplosionDome_F31: 21300208
+      Fscopel_ExplosionDome_F05: 21300156
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: aef262d4e3811ee479d4f8d98efd5044
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Unity_ParticleFlamesSheet_0
+  - first:
+      213: 21300002
+    second: Unity_ParticleFlamesSheet_1
+  - first:
+      213: 21300004
+    second: Unity_ParticleFlamesSheet_2
+  - first:
+      213: 21300006
+    second: Unity_ParticleFlamesSheet_3
+  - first:
+      213: 21300008
+    second: Unity_ParticleFlamesSheet_4
+  - first:
+      213: 21300010
+    second: Unity_ParticleFlamesSheet_5
+  - first:
+      213: 21300012
+    second: Unity_ParticleFlamesSheet_6
+  - first:
+      213: 21300014
+    second: Unity_ParticleFlamesSheet_7
+  - first:
+      213: 21300016
+    second: Unity_ParticleFlamesSheet_8
+  - first:
+      213: 21300018
+    second: Unity_ParticleFlamesSheet_9
+  - first:
+      213: 21300020
+    second: Unity_ParticleFlamesSheet_10
+  - first:
+      213: 21300022
+    second: Unity_ParticleFlamesSheet_11
+  - first:
+      213: 21300024
+    second: Unity_ParticleFlamesSheet_12
+  - first:
+      213: 21300026
+    second: Unity_ParticleFlamesSheet_13
+  - first:
+      213: 21300028
+    second: Unity_ParticleFlamesSheet_14
+  - first:
+      213: 21300030
+    second: Unity_ParticleFlamesSheet_15
+  - first:
+      213: 21300032
+    second: Unity_ParticleFlamesSheet_16
+  - first:
+      213: 21300034
+    second: Unity_ParticleFlamesSheet_17
+  - first:
+      213: 21300036
+    second: Unity_ParticleFlamesSheet_18
+  - first:
+      213: 21300038
+    second: Unity_ParticleFlamesSheet_19
+  - first:
+      213: 21300040
+    second: Unity_ParticleFlamesSheet_20
+  - first:
+      213: 21300042
+    second: Unity_ParticleFlamesSheet_21
+  - first:
+      213: 21300044
+    second: Unity_ParticleFlamesSheet_22
+  - first:
+      213: 21300046
+    second: Unity_ParticleFlamesSheet_23
+  - first:
+      213: 21300048
+    second: Unity_ParticleFlamesSheet_24
+  - first:
+      213: 21300050
+    second: Unity_ParticleFlamesSheet_25
+  - first:
+      213: 21300052
+    second: Unity_ParticleFlamesSheet_26
+  - first:
+      213: 21300054
+    second: Unity_ParticleFlamesSheet_27
+  - first:
+      213: 21300056
+    second: Unity_ParticleFlamesSheet_28
+  - first:
+      213: 21300058
+    second: Unity_ParticleFlamesSheet_29
+  - first:
+      213: 21300060
+    second: Unity_ParticleFlamesSheet_30
+  - first:
+      213: 21300062
+    second: Unity_ParticleFlamesSheet_31
+  - first:
+      213: 21300064
+    second: Unity_ParticleFlames_F01
+  - first:
+      213: 21300066
+    second: Unity_ParticleFlames_F02
+  - first:
+      213: 21300068
+    second: Unity_ParticleFlames_F03
+  - first:
+      213: 21300070
+    second: Unity_ParticleFlames_F04
+  - first:
+      213: 21300072
+    second: Unity_ParticleFlames_F05
+  - first:
+      213: 21300074
+    second: Unity_ParticleFlames_F06
+  - first:
+      213: 21300076
+    second: Unity_ParticleFlames_F07
+  - first:
+      213: 21300078
+    second: Unity_ParticleFlames_F08
+  - first:
+      213: 21300080
+    second: Unity_ParticleFlames_F09
+  - first:
+      213: 21300082
+    second: Unity_ParticleFlames_F10
+  - first:
+      213: 21300084
+    second: Unity_ParticleFlames_F11
+  - first:
+      213: 21300086
+    second: Unity_ParticleFlames_F12
+  - first:
+      213: 21300088
+    second: Unity_ParticleFlames_F13
+  - first:
+      213: 21300090
+    second: Unity_ParticleFlames_F14
+  - first:
+      213: 21300092
+    second: Unity_ParticleFlames_F15
+  - first:
+      213: 21300094
+    second: Unity_ParticleFlames_F16
+  - first:
+      213: 21300096
+    second: Unity_ParticleFlames_F17
+  - first:
+      213: 21300098
+    second: Unity_ParticleFlames_F18
+  - first:
+      213: 21300100
+    second: Unity_ParticleFlames_F19
+  - first:
+      213: 21300102
+    second: Unity_ParticleFlames_F20
+  - first:
+      213: 21300104
+    second: Unity_ParticleFlames_F21
+  - first:
+      213: 21300106
+    second: Unity_ParticleFlames_F22
+  - first:
+      213: 21300108
+    second: Unity_ParticleFlames_F23
+  - first:
+      213: 21300110
+    second: Unity_ParticleFlames_F24
+  - first:
+      213: 21300112
+    second: Unity_ParticleFlames_F25
+  - first:
+      213: 21300114
+    second: Unity_ParticleFlames_F26
+  - first:
+      213: 21300116
+    second: Unity_ParticleFlames_F27
+  - first:
+      213: 21300118
+    second: Unity_ParticleFlames_F28
+  - first:
+      213: 21300120
+    second: Unity_ParticleFlames_F29
+  - first:
+      213: 21300122
+    second: Unity_ParticleFlames_F30
+  - first:
+      213: 21300124
+    second: Unity_ParticleFlames_F31
+  - first:
+      213: 21300126
+    second: Unity_ParticleFlames_F32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4edac83a968dd4d8e537b1ead089df
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b675a2de7eb2ea4ea1a0a412fb3a1c8
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da9c41e749cf2548bdd8efe01bf81fd
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc591e46830f5047a69e2d0c8cde943
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9f8baf41649954f9aad37014d6a32a
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F06
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89bd1a11974aee4e9c51bd1bc2c8453
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F07
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a1e4b514a9f1441b1e5588bc126efc
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F08
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e28ba4ad6c6284c912fd9c9a39d1df
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9084dbcaddfaa044e996c729eeed273a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f855e262d2a7409fb48f0f1fbefcb
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adc6cd2c1fb9b645a33a2716f67bde1
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de6fbac016c904aa368b47f2e35595
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b95a92a3f6e9364b89eae8f053ae789
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9aa4611f4a01f4497d7c80c2b1479f
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700240dea49d4784d8f35a3550c2de53
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69249be323e5e994a9242559e67c6f58
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4da52de9d0a914ca4033faf9c1d19f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e281ac192b29b14dbea1979e1396a80
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5693687f65e964daadb055f4d7f947
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4fd8c707279641b4ee5697f6052a2
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48173d4b840cf284e8446a50fa89175f
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447ff196e5c4da1419d792b736bff039
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b1aca4c6176674bb2d352aecfac03a
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab8ebadee86c34eb958e32c8063977
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeaf543538de1843b4f3e8515a26413
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3051fc82e04b2654692b4002365dc753
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9444d45360bed843990cf0817663f46
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c4225d8e6f1d54c9675e1cb7f82bc5
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559e4c75fa996324ca09129f8a204a65
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff2dec732237884a98e958fb0cb5423
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4920b26ccc4f6f5438749ff20ad88ce2
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_ParticleFlames_F32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf48687e0f34d3499aae8cadd530089
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb13ddc2ea52e514ba5d9619644a4435
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Unity_ParticleFlames_F32: 21300126
+      Unity_ParticleFlames_F28: 21300118
+      Unity_ParticleFlames_F31: 21300124
+      Unity_ParticleFlames_F25: 21300112
+      Unity_ParticleFlames_F17: 21300096
+      Unity_ParticleFlames_F12: 21300086
+      Unity_ParticleFlames_F05: 21300072
+      Unity_ParticleFlames_F30: 21300122
+      Unity_ParticleFlames_F13: 21300088
+      Unity_ParticleFlames_F26: 21300114
+      Unity_ParticleFlames_F04: 21300070
+      Unity_ParticleFlames_F19: 21300100
+      Unity_ParticleFlames_F06: 21300074
+      Unity_ParticleFlames_F02: 21300066
+      Unity_ParticleFlames_F08: 21300078
+      Unity_ParticleFlames_F18: 21300098
+      Unity_ParticleFlames_F20: 21300102
+      Unity_ParticleFlames_F22: 21300106
+      Unity_ParticleFlames_F14: 21300090
+      Unity_ParticleFlames_F24: 21300110
+      Unity_ParticleFlames_F01: 21300064
+      Unity_ParticleFlames_F03: 21300068
+      Unity_ParticleFlames_F07: 21300076
+      Unity_ParticleFlames_F09: 21300080
+      Unity_ParticleFlames_F27: 21300116
+      Unity_ParticleFlames_F11: 21300084
+      Unity_ParticleFlames_F10: 21300082
+      Unity_ParticleFlames_F16: 21300094
+      Unity_ParticleFlames_F23: 21300108
+      Unity_ParticleFlames_F15: 21300092
+      Unity_ParticleFlames_F29: 21300120
+      Unity_ParticleFlames_F21: 21300104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

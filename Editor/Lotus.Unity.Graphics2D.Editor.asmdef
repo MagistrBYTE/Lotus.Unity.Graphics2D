@@ -1,0 +1,20 @@
+{
+    "name": "Lotus.Unity.Graphics2D.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a42e5bce44955ec45b7b98ef7aff40c0",
+        "GUID:0cf8b5180e88cd746bfd0eec8ee8d629",
+        "GUID:614e1ef37eee49b468416f8744d11fc3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

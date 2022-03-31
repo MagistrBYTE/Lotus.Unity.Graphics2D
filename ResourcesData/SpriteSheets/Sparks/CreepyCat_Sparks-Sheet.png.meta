@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: f55fea6d95dd49545bbdb45e9e7d1da9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CreepyCat_Sparks#_0
+  - first:
+      213: 21300002
+    second: CreepyCat_Sparks#_1
+  - first:
+      213: 21300004
+    second: CreepyCat_Sparks#_2
+  - first:
+      213: 21300006
+    second: CreepyCat_Sparks#_3
+  - first:
+      213: 21300008
+    second: CreepyCat_Sparks#_4
+  - first:
+      213: 21300010
+    second: CreepyCat_Sparks#_5
+  - first:
+      213: 21300012
+    second: CreepyCat_Sparks#_6
+  - first:
+      213: 21300014
+    second: CreepyCat_Sparks#_7
+  - first:
+      213: 21300016
+    second: CreepyCat_Sparks#_8
+  - first:
+      213: 21300018
+    second: CreepyCat_Sparks#_9
+  - first:
+      213: 21300020
+    second: CreepyCat_Sparks#_10
+  - first:
+      213: 21300022
+    second: CreepyCat_Sparks#_11
+  - first:
+      213: 21300024
+    second: CreepyCat_Sparks#_12
+  - first:
+      213: 21300026
+    second: CreepyCat_Sparks#_13
+  - first:
+      213: 21300028
+    second: CreepyCat_Sparks#_14
+  - first:
+      213: 21300030
+    second: CreepyCat_Sparks#_15
+  - first:
+      213: 21300032
+    second: CreepyCat_Sparks#_16
+  - first:
+      213: 21300034
+    second: CreepyCat_Sparks#_17
+  - first:
+      213: 21300036
+    second: CreepyCat_Sparks#_18
+  - first:
+      213: 21300038
+    second: CreepyCat_Sparks#_19
+  - first:
+      213: 21300040
+    second: CreepyCat_Sparks#_20
+  - first:
+      213: 21300042
+    second: CreepyCat_Sparks#_21
+  - first:
+      213: 21300044
+    second: CreepyCat_Sparks#_22
+  - first:
+      213: 21300046
+    second: CreepyCat_Sparks#_23
+  - first:
+      213: 21300048
+    second: CreepyCat_Sparks#_24
+  - first:
+      213: 21300050
+    second: CreepyCat_Sparks#_25
+  - first:
+      213: 21300052
+    second: CreepyCat_Sparks#_26
+  - first:
+      213: 21300054
+    second: CreepyCat_Sparks#_27
+  - first:
+      213: 21300056
+    second: CreepyCat_Sparks#_28
+  - first:
+      213: 21300058
+    second: CreepyCat_Sparks#_29
+  - first:
+      213: 21300060
+    second: CreepyCat_Sparks#_30
+  - first:
+      213: 21300062
+    second: CreepyCat_Sparks#_31
+  - first:
+      213: 21300064
+    second: CreepyCat_Sparks_F01
+  - first:
+      213: 21300066
+    second: CreepyCat_Sparks_F02
+  - first:
+      213: 21300068
+    second: CreepyCat_Sparks_F03
+  - first:
+      213: 21300070
+    second: CreepyCat_Sparks_F04
+  - first:
+      213: 21300072
+    second: CreepyCat_Sparks_F05
+  - first:
+      213: 21300074
+    second: CreepyCat_Sparks_F06
+  - first:
+      213: 21300076
+    second: CreepyCat_Sparks_F07
+  - first:
+      213: 21300078
+    second: CreepyCat_Sparks_F08
+  - first:
+      213: 21300080
+    second: CreepyCat_Sparks_F09
+  - first:
+      213: 21300082
+    second: CreepyCat_Sparks_F10
+  - first:
+      213: 21300084
+    second: CreepyCat_Sparks_F11
+  - first:
+      213: 21300086
+    second: CreepyCat_Sparks_F12
+  - first:
+      213: 21300088
+    second: CreepyCat_Sparks_F13
+  - first:
+      213: 21300090
+    second: CreepyCat_Sparks_F14
+  - first:
+      213: 21300092
+    second: CreepyCat_Sparks_F15
+  - first:
+      213: 21300094
+    second: CreepyCat_Sparks_F16
+  - first:
+      213: 21300096
+    second: CreepyCat_Sparks_F17
+  - first:
+      213: 21300098
+    second: CreepyCat_Sparks_F18
+  - first:
+      213: 21300100
+    second: CreepyCat_Sparks_F19
+  - first:
+      213: 21300102
+    second: CreepyCat_Sparks_F20
+  - first:
+      213: 21300104
+    second: CreepyCat_Sparks_F21
+  - first:
+      213: 21300106
+    second: CreepyCat_Sparks_F22
+  - first:
+      213: 21300108
+    second: CreepyCat_Sparks_F23
+  - first:
+      213: 21300110
+    second: CreepyCat_Sparks_F24
+  - first:
+      213: 21300112
+    second: CreepyCat_Sparks_F25
+  - first:
+      213: 21300114
+    second: CreepyCat_Sparks_F26
+  - first:
+      213: 21300116
+    second: CreepyCat_Sparks_F27
+  - first:
+      213: 21300118
+    second: CreepyCat_Sparks_F28
+  - first:
+      213: 21300120
+    second: CreepyCat_Sparks_F29
+  - first:
+      213: 21300122
+    second: CreepyCat_Sparks_F30
+  - first:
+      213: 21300124
+    second: CreepyCat_Sparks_F31
+  - first:
+      213: 21300126
+    second: CreepyCat_Sparks_F32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa62b4e42805545b51a76c5266ec01
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b29e8325af0b734ea1d03fe7e94d694
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a0884bfaa81b40b6ce8337aec6f33
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a38f734d6702f4f96235987fecd191
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae054d41846186d4682b0c01aad90689
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F06
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96d03ae26e2d6d4993f2eaca71c8bb5
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F07
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c0fcea8df9e244901208698181b91
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F08
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5dc7a411330774c9fc4183f7df02a1
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becaff8f1b792af4dae620a72b8cb29e
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742e1c0437815574abb8f75fac9caf36
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9767a804bd5566c47a8ee43fac70ef18
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2662e3babe6af2045b0f5867788c2e88
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca09ccd1f0c78ac4c95bfb3e75af1217
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6793f1cafe132d043acff6f7e84a6c0d
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cde96008d1123e45ab543dc5f933806
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b5b9429213bf4cb8c5dcd484da89f
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a13ab632c4c4fc489284a479c714be3
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa972e39241fa4b839ef5f6c0ca0b1
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab4429b2814e946b6396d0493c8679
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d727e22ead54b48971c2491876eb7a
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47925cb8707f6dc4c87373d2e11108f1
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6538b81e975d14b81208edc88b0e61
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1ca329120a6c428f56034b42e93ae
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc5c32606041a84d883facedd477f04
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d57c5dc5d99604f8d304d675d8cd28
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6b9d262163a9f4b8bbc3700fd9235d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9f2e381beed549a5f657e3e7c839f
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a70eb80e09fe4ab81eff88eb5bbea
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff806821864c5c44c9b9d39d40bcc7ce
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52b2cfcbba0db243993f0102022f6e1
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202348c9a1660ea40b34c949bf4c2e81
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreepyCat_Sparks_F32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148806638ae29f449b5324320bcec75e
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1930ccf2565619d4381ae937bfc83648
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CreepyCat_Sparks_F10: 21300082
+      CreepyCat_Sparks_F26: 21300114
+      CreepyCat_Sparks_F24: 21300110
+      CreepyCat_Sparks_F20: 21300102
+      CreepyCat_Sparks_F32: 21300126
+      CreepyCat_Sparks_F02: 21300066
+      CreepyCat_Sparks_F31: 21300124
+      CreepyCat_Sparks_F17: 21300096
+      CreepyCat_Sparks_F13: 21300088
+      CreepyCat_Sparks_F18: 21300098
+      CreepyCat_Sparks_F09: 21300080
+      CreepyCat_Sparks_F28: 21300118
+      CreepyCat_Sparks_F30: 21300122
+      CreepyCat_Sparks_F04: 21300070
+      CreepyCat_Sparks_F12: 21300086
+      CreepyCat_Sparks_F23: 21300108
+      CreepyCat_Sparks_F11: 21300084
+      CreepyCat_Sparks_F08: 21300078
+      CreepyCat_Sparks_F06: 21300074
+      CreepyCat_Sparks_F14: 21300090
+      CreepyCat_Sparks_F22: 21300106
+      CreepyCat_Sparks_F07: 21300076
+      CreepyCat_Sparks_F03: 21300068
+      CreepyCat_Sparks_F15: 21300092
+      CreepyCat_Sparks_F05: 21300072
+      CreepyCat_Sparks_F25: 21300112
+      CreepyCat_Sparks_F29: 21300120
+      CreepyCat_Sparks_F01: 21300064
+      CreepyCat_Sparks_F27: 21300116
+      CreepyCat_Sparks_F19: 21300100
+      CreepyCat_Sparks_F16: 21300094
+      CreepyCat_Sparks_F21: 21300104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

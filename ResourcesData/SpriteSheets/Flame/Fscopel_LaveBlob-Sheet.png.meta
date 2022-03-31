@@ -1,0 +1,1862 @@
+fileFormatVersion: 2
+guid: e8fa56eb6eb44f3b9300adfaa55d1b20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 000060
+  - first:
+      213: 21300002
+    second: 000061
+  - first:
+      213: 21300004
+    second: 000062
+  - first:
+      213: 21300006
+    second: 000063
+  - first:
+      213: 21300008
+    second: 000064
+  - first:
+      213: 21300010
+    second: 000065
+  - first:
+      213: 21300012
+    second: 000066
+  - first:
+      213: 21300014
+    second: 000067
+  - first:
+      213: 21300016
+    second: 000068
+  - first:
+      213: 21300018
+    second: 000069
+  - first:
+      213: 21300020
+    second: 000070
+  - first:
+      213: 21300022
+    second: 000071
+  - first:
+      213: 21300024
+    second: 000072
+  - first:
+      213: 21300026
+    second: 000073
+  - first:
+      213: 21300028
+    second: 000074
+  - first:
+      213: 21300030
+    second: 000075
+  - first:
+      213: 21300032
+    second: 000076
+  - first:
+      213: 21300034
+    second: 000077
+  - first:
+      213: 21300036
+    second: 000078
+  - first:
+      213: 21300038
+    second: 000079
+  - first:
+      213: 21300040
+    second: 000080
+  - first:
+      213: 21300042
+    second: 000081
+  - first:
+      213: 21300044
+    second: 000082
+  - first:
+      213: 21300046
+    second: 000083
+  - first:
+      213: 21300048
+    second: 000084
+  - first:
+      213: 21300050
+    second: 000085
+  - first:
+      213: 21300052
+    second: 000086
+  - first:
+      213: 21300054
+    second: 000087
+  - first:
+      213: 21300056
+    second: 000088
+  - first:
+      213: 21300058
+    second: 000089
+  - first:
+      213: 21300060
+    second: 000090
+  - first:
+      213: 21300062
+    second: 000091
+  - first:
+      213: 21300064
+    second: 000092
+  - first:
+      213: 21300066
+    second: 000093
+  - first:
+      213: 21300068
+    second: 000094
+  - first:
+      213: 21300070
+    second: 000095
+  - first:
+      213: 21300072
+    second: 000096
+  - first:
+      213: 21300074
+    second: 000097
+  - first:
+      213: 21300076
+    second: 000098
+  - first:
+      213: 21300078
+    second: 000099
+  - first:
+      213: 21300080
+    second: 000100
+  - first:
+      213: 21300082
+    second: 000101
+  - first:
+      213: 21300084
+    second: 000102
+  - first:
+      213: 21300086
+    second: 000103
+  - first:
+      213: 21300088
+    second: 000104
+  - first:
+      213: 21300090
+    second: 000105
+  - first:
+      213: 21300092
+    second: 000106
+  - first:
+      213: 21300094
+    second: 000107
+  - first:
+      213: 21300096
+    second: 000108
+  - first:
+      213: 21300098
+    second: 000109
+  - first:
+      213: 21300100
+    second: 000110
+  - first:
+      213: 21300102
+    second: 000111
+  - first:
+      213: 21300104
+    second: 000112
+  - first:
+      213: 21300106
+    second: 000113
+  - first:
+      213: 21300108
+    second: 000114
+  - first:
+      213: 21300110
+    second: 000115
+  - first:
+      213: 21300112
+    second: 000116
+  - first:
+      213: 21300114
+    second: 000117
+  - first:
+      213: 21300116
+    second: 000118
+  - first:
+      213: 21300118
+    second: 000119
+  - first:
+      213: 21300120
+    second: 000120
+  - first:
+      213: 21300122
+    second: 000121
+  - first:
+      213: 21300124
+    second: 000122
+  - first:
+      213: 21300126
+    second: Fscopel_LaveBlob_F01
+  - first:
+      213: 21300128
+    second: Fscopel_LaveBlob_F02
+  - first:
+      213: 21300130
+    second: Fscopel_LaveBlob_F03
+  - first:
+      213: 21300132
+    second: Fscopel_LaveBlob_F04
+  - first:
+      213: 21300134
+    second: Fscopel_LaveBlob_F05
+  - first:
+      213: 21300136
+    second: Fscopel_LaveBlob_F06
+  - first:
+      213: 21300138
+    second: Fscopel_LaveBlob_F07
+  - first:
+      213: 21300140
+    second: Fscopel_LaveBlob_F08
+  - first:
+      213: 21300142
+    second: Fscopel_LaveBlob_F09
+  - first:
+      213: 21300144
+    second: Fscopel_LaveBlob_F10
+  - first:
+      213: 21300146
+    second: Fscopel_LaveBlob_F11
+  - first:
+      213: 21300148
+    second: Fscopel_LaveBlob_F12
+  - first:
+      213: 21300150
+    second: Fscopel_LaveBlob_F13
+  - first:
+      213: 21300152
+    second: Fscopel_LaveBlob_F14
+  - first:
+      213: 21300154
+    second: Fscopel_LaveBlob_F15
+  - first:
+      213: 21300156
+    second: Fscopel_LaveBlob_F16
+  - first:
+      213: 21300158
+    second: Fscopel_LaveBlob_F17
+  - first:
+      213: 21300160
+    second: Fscopel_LaveBlob_F18
+  - first:
+      213: 21300162
+    second: Fscopel_LaveBlob_F19
+  - first:
+      213: 21300164
+    second: Fscopel_LaveBlob_F20
+  - first:
+      213: 21300166
+    second: Fscopel_LaveBlob_F21
+  - first:
+      213: 21300168
+    second: Fscopel_LaveBlob_F22
+  - first:
+      213: 21300170
+    second: Fscopel_LaveBlob_F23
+  - first:
+      213: 21300172
+    second: Fscopel_LaveBlob_F24
+  - first:
+      213: 21300174
+    second: Fscopel_LaveBlob_F25
+  - first:
+      213: 21300176
+    second: Fscopel_LaveBlob_F26
+  - first:
+      213: 21300178
+    second: Fscopel_LaveBlob_F27
+  - first:
+      213: 21300180
+    second: Fscopel_LaveBlob_F28
+  - first:
+      213: 21300182
+    second: Fscopel_LaveBlob_F29
+  - first:
+      213: 21300184
+    second: Fscopel_LaveBlob_F30
+  - first:
+      213: 21300186
+    second: Fscopel_LaveBlob_F31
+  - first:
+      213: 21300188
+    second: Fscopel_LaveBlob_F32
+  - first:
+      213: 21300190
+    second: Fscopel_LaveBlob_F33
+  - first:
+      213: 21300192
+    second: Fscopel_LaveBlob_F34
+  - first:
+      213: 21300194
+    second: Fscopel_LaveBlob_F35
+  - first:
+      213: 21300196
+    second: Fscopel_LaveBlob_F36
+  - first:
+      213: 21300198
+    second: Fscopel_LaveBlob_F37
+  - first:
+      213: 21300200
+    second: Fscopel_LaveBlob_F38
+  - first:
+      213: 21300202
+    second: Fscopel_LaveBlob_F39
+  - first:
+      213: 21300204
+    second: Fscopel_LaveBlob_F40
+  - first:
+      213: 21300206
+    second: Fscopel_LaveBlob_F41
+  - first:
+      213: 21300208
+    second: Fscopel_LaveBlob_F42
+  - first:
+      213: 21300210
+    second: Fscopel_LaveBlob_F43
+  - first:
+      213: 21300212
+    second: Fscopel_LaveBlob_F44
+  - first:
+      213: 21300214
+    second: Fscopel_LaveBlob_F45
+  - first:
+      213: 21300216
+    second: Fscopel_LaveBlob_F46
+  - first:
+      213: 21300218
+    second: Fscopel_LaveBlob_F47
+  - first:
+      213: 21300220
+    second: Fscopel_LaveBlob_F48
+  - first:
+      213: 21300222
+    second: Fscopel_LaveBlob_F49
+  - first:
+      213: 21300224
+    second: Fscopel_LaveBlob_F50
+  - first:
+      213: 21300226
+    second: Fscopel_LaveBlob_F51
+  - first:
+      213: 21300228
+    second: Fscopel_LaveBlob_F52
+  - first:
+      213: 21300230
+    second: Fscopel_LaveBlob_F53
+  - first:
+      213: 21300232
+    second: Fscopel_LaveBlob_F54
+  - first:
+      213: 21300234
+    second: Fscopel_LaveBlob_F55
+  - first:
+      213: 21300236
+    second: Fscopel_LaveBlob_F56
+  - first:
+      213: 21300238
+    second: Fscopel_LaveBlob_F57
+  - first:
+      213: 21300240
+    second: Fscopel_LaveBlob_F58
+  - first:
+      213: 21300242
+    second: Fscopel_LaveBlob_F59
+  - first:
+      213: 21300244
+    second: Fscopel_LaveBlob_F60
+  - first:
+      213: 21300246
+    second: Fscopel_LaveBlob_F61
+  - first:
+      213: 21300248
+    second: Fscopel_LaveBlob_F62
+  - first:
+      213: 21300250
+    second: Fscopel_LaveBlob_F63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24318a3ef07c9c74fbb25f6b4f4b50be
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b64c8ff74f6cc4f98def592261f178
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678fecbe761a97c429b0d4e4fe40b7ed
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62e36403044da64eb54b6848e6c3c85
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c3ce9fc502d3e4090ddd2499a6e37b
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F06
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d30d39be82e7d34c802f407e99aa3db
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F07
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551143b2f8b53641bb8db4eab506ac3
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F08
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 901
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2a729d366bcd488f884c58c334cc3
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86aa6267100280458d0cb016ff3a914
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6df4b71c64239c4ca9396f8a316c60b
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa913d02db6c0446ae6b10a72d5e16a
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59731cce4686f214e9c590805cd1f448
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f696b34f749440a78a0698db008b8
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20679ee2992498e4cb4251c79a7bf8f6
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137b7fe89af0f8444a716ac6e4788adc
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 773
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac58f996f4512468697f0102ba5598
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4b2fb2e5c8724189f823cf2fb3428
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb1289e93ee94d4e81eac10a69b32ab
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6159a5a2da551418a6f4f7914570b8
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc37500462d164487c3ab0e1cf6023
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b278c5b113532f4aaa7c5eb8944af9f
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bdd27fddbe0bb4ca92c35342932deb
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a142f8142f846e349a9c060bd1c52f08
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 645
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebca7693efb6584ba3368294408881a
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fe804d4ead674e89e226ffb79d3c8
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462c0857ca1914644899fbe3ef5cae53
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ff4a5e6da5b646b381291125c422c
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbcf889d795a0a428bdc2dc3be29cfe
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da296568e34b91841a3410667fef4282
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3accfd80e6c53145bd17384f9a1cbd5
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214316582833652449feea43b06a493f
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 517
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f6ec6937b14a540a918f21c506a15d
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20fd39888e87e341a4c8037676d7a42
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a64b857cdae745a7f69880b584400
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc637e14ae40ce40afd855cbca0bfc7
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b9b160089c6444e98dca6542db0cb5
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210567d663651a14c9f9c5db1e7eae79
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a43e1bfc9ce87f44a74c7a49f93d2d9
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43cd78f3a87f2848accd4fd00721040
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 389
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f4e036278742b419ceccf46557a7b5
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ababe645c776c45a0aaf34b6a7cc8e
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a6c8049022b64489e572a2e93fc157
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89f89676b3fa54da5796499ec16057
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f602cf7014da654d96dfa1676e76307
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f82daeb1055147aba06617304293a
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e78c4fe9c90b84daea06c7e984b120
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d86b8a3a3cb0c499135553f8c89635
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 261
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705f97d24819b9740901c65d023bb66d
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e16b58041a29c418067680c4d86385
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d3a7076b6dd424d98b5d526727943a
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa1e1b5a6317141aa1faee9fcd7156
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3d6199ed777f4f923c4eba831e412
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1083a6fa50ab34045bad02059de4ce29
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fbbd07bc7e0c643a50639a4cd07d07
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d803f48990382ba45a904e5d440b3111
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 133
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d4150fe237a7f479d25dab6b3167ad
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac1ab01bec32c42885963f21113586
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3953225c7971084a985aca0d0138f91
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd9990c5be490c43a3b5b716a1031d8
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5898c2ff34984fa4e88d2619762a3f51
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0e904a4ed454e4b822524d15b67c05
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45647814615025942a26f480f9c8b17c
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_LaveBlob_F63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee64cb29253bf74c967790d82f8889d
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fscopel_LaveBlob_F40: 21300204
+      Fscopel_LaveBlob_F29: 21300182
+      Fscopel_LaveBlob_F19: 21300162
+      Fscopel_LaveBlob_F36: 21300196
+      Fscopel_LaveBlob_F54: 21300232
+      Fscopel_LaveBlob_F43: 21300210
+      Fscopel_LaveBlob_F21: 21300166
+      Fscopel_LaveBlob_F52: 21300228
+      Fscopel_LaveBlob_F60: 21300244
+      Fscopel_LaveBlob_F27: 21300178
+      Fscopel_LaveBlob_F51: 21300226
+      Fscopel_LaveBlob_F20: 21300164
+      Fscopel_LaveBlob_F57: 21300238
+      Fscopel_LaveBlob_F32: 21300188
+      Fscopel_LaveBlob_F17: 21300158
+      Fscopel_LaveBlob_F44: 21300212
+      Fscopel_LaveBlob_F45: 21300214
+      Fscopel_LaveBlob_F12: 21300148
+      Fscopel_LaveBlob_F33: 21300190
+      Fscopel_LaveBlob_F39: 21300202
+      Fscopel_LaveBlob_F49: 21300222
+      Fscopel_LaveBlob_F15: 21300154
+      Fscopel_LaveBlob_F53: 21300230
+      Fscopel_LaveBlob_F37: 21300198
+      Fscopel_LaveBlob_F56: 21300236
+      Fscopel_LaveBlob_F07: 21300138
+      Fscopel_LaveBlob_F25: 21300174
+      Fscopel_LaveBlob_F08: 21300140
+      Fscopel_LaveBlob_F42: 21300208
+      Fscopel_LaveBlob_F34: 21300192
+      Fscopel_LaveBlob_F31: 21300186
+      Fscopel_LaveBlob_F04: 21300132
+      Fscopel_LaveBlob_F10: 21300144
+      Fscopel_LaveBlob_F09: 21300142
+      Fscopel_LaveBlob_F02: 21300128
+      Fscopel_LaveBlob_F47: 21300218
+      Fscopel_LaveBlob_F59: 21300242
+      Fscopel_LaveBlob_F13: 21300150
+      Fscopel_LaveBlob_F05: 21300134
+      Fscopel_LaveBlob_F23: 21300170
+      Fscopel_LaveBlob_F06: 21300136
+      Fscopel_LaveBlob_F24: 21300172
+      Fscopel_LaveBlob_F58: 21300240
+      Fscopel_LaveBlob_F35: 21300194
+      Fscopel_LaveBlob_F61: 21300246
+      Fscopel_LaveBlob_F38: 21300200
+      Fscopel_LaveBlob_F26: 21300176
+      Fscopel_LaveBlob_F11: 21300146
+      Fscopel_LaveBlob_F48: 21300220
+      Fscopel_LaveBlob_F46: 21300216
+      Fscopel_LaveBlob_F03: 21300130
+      Fscopel_LaveBlob_F30: 21300184
+      Fscopel_LaveBlob_F22: 21300168
+      Fscopel_LaveBlob_F55: 21300234
+      Fscopel_LaveBlob_F50: 21300224
+      Fscopel_LaveBlob_F63: 21300250
+      Fscopel_LaveBlob_F28: 21300180
+      Fscopel_LaveBlob_F01: 21300126
+      Fscopel_LaveBlob_F18: 21300160
+      Fscopel_LaveBlob_F14: 21300152
+      Fscopel_LaveBlob_F62: 21300248
+      Fscopel_LaveBlob_F41: 21300206
+      Fscopel_LaveBlob_F16: 21300156
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

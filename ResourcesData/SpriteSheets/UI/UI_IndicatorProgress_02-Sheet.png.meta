@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: dede1ed00d2fafe4aaa89e63fb133b47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Rotate_01_0
+  - first:
+      213: 21300002
+    second: Rotate_01_1
+  - first:
+      213: 21300004
+    second: Rotate_01_2
+  - first:
+      213: 21300006
+    second: Rotate_01_3
+  - first:
+      213: 21300008
+    second: Rotate_01_4
+  - first:
+      213: 21300010
+    second: Rotate_01_5
+  - first:
+      213: 21300012
+    second: Rotate_01_6
+  - first:
+      213: 21300014
+    second: Rotate_01_7
+  - first:
+      213: 21300016
+    second: Rotate_01_8
+  - first:
+      213: 21300018
+    second: Rotate_01_9
+  - first:
+      213: 21300020
+    second: Rotate_01_10
+  - first:
+      213: 21300022
+    second: Rotate_01_11
+  - first:
+      213: 21300024
+    second: Rotate_01_12
+  - first:
+      213: 21300026
+    second: Rotate_01_13
+  - first:
+      213: 21300028
+    second: Rotate_01_14
+  - first:
+      213: 21300030
+    second: Rotate_01_15
+  - first:
+      213: 21300032
+    second: Rotate_01_16
+  - first:
+      213: 21300034
+    second: Rotate_01_17
+  - first:
+      213: 21300036
+    second: Rotate_01_18
+  - first:
+      213: 21300038
+    second: Rotate_01_19
+  - first:
+      213: 21300040
+    second: Rotate_01_20
+  - first:
+      213: 21300042
+    second: Rotate_01_21
+  - first:
+      213: 21300044
+    second: Rotate_01_22
+  - first:
+      213: 21300046
+    second: Rotate_01_23
+  - first:
+      213: 21300048
+    second: Rotate_01_24
+  - first:
+      213: 21300050
+    second: Rotate_01_25
+  - first:
+      213: 21300052
+    second: Rotate_01_26
+  - first:
+      213: 21300054
+    second: Rotate_01_27
+  - first:
+      213: 21300056
+    second: Rotate_01_28
+  - first:
+      213: 21300058
+    second: Rotate_01_29
+  - first:
+      213: 21300060
+    second: UI_IndicatorProgress_02_F01
+  - first:
+      213: 21300062
+    second: UI_IndicatorProgress_02_F02
+  - first:
+      213: 21300064
+    second: UI_IndicatorProgress_02_F03
+  - first:
+      213: 21300066
+    second: UI_IndicatorProgress_02_F04
+  - first:
+      213: 21300068
+    second: UI_IndicatorProgress_02_F05
+  - first:
+      213: 21300070
+    second: UI_IndicatorProgress_02_F06
+  - first:
+      213: 21300072
+    second: UI_IndicatorProgress_02_F07
+  - first:
+      213: 21300074
+    second: UI_IndicatorProgress_02_F08
+  - first:
+      213: 21300076
+    second: UI_IndicatorProgress_02_F09
+  - first:
+      213: 21300078
+    second: UI_IndicatorProgress_02_F10
+  - first:
+      213: 21300080
+    second: UI_IndicatorProgress_02_F11
+  - first:
+      213: 21300082
+    second: UI_IndicatorProgress_02_F12
+  - first:
+      213: 21300084
+    second: UI_IndicatorProgress_02_F13
+  - first:
+      213: 21300086
+    second: UI_IndicatorProgress_02_F14
+  - first:
+      213: 21300088
+    second: UI_IndicatorProgress_02_F15
+  - first:
+      213: 21300090
+    second: UI_IndicatorProgress_02_F16
+  - first:
+      213: 21300092
+    second: UI_IndicatorProgress_02_F17
+  - first:
+      213: 21300094
+    second: UI_IndicatorProgress_02_F18
+  - first:
+      213: 21300096
+    second: UI_IndicatorProgress_02_F19
+  - first:
+      213: 21300098
+    second: UI_IndicatorProgress_02_F20
+  - first:
+      213: 21300100
+    second: UI_IndicatorProgress_02_F21
+  - first:
+      213: 21300102
+    second: UI_IndicatorProgress_02_F22
+  - first:
+      213: 21300104
+    second: UI_IndicatorProgress_02_F23
+  - first:
+      213: 21300106
+    second: UI_IndicatorProgress_02_F24
+  - first:
+      213: 21300108
+    second: UI_IndicatorProgress_02_F25
+  - first:
+      213: 21300110
+    second: UI_IndicatorProgress_02_F26
+  - first:
+      213: 21300112
+    second: UI_IndicatorProgress_02_F27
+  - first:
+      213: 21300114
+    second: UI_IndicatorProgress_02_F28
+  - first:
+      213: 21300116
+    second: UI_IndicatorProgress_02_F29
+  - first:
+      213: 21300118
+    second: UI_IndicatorProgress_02_F30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa823aa582f0d54388b13d4b37f91ec
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F02
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 450
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372e547f98a22104eadf0bbb10aad602
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F03
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 450
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209f5664f9e725f439ab0d62842b8f99
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F04
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 450
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7511ecc3247c4974f8c2a7b614f590cb
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F05
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 450
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a380fe0be82b7f44ca85cfc28792d12d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da14b7acb13af42ba6691a09858710
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F07
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 360
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263251fc18859749a36af970e8a3dc7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F08
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338bbdc0652150449e3a3a8ec3c5622
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F09
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 360
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b868c5a0d21b0744aae8f95c33c057ea
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e704f31c342b04e4ca59d7142d3cf90f
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0b6d7df2104c4699539fffafcef6b
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 270
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b4ee4b7e532142826923761bc1b30
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 270
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7128b9abc8bbd4dbf3dfa82fc68277
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f628d41f213dcd45828ce2292770fb9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 270
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9026c328c6dd6cf4cbd5b287a4ec660d
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97326331c523b394cbc2346c451dce48
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0535e8e6f9ce1c348b1a5f111050f509
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10058fb8313f6034680744a1e9a62f75
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e72bfce9c199247baaf0ddfdeed390
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aaf0840bf49764db57191f9619a08e
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac6e89628ade1b47afadc6cd47fcf08
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914659ce2a3f29f4686d7c6caccc53a7
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9cb5168f9208c4482c0ba1b1294867
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a204c06eedcd4143a5e9b345ddbb772
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64190488ea8233041afa8f280c0245ff
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b13f9849c90b94384f86c189e7067c
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d8929de04cdc419734181003db248
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91550db074c1e948ac6a1b1c5dc569e
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1434f2f0dcc2fdd47a6e9c9e80ffd0ba
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_IndicatorProgress_02_F30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2357a869c788d429e033865d3df0a0
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b109193ce174928439dff46bafb70ed8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_IndicatorProgress_02_F17: 21300092
+      UI_IndicatorProgress_02_F23: 21300104
+      UI_IndicatorProgress_02_F13: 21300084
+      UI_IndicatorProgress_02_F06: 21300070
+      UI_IndicatorProgress_02_F21: 21300100
+      UI_IndicatorProgress_02_F09: 21300076
+      UI_IndicatorProgress_02_F11: 21300080
+      UI_IndicatorProgress_02_F29: 21300116
+      UI_IndicatorProgress_02_F16: 21300090
+      UI_IndicatorProgress_02_F03: 21300064
+      UI_IndicatorProgress_02_F25: 21300108
+      UI_IndicatorProgress_02_F12: 21300082
+      UI_IndicatorProgress_02_F04: 21300066
+      UI_IndicatorProgress_02_F07: 21300072
+      UI_IndicatorProgress_02_F19: 21300096
+      UI_IndicatorProgress_02_F05: 21300068
+      UI_IndicatorProgress_02_F22: 21300102
+      UI_IndicatorProgress_02_F28: 21300114
+      UI_IndicatorProgress_02_F15: 21300088
+      UI_IndicatorProgress_02_F18: 21300094
+      UI_IndicatorProgress_02_F08: 21300074
+      UI_IndicatorProgress_02_F01: 21300060
+      UI_IndicatorProgress_02_F30: 21300118
+      UI_IndicatorProgress_02_F26: 21300110
+      UI_IndicatorProgress_02_F27: 21300112
+      UI_IndicatorProgress_02_F02: 21300062
+      UI_IndicatorProgress_02_F24: 21300106
+      UI_IndicatorProgress_02_F14: 21300086
+      UI_IndicatorProgress_02_F10: 21300078
+      UI_IndicatorProgress_02_F20: 21300098
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

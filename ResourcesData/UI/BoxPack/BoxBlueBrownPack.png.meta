@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: 69bf687b72ab492eb6407bae767b59ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PanelBlue-GradientActive
+  - first:
+      213: 21300002
+    second: PanelBlue-GradientNormal
+  - first:
+      213: 21300004
+    second: PanelBlue-BigBorderActive
+  - first:
+      213: 21300006
+    second: PanelBlue-BigBorderNormal
+  - first:
+      213: 21300008
+    second: PanelBlue-BigFrameActive
+  - first:
+      213: 21300010
+    second: PanelBlue-BigFrameNormal
+  - first:
+      213: 21300012
+    second: PanelBlue-BorderActive
+  - first:
+      213: 21300014
+    second: PanelBlue-BorderNormal
+  - first:
+      213: 21300016
+    second: PanelBlue-DefaultActive
+  - first:
+      213: 21300018
+    second: PanelBlue-DefaultNormal
+  - first:
+      213: 21300020
+    second: PanelBlue-FrameActive
+  - first:
+      213: 21300022
+    second: PanelBlue-FrameNormal
+  - first:
+      213: 21300024
+    second: PanelBrown-BigBorderActive
+  - first:
+      213: 21300026
+    second: PanelBrown-BigBorderNormal
+  - first:
+      213: 21300028
+    second: PanelBrown-BorderActive
+  - first:
+      213: 21300030
+    second: PanelBrown-BorderNormal
+  - first:
+      213: 21300032
+    second: PanelBrown-DefaultActive
+  - first:
+      213: 21300034
+    second: PanelBrown-DefaultNormal
+  - first:
+      213: 21300036
+    second: PanelBrown-GradientActive
+  - first:
+      213: 21300038
+    second: PanelBrown-GradientNormal
+  - first:
+      213: 21300040
+    second: PanelBlueGradientActive
+  - first:
+      213: 21300042
+    second: PanelBlueGradientNormal
+  - first:
+      213: 21300044
+    second: PanelBlueBigBorderActive
+  - first:
+      213: 21300046
+    second: PanelBlueBigBorderNormal
+  - first:
+      213: 21300048
+    second: PanelBlueBigFrameActive
+  - first:
+      213: 21300050
+    second: PanelBlueBigFrameNormal
+  - first:
+      213: 21300052
+    second: PanelBlueBorderActive
+  - first:
+      213: 21300054
+    second: PanelBlueBorderNormal
+  - first:
+      213: 21300056
+    second: PanelBlueDefaultActive
+  - first:
+      213: 21300058
+    second: PanelBlueDefaultNormal
+  - first:
+      213: 21300060
+    second: PanelBlueFrameActive
+  - first:
+      213: 21300062
+    second: PanelBlueFrameNormal
+  - first:
+      213: 21300064
+    second: PanelBrownBigBorderActive
+  - first:
+      213: 21300066
+    second: PanelBrownBigBorderNormal
+  - first:
+      213: 21300068
+    second: PanelBrownBorderActive
+  - first:
+      213: 21300070
+    second: PanelBrownBorderNormal
+  - first:
+      213: 21300072
+    second: PanelBrownDefaultActive
+  - first:
+      213: 21300074
+    second: PanelBrownDefaultNormal
+  - first:
+      213: 21300076
+    second: PanelBrownGradientActive
+  - first:
+      213: 21300078
+    second: PanelBrownGradientNormal
+  - first:
+      213: 21300080
+    second: BoxBlueGradientActive
+  - first:
+      213: 21300082
+    second: BoxBlueGradientNormal
+  - first:
+      213: 21300084
+    second: BoxBlueBigBorderActive
+  - first:
+      213: 21300086
+    second: BoxBlueBigBorderNormal
+  - first:
+      213: 21300088
+    second: BoxBlueBigFrameActive
+  - first:
+      213: 21300090
+    second: BoxBlueBigFrameNormal
+  - first:
+      213: 21300092
+    second: BoxBlueBorderActive
+  - first:
+      213: 21300094
+    second: BoxBlueBorderNormal
+  - first:
+      213: 21300096
+    second: BoxBlueDefaultActive
+  - first:
+      213: 21300098
+    second: BoxBlueDefaultNormal
+  - first:
+      213: 21300100
+    second: BoxBlueFrameActive
+  - first:
+      213: 21300102
+    second: BoxBlueFrameNormal
+  - first:
+      213: 21300104
+    second: BoxBrownBigBorderActive
+  - first:
+      213: 21300106
+    second: BoxBrownBigBorderNormal
+  - first:
+      213: 21300108
+    second: BoxBrownBorderActive
+  - first:
+      213: 21300110
+    second: BoxBrownBorderNormal
+  - first:
+      213: 21300112
+    second: BoxBrownDefaultActive
+  - first:
+      213: 21300114
+    second: BoxBrownDefaultNormal
+  - first:
+      213: 21300116
+    second: BoxBrownGradientActive
+  - first:
+      213: 21300118
+    second: BoxBrownGradientNormal
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoxBlueGradientActive
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b84e121055ad24e909a7257e91f8c3
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueGradientNormal
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 151
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902e47d8cd324140915a1b061f49ebe
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueBigBorderActive
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 151
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302fdf7fb023f5042bfbc2fcbedea0a0
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueBigBorderNormal
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 151
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8957774a776b0544b90514b2a30809c1
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueBigFrameActive
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0311ae0ade3cff4c8ea0b72fede2a4b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueBigFrameNormal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df5c9a3265bc764fa368971009e4dce
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueBorderActive
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f16c11dccf91124b9d633f0785461c4
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueBorderNormal
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d0db2d1e49c584484ae2796b01ed9b
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueDefaultActive
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 101
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1647d4b44a76f445901629de0b35f2c
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueDefaultNormal
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 101
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321828fc9f626ab4d80f4248c28ee1be
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueFrameActive
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 6, z: 4, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a3816ffede66c4bb7d2c68340fd56d
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBlueFrameNormal
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c087ad58e76a2f43bcf11b89c800198
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownBigBorderActive
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 51
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135c24ca602bcba4f9811374036250ad
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownBigBorderNormal
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 51
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628f9d9d83230a94c9e0b2c07906704a
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownBorderActive
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 51
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927bfce7285ca1a4cad4de14f8f52693
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownBorderNormal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b7c09474da734caeee120dfac8949
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownDefaultActive
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1193edcd409a04b4bb322f47e0575b40
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownDefaultNormal
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ad656d18485ea41abdecdd3795286f
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownGradientActive
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0492be7d38980f47ac35af3b70d83d5
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBrownGradientNormal
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da37f483a07785148824021b6a8427b8
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1150ab51029534f4eb7904f28bf60f0f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BoxBlueBorderNormal: 21300094
+      BoxBrownBigBorderNormal: 21300106
+      BoxBlueDefaultActive: 21300096
+      BoxBrownGradientActive: 21300116
+      BoxBlueBigFrameActive: 21300088
+      BoxBlueBorderActive: 21300092
+      BoxBlueFrameActive: 21300100
+      BoxBlueFrameNormal: 21300102
+      BoxBlueGradientActive: 21300080
+      BoxBrownBorderNormal: 21300110
+      BoxBlueBigFrameNormal: 21300090
+      BoxBlueBigBorderActive: 21300084
+      BoxBrownGradientNormal: 21300118
+      BoxBrownDefaultNormal: 21300114
+      BoxBlueBigBorderNormal: 21300086
+      BoxBrownBigBorderActive: 21300104
+      BoxBlueGradientNormal: 21300082
+      BoxBlueDefaultNormal: 21300098
+      BoxBrownDefaultActive: 21300112
+      BoxBrownBorderActive: 21300108
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

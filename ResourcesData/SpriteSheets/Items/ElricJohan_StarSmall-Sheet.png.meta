@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 9d974477cabd35948b86233150f5a20a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PSystem1548_0
+  - first:
+      213: 21300002
+    second: PSystem1548_1
+  - first:
+      213: 21300004
+    second: PSystem1548_2
+  - first:
+      213: 21300006
+    second: PSystem1548_3
+  - first:
+      213: 21300008
+    second: PSystem1548_4
+  - first:
+      213: 21300010
+    second: PSystem1548_5
+  - first:
+      213: 21300012
+    second: PSystem1548_6
+  - first:
+      213: 21300014
+    second: PSystem1548_7
+  - first:
+      213: 21300016
+    second: PSystem1548_8
+  - first:
+      213: 21300018
+    second: PSystem1548_9
+  - first:
+      213: 21300020
+    second: PSystem1548_10
+  - first:
+      213: 21300022
+    second: PSystem1548_11
+  - first:
+      213: 21300024
+    second: PSystem1548_12
+  - first:
+      213: 21300026
+    second: PSystem1548_13
+  - first:
+      213: 21300028
+    second: PSystem1548_14
+  - first:
+      213: 21300030
+    second: PSystem1548_15
+  - first:
+      213: 21300032
+    second: PSystem1548_16
+  - first:
+      213: 21300034
+    second: PSystem1548_17
+  - first:
+      213: 21300036
+    second: PSystem1548_18
+  - first:
+      213: 21300038
+    second: PSystem1548_19
+  - first:
+      213: 21300040
+    second: ElricJohan_StarSmall_01F
+  - first:
+      213: 21300042
+    second: ElricJohan_StarSmall_02F
+  - first:
+      213: 21300044
+    second: ElricJohan_StarSmall_03F
+  - first:
+      213: 21300046
+    second: ElricJohan_StarSmall_04F
+  - first:
+      213: 21300048
+    second: ElricJohan_StarSmall_05F
+  - first:
+      213: 21300050
+    second: ElricJohan_StarSmall_06F
+  - first:
+      213: 21300052
+    second: ElricJohan_StarSmall_07F
+  - first:
+      213: 21300054
+    second: ElricJohan_StarSmall_08F
+  - first:
+      213: 21300056
+    second: ElricJohan_StarSmall_09F
+  - first:
+      213: 21300058
+    second: ElricJohan_StarSmall_010F
+  - first:
+      213: 21300060
+    second: ElricJohan_StarSmall_011F
+  - first:
+      213: 21300062
+    second: ElricJohan_StarSmall_012F
+  - first:
+      213: 21300064
+    second: ElricJohan_StarSmall_013F
+  - first:
+      213: 21300066
+    second: ElricJohan_StarSmall_014F
+  - first:
+      213: 21300068
+    second: ElricJohan_StarSmall_015F
+  - first:
+      213: 21300070
+    second: ElricJohan_StarSmall_016F
+  - first:
+      213: 21300072
+    second: ElricJohan_StarSmall_017F
+  - first:
+      213: 21300074
+    second: ElricJohan_StarSmall_018F
+  - first:
+      213: 21300076
+    second: ElricJohan_StarSmall_019F
+  - first:
+      213: 21300078
+    second: ElricJohan_StarSmall_020F
+  - first:
+      213: 21300080
+    second: ElricJohan_StarSmall_F01
+  - first:
+      213: 21300082
+    second: ElricJohan_StarSmall_F02
+  - first:
+      213: 21300084
+    second: ElricJohan_StarSmall_F03
+  - first:
+      213: 21300086
+    second: ElricJohan_StarSmall_F04
+  - first:
+      213: 21300088
+    second: ElricJohan_StarSmall_F05
+  - first:
+      213: 21300090
+    second: ElricJohan_StarSmall_F06
+  - first:
+      213: 21300092
+    second: ElricJohan_StarSmall_F07
+  - first:
+      213: 21300094
+    second: ElricJohan_StarSmall_F08
+  - first:
+      213: 21300096
+    second: ElricJohan_StarSmall_F09
+  - first:
+      213: 21300098
+    second: ElricJohan_StarSmall_F10
+  - first:
+      213: 21300100
+    second: ElricJohan_StarSmall_F11
+  - first:
+      213: 21300102
+    second: ElricJohan_StarSmall_F12
+  - first:
+      213: 21300104
+    second: ElricJohan_StarSmall_F13
+  - first:
+      213: 21300106
+    second: ElricJohan_StarSmall_F14
+  - first:
+      213: 21300108
+    second: ElricJohan_StarSmall_F15
+  - first:
+      213: 21300110
+    second: ElricJohan_StarSmall_F16
+  - first:
+      213: 21300112
+    second: ElricJohan_StarSmall_F17
+  - first:
+      213: 21300114
+    second: ElricJohan_StarSmall_F18
+  - first:
+      213: 21300116
+    second: ElricJohan_StarSmall_F19
+  - first:
+      213: 21300118
+    second: ElricJohan_StarSmall_F20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf01dd9b55e5c4e8c98186015ec571
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F02
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89c4475a7cffa49bcf26ed6b28f8d9
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c97feb0be9b9df4da953666229e03d3
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F04
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8904bfd95a3e164ebc36f1092a03685
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F05
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef6a4117889ac94a8bdab53954a3310
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F06
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2116b33969039ba4a93fcbeb4f0a1c90
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F07
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a5f848f6618bf4cae7fc45fdd15028
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F08
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8c05817ffc3d4896ac8f3c2b6a892
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F09
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f463b1b84d79df47893185b1f5cc72a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131db688f3f0d39429825682e1b9c45f
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2131593a8d254c94d8b3f0147588a744
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0a60e9b31208b4b82599ee0b66e6b0
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09214ffe64a9f4c4894391f447215648
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988e968cc83b9f4497605b612a0ce6d
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7a88e3528b84744be9adaa126bdf6a
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3916c923b250fd841a19cd8e1d65e8a2
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9431df461adf443aa21a0f716b0506
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aae45adf1efa647885d38db6fe10a0
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5921f04732c046c47a198512151ac87d
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_StarSmall_F20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e97be345424604b8786e516f9780c2
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43fa77c8db58786438ff3b49f440ecd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElricJohan_StarSmall_F12: 21300102
+      ElricJohan_StarSmall_F15: 21300108
+      ElricJohan_StarSmall_F09: 21300096
+      ElricJohan_StarSmall_F07: 21300092
+      ElricJohan_StarSmall_F14: 21300106
+      ElricJohan_StarSmall_F04: 21300086
+      ElricJohan_StarSmall_F08: 21300094
+      ElricJohan_StarSmall_F13: 21300104
+      ElricJohan_StarSmall_F06: 21300090
+      ElricJohan_StarSmall_F18: 21300114
+      ElricJohan_StarSmall_F01: 21300080
+      ElricJohan_StarSmall_F16: 21300110
+      ElricJohan_StarSmall_F10: 21300098
+      ElricJohan_StarSmall_F03: 21300084
+      ElricJohan_StarSmall_F05: 21300088
+      ElricJohan_StarSmall_F02: 21300082
+      ElricJohan_StarSmall_F19: 21300116
+      ElricJohan_StarSmall_F11: 21300100
+      ElricJohan_StarSmall_F17: 21300112
+      ElricJohan_StarSmall_F20: 21300118
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

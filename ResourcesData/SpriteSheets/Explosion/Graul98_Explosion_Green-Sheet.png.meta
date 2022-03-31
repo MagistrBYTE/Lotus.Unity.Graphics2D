@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 6a6825d05f1f43d586ebb2d337611691
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Graul98_GreenExplosion_01F
+  - first:
+      213: 21300002
+    second: Graul98_GreenExplosion_02F
+  - first:
+      213: 21300004
+    second: Graul98_GreenExplosion_03F
+  - first:
+      213: 21300006
+    second: Graul98_GreenExplosion_04F
+  - first:
+      213: 21300008
+    second: Graul98_GreenExplosion_05F
+  - first:
+      213: 21300010
+    second: Graul98_GreenExplosion_06F
+  - first:
+      213: 21300012
+    second: Graul98_GreenExplosion_07F
+  - first:
+      213: 21300014
+    second: Graul98_GreenExplosion_08F
+  - first:
+      213: 21300016
+    second: Graul98_GreenExplosion_09F
+  - first:
+      213: 21300018
+    second: Graul98_GreenExplosion_10F
+  - first:
+      213: 21300020
+    second: Graul98_GreenExplosion_11F
+  - first:
+      213: 21300022
+    second: Graul98_GreenExplosion_12F
+  - first:
+      213: 21300024
+    second: Graul98_GreenExplosion_13F
+  - first:
+      213: 21300026
+    second: Graul98_GreenExplosion_14F
+  - first:
+      213: 21300028
+    second: Graul98_GreenExplosion_15F
+  - first:
+      213: 21300030
+    second: Graul98_GreenExplosion_16F
+  - first:
+      213: 21300032
+    second: Graul98_GreenExplosion_F01
+  - first:
+      213: 21300034
+    second: Graul98_GreenExplosion_F02
+  - first:
+      213: 21300036
+    second: Graul98_GreenExplosion_F03
+  - first:
+      213: 21300038
+    second: Graul98_GreenExplosion_F04
+  - first:
+      213: 21300040
+    second: Graul98_GreenExplosion_F05
+  - first:
+      213: 21300042
+    second: Graul98_GreenExplosion_F06
+  - first:
+      213: 21300044
+    second: Graul98_GreenExplosion_F07
+  - first:
+      213: 21300046
+    second: Graul98_GreenExplosion_F08
+  - first:
+      213: 21300048
+    second: Graul98_GreenExplosion_F09
+  - first:
+      213: 21300050
+    second: Graul98_GreenExplosion_F10
+  - first:
+      213: 21300052
+    second: Graul98_GreenExplosion_F11
+  - first:
+      213: 21300054
+    second: Graul98_GreenExplosion_F12
+  - first:
+      213: 21300056
+    second: Graul98_GreenExplosion_F13
+  - first:
+      213: 21300058
+    second: Graul98_GreenExplosion_F14
+  - first:
+      213: 21300060
+    second: Graul98_GreenExplosion_F15
+  - first:
+      213: 21300062
+    second: Graul98_GreenExplosion_F16
+  - first:
+      213: 21300064
+    second: Graul98_Explosion_Green_F01
+  - first:
+      213: 21300066
+    second: Graul98_Explosion_Green_F02
+  - first:
+      213: 21300068
+    second: Graul98_Explosion_Green_F03
+  - first:
+      213: 21300070
+    second: Graul98_Explosion_Green_F04
+  - first:
+      213: 21300072
+    second: Graul98_Explosion_Green_F05
+  - first:
+      213: 21300074
+    second: Graul98_Explosion_Green_F06
+  - first:
+      213: 21300076
+    second: Graul98_Explosion_Green_F07
+  - first:
+      213: 21300078
+    second: Graul98_Explosion_Green_F08
+  - first:
+      213: 21300080
+    second: Graul98_Explosion_Green_F09
+  - first:
+      213: 21300082
+    second: Graul98_Explosion_Green_F10
+  - first:
+      213: 21300084
+    second: Graul98_Explosion_Green_F11
+  - first:
+      213: 21300086
+    second: Graul98_Explosion_Green_F12
+  - first:
+      213: 21300088
+    second: Graul98_Explosion_Green_F13
+  - first:
+      213: 21300090
+    second: Graul98_Explosion_Green_F14
+  - first:
+      213: 21300092
+    second: Graul98_Explosion_Green_F15
+  - first:
+      213: 21300094
+    second: Graul98_Explosion_Green_F16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277942243d58a864285bad20dd6d154e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e992fdd93f38ff4abf2a384e9b3d96e
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6bc70d552343d41b9cbd60266a4351
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F04
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa2a87cf11d5e341b9256137fd0ca5a
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b8b5f45cf2b0e459c0300ae77f42eb
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F06
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122e5d01bd6aed24498a61026cd581fe
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F07
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a183590ee58fa0498218287727dc663
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8dfd43e6af3f6439dfc164f17d24d8
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F09
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b975163b35eb341af62191a1deb9dd
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e7a122ec0b40d49858fe54a7fb9786
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816a341a71b322b40b34234a7ac31e3f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672654771301cbf4490b9471071dd3a7
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8440f8168d85894397a9fe1bd343670
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c50eaeeff861cf4bad13e97831eb748
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973fb7f6ca433ee45ae5cdc58ceb8331
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graul98_Explosion_Green_F16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6607675427410147b5533b8efd0c214
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Graul98_Explosion_Green_F05: 21300072
+      Graul98_Explosion_Green_F10: 21300082
+      Graul98_Explosion_Green_F11: 21300084
+      Graul98_Explosion_Green_F16: 21300094
+      Graul98_Explosion_Green_F01: 21300064
+      Graul98_Explosion_Green_F07: 21300076
+      Graul98_Explosion_Green_F09: 21300080
+      Graul98_Explosion_Green_F03: 21300068
+      Graul98_Explosion_Green_F06: 21300074
+      Graul98_Explosion_Green_F12: 21300086
+      Graul98_Explosion_Green_F04: 21300070
+      Graul98_Explosion_Green_F13: 21300088
+      Graul98_Explosion_Green_F14: 21300090
+      Graul98_Explosion_Green_F15: 21300092
+      Graul98_Explosion_Green_F02: 21300066
+      Graul98_Explosion_Green_F08: 21300078
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

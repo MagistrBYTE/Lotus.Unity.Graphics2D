@@ -1,0 +1,525 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b7a0025a89b7db4f841c856b09958c9, type: 3}
+  m_Name: VisualStyleStorageDefault
+  m_EditorClassIdentifier: 
+  mCaptionColor: {r: 1, g: 1, b: 1, a: 1}
+  mCaptionActiveColor: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+  mValueColor: {r: 0, g: 0, b: 0, a: 0}
+  mValueActiveColor: {r: 0, g: 0, b: 0, a: 0}
+  mBackgroundActiveColor: {r: 0.7176471, g: 0.38039216, b: 0.6117647, a: 1}
+  mIconActiveColor: {r: 0.8862745, g: 0.5294118, b: 0.77254903, a: 1}
+  mHeaderActiveColor: {r: 0.96862745, g: 0.39607844, b: 0.7882353, a: 1}
+  mBaseStyles:
+  - mName: Default
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300060, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0.019607844, g: 0.7137255, b: 1, a: 1}
+    mIconImage: {fileID: 21300098, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: Gradient
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 24
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 0.6509434, g: 0.5803222, b: 0.5803222, a: 1}
+    mTextColorActive: {r: 0.13725491, g: 0, b: 0, a: 1}
+    mBackgroundImage: {fileID: 21300094, guid: 69bf687b72ab492eb6407bae767b59ea, type: 3}
+    mBackgroundImagePressed: {fileID: 21300096, guid: 69bf687b72ab492eb6407bae767b59ea,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: Border
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 0}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: BigBorder
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 18
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300088, guid: 69bf687b72ab492eb6407bae767b59ea, type: 3}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: BevelCyanDarker
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: 1c093d09aa5a26d499e28c245fb97597, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300064, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mBackgroundImagePressed: {fileID: 21300066, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300066, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: BevelCyanDark
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300060, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mBackgroundImagePressed: {fileID: 21300062, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300062, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: BevelCyanPure
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 0.2627451, g: 0.2627451, b: 0.2627451, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300076, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mBackgroundImagePressed: {fileID: 21300078, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300078, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: BevelCyanLightBlue
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: 85de9350119e99f479f0099b9aa51e50, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 0.2627451, g: 0.2627451, b: 0.2627451, a: 1}
+    mTextColorActive: {r: 0.08627451, g: 0.02745098, b: 0.5137255, a: 1}
+    mBackgroundImage: {fileID: 21300070, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mBackgroundImagePressed: {fileID: 21300068, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300068, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: RoundBorderCyanDarker
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 0.8392157, g: 0.8509804, b: 0.043137256, a: 1}
+    mTextColorActive: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundImage: {fileID: 21300078, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mBackgroundImagePressed: {fileID: 21300076, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300076, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: RoundBorderCyanDark
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.43137255, g: 0.27450982, b: 0.007843138, a: 1}
+    mBackgroundImage: {fileID: 21300076, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mBackgroundImagePressed: {fileID: 21300082, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300080, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: RoundBorderBlack
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: 85de9350119e99f479f0099b9aa51e50, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.011764706, g: 0.007843138, b: 0, a: 1}
+    mBackgroundImage: {fileID: 21300050, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mBackgroundImagePressed: {fileID: 21300052, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300052, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: RoundBorderGray
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0, g: 0.003921569, b: 1, a: 1}
+    mBackgroundImage: {fileID: 21300084, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mBackgroundImagePressed: {fileID: 21300088, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300088, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0, g: 0.627451, b: 0.7921569, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.21960784, g: 0.8352941, b: 1, a: 1}
+  - mName: Flat
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300130, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mBackgroundImagePressed: {fileID: 21300132, guid: 08db7be2c3d945b2bb80c1683e1b811b,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300132, guid: 08db7be2c3d945b2bb80c1683e1b811b,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0.019607844, g: 0.8784314, b: 1, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.8862745, g: 0.5294118, b: 0.77254903, a: 1}
+  - mName: Transparent
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300024, guid: e702fd2c400c4fed86e8d6f15680461a, type: 3}
+    mBackgroundImagePressed: {fileID: 21300030, guid: e702fd2c400c4fed86e8d6f15680461a,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300030, guid: e702fd2c400c4fed86e8d6f15680461a,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0.019607844, g: 0.8784314, b: 1, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.8862745, g: 0.5294118, b: 0.77254903, a: 1}
+  mCheckBoxStyles:
+  - mName: Default
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300000, guid: fcad237613de2e04993797551a851a31, type: 3}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 1, g: 1, b: 1, a: 1}
+    mIconImage: {fileID: 21300000, guid: 699e4cfc72f678f409aa24ff18317d41, type: 3}
+    mIconImageActive: {fileID: 21300000, guid: b76fb468cdb66b74c98c615cbb18749e, type: 3}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 1, g: 1, b: 1, a: 1}
+  - mName: Default2
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 0}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 1, g: 1, b: 1, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 1, g: 1, b: 1, a: 1}
+  - mName: Strict
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 0}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 1, g: 1, b: 1, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 1, g: 1, b: 1, a: 1}
+  - mName: Accent
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.6901961, g: 0.44313726, b: 0.02745098, a: 1}
+    mBackgroundImage: {fileID: 21300064, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mBackgroundImagePressed: {fileID: 21300066, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300066, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 1, g: 1, b: 1, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 1, g: 1, b: 1, a: 1}
+  - mName: Accent2
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.6901961, g: 0.44313726, b: 0.02745098, a: 1}
+    mBackgroundImage: {fileID: 21300074, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mBackgroundImagePressed: {fileID: 21300072, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300072, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 1, g: 1, b: 1, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 1, g: 1, b: 1, a: 1}
+  - mName: Tranparent
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 12800000, guid: e3a9b838997515c46890bd22e2059142, type: 3}
+    mFontSize: 20
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.6901961, g: 0.44313726, b: 0.02745098, a: 1}
+    mBackgroundImage: {fileID: 21300024, guid: e702fd2c400c4fed86e8d6f15680461a, type: 3}
+    mBackgroundImagePressed: {fileID: 21300030, guid: e702fd2c400c4fed86e8d6f15680461a,
+      type: 3}
+    mBackgroundImageSelected: {fileID: 21300030, guid: e702fd2c400c4fed86e8d6f15680461a,
+      type: 3}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 1, g: 1, b: 1, a: 1}
+    mIconImage: {fileID: 21300024, guid: e702fd2c400c4fed86e8d6f15680461a, type: 3}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 1, g: 1, b: 1, a: 1}
+  mJoystickStyles:
+  - mName: Black
+    mExpandedInfo: 0
+    mFontFamily: {fileID: 0}
+    mFontSize: 14
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 21300000, guid: 19dbcd4c1663f6c419eafa2f21f95877, type: 3}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0.7176471, g: 0.38039216, b: 0.6117647, a: 1}
+    mIconImage: {fileID: 21300000, guid: 5ede157d04b21a742b0e51ef50ccd731, type: 3}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.8862745, g: 0.5294118, b: 0.77254903, a: 1}
+  - mName: Blue
+    mExpandedInfo: 1
+    mFontFamily: {fileID: 0}
+    mFontSize: 14
+    mFontStyle: 0
+    mTextAnchor: 4
+    mTextColor: {r: 1, g: 1, b: 1, a: 1}
+    mTextColorActive: {r: 0.85882354, g: 0.59607846, b: 0.15294118, a: 1}
+    mBackgroundImage: {fileID: 0}
+    mBackgroundImagePressed: {fileID: 0}
+    mBackgroundImageSelected: {fileID: 0}
+    mBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+    mBackgroundColorActive: {r: 0.7176471, g: 0.38039216, b: 0.6117647, a: 1}
+    mIconImage: {fileID: 0}
+    mIconImageActive: {fileID: 0}
+    mIconColor: {r: 1, g: 1, b: 1, a: 1}
+    mIconColorActive: {r: 0.8862745, g: 0.5294118, b: 0.77254903, a: 1}
+  mScrollStyles:
+  - mName: ScrollDefault
+    mExpandedInfo: 1
+    mFillBackgroundImage: {fileID: 21300000, guid: 88ad548035574884788c4e4041d6af77,
+      type: 3}
+    mFillImage: {fileID: 21300146, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mHandleImage: {fileID: 21300000, guid: b003e6f1d13ecdd46aeeb5ba46a86784, type: 3}
+    mHandleImagePressed: {fileID: 21300000, guid: fc8f44de7c915dc42a50621ef1017a53,
+      type: 3}
+  - mName: ScrollTransparent
+    mExpandedInfo: 0
+    mFillBackgroundImage: {fileID: 21300028, guid: e702fd2c400c4fed86e8d6f15680461a,
+      type: 3}
+    mFillImage: {fileID: 21300130, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mHandleImage: {fileID: 21300064, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mHandleImagePressed: {fileID: 21300066, guid: 51f8bfb96c344c728ab35e7b07da6b27,
+      type: 3}
+  - mName: ScrollStrict
+    mExpandedInfo: 0
+    mFillBackgroundImage: {fileID: 0}
+    mFillImage: {fileID: 0}
+    mHandleImage: {fileID: 21300052, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mHandleImagePressed: {fileID: 21300054, guid: 8209d5ecf4654756882a278ca2e988b0,
+      type: 3}
+  - mName: SliderDefaultH
+    mExpandedInfo: 0
+    mFillBackgroundImage: {fileID: 0}
+    mFillImage: {fileID: 0}
+    mHandleImage: {fileID: 0}
+    mHandleImagePressed: {fileID: 0}
+  - mName: SliderDefaultV
+    mExpandedInfo: 0
+    mFillBackgroundImage: {fileID: 0}
+    mFillImage: {fileID: 0}
+    mHandleImage: {fileID: 0}
+    mHandleImagePressed: {fileID: 0}
+  - mName: ProgressDefault
+    mExpandedInfo: 0
+    mFillBackgroundImage: {fileID: 0}
+    mFillImage: {fileID: 21300138, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mHandleImage: {fileID: 0}
+    mHandleImagePressed: {fileID: 0}
+  - mName: Flat
+    mExpandedInfo: 0
+    mFillBackgroundImage: {fileID: 21300142, guid: 08db7be2c3d945b2bb80c1683e1b811b,
+      type: 3}
+    mFillImage: {fileID: 21300140, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mHandleImage: {fileID: 21300130, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mHandleImagePressed: {fileID: 21300132, guid: 08db7be2c3d945b2bb80c1683e1b811b,
+      type: 3}
+  - mName: White
+    mExpandedInfo: 0
+    mFillBackgroundImage: {fileID: 0}
+    mFillImage: {fileID: 21300184, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mHandleImage: {fileID: 0}
+    mHandleImagePressed: {fileID: 0}
+  mHeaderStyles:
+  - mName: Default
+    mExpandedInfo: 0
+    mHeaderImage: {fileID: 0}
+    mHeaderColor: {r: 1, g: 1, b: 1, a: 1}
+    mHeaderColorActive: {r: 0.96862745, g: 0.39607844, b: 0.7882353, a: 1}
+    mContentImage: {fileID: 0}
+  - mName: Strict
+    mExpandedInfo: 0
+    mHeaderImage: {fileID: 21300060, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+    mHeaderColor: {r: 1, g: 1, b: 1, a: 1}
+    mHeaderColorActive: {r: 0.96862745, g: 0.39607844, b: 0.7882353, a: 1}
+    mContentImage: {fileID: 21300070, guid: 51f8bfb96c344c728ab35e7b07da6b27, type: 3}
+  - mName: Accent
+    mExpandedInfo: 0
+    mHeaderImage: {fileID: 21300052, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+    mHeaderColor: {r: 1, g: 1, b: 1, a: 1}
+    mHeaderColorActive: {r: 1, g: 0, b: 0, a: 1}
+    mContentImage: {fileID: 21300054, guid: 8209d5ecf4654756882a278ca2e988b0, type: 3}
+  - mName: Flat
+    mExpandedInfo: 0
+    mHeaderImage: {fileID: 21300130, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+    mHeaderColor: {r: 1, g: 1, b: 1, a: 1}
+    mHeaderColorActive: {r: 1, g: 0, b: 0, a: 1}
+    mContentImage: {fileID: 21300140, guid: 08db7be2c3d945b2bb80c1683e1b811b, type: 3}
+  mSpinnerStyles:
+  - mName: Default
+    mExpandedInfo: 0
+    mButtonUpImage: {fileID: 21300114, guid: 69bf687b72ab492eb6407bae767b59ea, type: 3}
+    mButtonUpImageActive: {fileID: 21300112, guid: 69bf687b72ab492eb6407bae767b59ea,
+      type: 3}
+    mButtonDownImage: {fileID: 21300114, guid: 69bf687b72ab492eb6407bae767b59ea, type: 3}
+    mButtonDownImageActive: {fileID: 21300112, guid: 69bf687b72ab492eb6407bae767b59ea,
+      type: 3}
+    mButtonColor: {r: 1, g: 1, b: 1, a: 1}
+    mButtonColorActive: {r: 1, g: 0, b: 0, a: 1}
+  mExpandedInfo: 0
+  mExpandedBase: 0
+  mExpandedCheckBox: 0
+  mExpandedJoystick: 1
+  mExpandedScrolls: 0
+  mExpandedHeaders: 0
+  mExpandedSpinners: 0
+  mExpandedSerialized: 0

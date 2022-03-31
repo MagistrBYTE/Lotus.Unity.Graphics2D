@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0cd29ae3ba2b9ed49977e12987f968d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PSystem161313_0
+  - first:
+      213: 21300002
+    second: PSystem161313_1
+  - first:
+      213: 21300004
+    second: PSystem161313_2
+  - first:
+      213: 21300006
+    second: PSystem161313_3
+  - first:
+      213: 21300008
+    second: PSystem161313_4
+  - first:
+      213: 21300010
+    second: PSystem161313_5
+  - first:
+      213: 21300012
+    second: PSystem161313_6
+  - first:
+      213: 21300014
+    second: PSystem161313_7
+  - first:
+      213: 21300016
+    second: PSystem161313_8
+  - first:
+      213: 21300018
+    second: PSystem161313_9
+  - first:
+      213: 21300020
+    second: PSystem161313_10
+  - first:
+      213: 21300022
+    second: PSystem161313_11
+  - first:
+      213: 21300024
+    second: PSystem161313_12
+  - first:
+      213: 21300026
+    second: PSystem161313_13
+  - first:
+      213: 21300028
+    second: PSystem161313_14
+  - first:
+      213: 21300030
+    second: PSystem161313_15
+  - first:
+      213: 21300032
+    second: PSystem161313_16
+  - first:
+      213: 21300034
+    second: PSystem161313_17
+  - first:
+      213: 21300036
+    second: PSystem161313_18
+  - first:
+      213: 21300038
+    second: PSystem161313_19
+  - first:
+      213: 21300040
+    second: ElricJohan_Explosion_02_01F
+  - first:
+      213: 21300042
+    second: ElricJohan_Explosion_02_02F
+  - first:
+      213: 21300044
+    second: ElricJohan_Explosion_02_03F
+  - first:
+      213: 21300046
+    second: ElricJohan_Explosion_02_04F
+  - first:
+      213: 21300048
+    second: ElricJohan_Explosion_02_05F
+  - first:
+      213: 21300050
+    second: ElricJohan_Explosion_02_06F
+  - first:
+      213: 21300052
+    second: ElricJohan_Explosion_02_07F
+  - first:
+      213: 21300054
+    second: ElricJohan_Explosion_02_08F
+  - first:
+      213: 21300056
+    second: ElricJohan_Explosion_02_09F
+  - first:
+      213: 21300058
+    second: ElricJohan_Explosion_02_010F
+  - first:
+      213: 21300060
+    second: ElricJohan_Explosion_02_011F
+  - first:
+      213: 21300062
+    second: ElricJohan_Explosion_02_012F
+  - first:
+      213: 21300064
+    second: ElricJohan_Explosion_02_013F
+  - first:
+      213: 21300066
+    second: ElricJohan_Explosion_02_014F
+  - first:
+      213: 21300068
+    second: ElricJohan_Explosion_02_015F
+  - first:
+      213: 21300070
+    second: ElricJohan_Explosion_02_016F
+  - first:
+      213: 21300072
+    second: ElricJohan_Explosion_02_017F
+  - first:
+      213: 21300074
+    second: ElricJohan_Explosion_02_018F
+  - first:
+      213: 21300076
+    second: ElricJohan_Explosion_02_019F
+  - first:
+      213: 21300078
+    second: ElricJohan_Explosion_02_020F
+  - first:
+      213: 21300080
+    second: ElricJohan_Explosion_02_F01
+  - first:
+      213: 21300082
+    second: ElricJohan_Explosion_02_F02
+  - first:
+      213: 21300084
+    second: ElricJohan_Explosion_02_F03
+  - first:
+      213: 21300086
+    second: ElricJohan_Explosion_02_F04
+  - first:
+      213: 21300088
+    second: ElricJohan_Explosion_02_F05
+  - first:
+      213: 21300090
+    second: ElricJohan_Explosion_02_F06
+  - first:
+      213: 21300092
+    second: ElricJohan_Explosion_02_F07
+  - first:
+      213: 21300094
+    second: ElricJohan_Explosion_02_F08
+  - first:
+      213: 21300096
+    second: ElricJohan_Explosion_02_F09
+  - first:
+      213: 21300098
+    second: ElricJohan_Explosion_02_F10
+  - first:
+      213: 21300100
+    second: ElricJohan_Explosion_02_F11
+  - first:
+      213: 21300102
+    second: ElricJohan_Explosion_02_F12
+  - first:
+      213: 21300104
+    second: ElricJohan_Explosion_02_F13
+  - first:
+      213: 21300106
+    second: ElricJohan_Explosion_02_F14
+  - first:
+      213: 21300108
+    second: ElricJohan_Explosion_02_F15
+  - first:
+      213: 21300110
+    second: ElricJohan_Explosion_02_F16
+  - first:
+      213: 21300112
+    second: ElricJohan_Explosion_02_F17
+  - first:
+      213: 21300114
+    second: ElricJohan_Explosion_02_F18
+  - first:
+      213: 21300116
+    second: ElricJohan_Explosion_02_F19
+  - first:
+      213: 21300118
+    second: ElricJohan_Explosion_02_F20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2823cac0c89630640a19d09d56e3352f
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d557d7d4f1b8ccb419e0a957646fd2ec
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae9c2910c2d81b4d885064ab93219dc
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51986e5c9b3b5641a07e20c7541d9cd
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64ab37a07d5334d86069c6b6bef092
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F06
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0e4783ed423c840ae32d49605fb6c2
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F07
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c67c3c38f1bdec458c17b580c1522c9
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b512fba276c3f25429c53aea138022ff
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F09
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119708c5461eecd449bcda0747b1891f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fe57cfca45e46489c4219142094ea9
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b2a559acf3ce644a43a1ee57600664
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa14bce7a3198489cd818a71ba99b7
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb0d564bfea05468a21c08f5fe6959
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4cc8b6e4efa4744819f2c1b82d0c54
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa662ac9c50c1e2428af5b1ad57908fa
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c612972b964051847827118127358ad5
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a488bca1fef148a738b57c8776f80
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0b226cbaf6f44f9b3cd1f23a40e23
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c132bc82d2846a42b60d966ddad8f08
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElricJohan_Explosion_02_F20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a95949505725a49884a2a29ac798e8
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f001c914fc337a94db2208fb6bebf755
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElricJohan_Explosion_02_F06: 21300090
+      ElricJohan_Explosion_02_F14: 21300106
+      ElricJohan_Explosion_02_F01: 21300080
+      ElricJohan_Explosion_02_F09: 21300096
+      ElricJohan_Explosion_02_F07: 21300092
+      ElricJohan_Explosion_02_F17: 21300112
+      ElricJohan_Explosion_02_F02: 21300082
+      ElricJohan_Explosion_02_F20: 21300118
+      ElricJohan_Explosion_02_F08: 21300094
+      ElricJohan_Explosion_02_F16: 21300110
+      ElricJohan_Explosion_02_F03: 21300084
+      ElricJohan_Explosion_02_F13: 21300104
+      ElricJohan_Explosion_02_F15: 21300108
+      ElricJohan_Explosion_02_F05: 21300088
+      ElricJohan_Explosion_02_F11: 21300100
+      ElricJohan_Explosion_02_F19: 21300116
+      ElricJohan_Explosion_02_F10: 21300098
+      ElricJohan_Explosion_02_F04: 21300086
+      ElricJohan_Explosion_02_F12: 21300102
+      ElricJohan_Explosion_02_F18: 21300114
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: 899ecda437084d95a95f3b4a3b281b4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Tiamalt_BlueExplosion_F01
+  - first:
+      213: 21300002
+    second: Tiamalt_BlueExplosion_F02
+  - first:
+      213: 21300004
+    second: Tiamalt_BlueExplosion_F03
+  - first:
+      213: 21300006
+    second: Tiamalt_BlueExplosion_F04
+  - first:
+      213: 21300008
+    second: Tiamalt_BlueExplosion_F05
+  - first:
+      213: 21300010
+    second: Tiamalt_BlueExplosion_F06
+  - first:
+      213: 21300012
+    second: Tiamalt_BlueExplosion_F07
+  - first:
+      213: 21300014
+    second: Tiamalt_BlueExplosion_F08
+  - first:
+      213: 21300016
+    second: Tiamalt_BlueExplosion_F09
+  - first:
+      213: 21300018
+    second: Tiamalt_BlueExplosion_F10
+  - first:
+      213: 21300020
+    second: Tiamalt_BlueExplosion_F11
+  - first:
+      213: 21300022
+    second: Tiamalt_BlueExplosion_F12
+  - first:
+      213: 21300024
+    second: Tiamalt_BlueExplosion_F13
+  - first:
+      213: 21300026
+    second: Tiamalt_BlueExplosion_F14
+  - first:
+      213: 21300028
+    second: Tiamalt_BlueExplosion_F15
+  - first:
+      213: 21300030
+    second: Tiamalt_BlueExplosion_F16
+  - first:
+      213: 21300032
+    second: Tiamalt_BlueExplosion_F17
+  - first:
+      213: 21300034
+    second: Tiamalt_BlueExplosion_F18
+  - first:
+      213: 21300036
+    second: Tiamalt_BlueExplosion_F19
+  - first:
+      213: 21300038
+    second: Tiamalt_BlueExplosion_F20
+  - first:
+      213: 21300040
+    second: Tiamalt_BlueExplosion_F21
+  - first:
+      213: 21300042
+    second: Tiamalt_BlueExplosion_F22
+  - first:
+      213: 21300044
+    second: Tiamalt_BlueExplosion_F23
+  - first:
+      213: 21300046
+    second: Tiamalt_BlueExplosion_F24
+  - first:
+      213: 21300048
+    second: Tiamalt_Spray_Blue_F01
+  - first:
+      213: 21300050
+    second: Tiamalt_Spray_Blue_F02
+  - first:
+      213: 21300052
+    second: Tiamalt_Spray_Blue_F03
+  - first:
+      213: 21300054
+    second: Tiamalt_Spray_Blue_F04
+  - first:
+      213: 21300056
+    second: Tiamalt_Spray_Blue_F05
+  - first:
+      213: 21300058
+    second: Tiamalt_Spray_Blue_F06
+  - first:
+      213: 21300060
+    second: Tiamalt_Spray_Blue_F07
+  - first:
+      213: 21300062
+    second: Tiamalt_Spray_Blue_F08
+  - first:
+      213: 21300064
+    second: Tiamalt_Spray_Blue_F09
+  - first:
+      213: 21300066
+    second: Tiamalt_Spray_Blue_F10
+  - first:
+      213: 21300068
+    second: Tiamalt_Spray_Blue_F11
+  - first:
+      213: 21300070
+    second: Tiamalt_Spray_Blue_F12
+  - first:
+      213: 21300072
+    second: Tiamalt_Spray_Blue_F13
+  - first:
+      213: 21300074
+    second: Tiamalt_Spray_Blue_F14
+  - first:
+      213: 21300076
+    second: Tiamalt_Spray_Blue_F15
+  - first:
+      213: 21300078
+    second: Tiamalt_Spray_Blue_F16
+  - first:
+      213: 21300080
+    second: Tiamalt_Spray_Blue_F17
+  - first:
+      213: 21300082
+    second: Tiamalt_Spray_Blue_F18
+  - first:
+      213: 21300084
+    second: Tiamalt_Spray_Blue_F19
+  - first:
+      213: 21300086
+    second: Tiamalt_Spray_Blue_F20
+  - first:
+      213: 21300088
+    second: Tiamalt_Spray_Blue_F21
+  - first:
+      213: 21300090
+    second: Tiamalt_Spray_Blue_F22
+  - first:
+      213: 21300092
+    second: Tiamalt_Spray_Blue_F23
+  - first:
+      213: 21300094
+    second: Tiamalt_Spray_Blue_F24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c98f426a88aa045989261e3452de29
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf9455327ee7946a2fa6c96afd2372
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6587e88e0ca458640abbb6c2af21e3da
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F04
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f90a93ae64ac342997f361ffb81c65
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F05
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97328a1b33773aa478acff5f86c4c996
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F06
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3cfc5352ceb88429e6af8b55b55abb
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74108922ae22e374a89fd7c4fa93082d
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F08
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7686f82cd9fef504da53f5437296fcd8
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F09
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad846ce5cc2ce1441bc1fcc5a9a131d2
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a778cac4a3d2d54897551cce3533709
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7c7b767db6b4448cb093efcdb5d0b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0f79c455c93d445ac152516b39959f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca4219af12a0bc43b8b70c0dbccc909
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e1c145bd30dfc40bf89ffaa2e190f7
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d27eddb2296eb41825fcbc9a668989
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508deea7bf776d4eb236bb7523e9b87
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b93e5fea65f514e9db959b5f489195
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212699a3bf6fcf240b65f4e125e11fd7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83ccf06628b6324aa2ab3eff85bc22c
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098607ed0dc70214493a4f59f9d6638d
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db083a5927ddfbc4096a09c892405781
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0f859d7f9ec94eaf7ea8ae6bb4700
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e31537291d744ea23e92375ab7724
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamalt_Spray_Blue_F24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e3cf693a76b6c4ca9404c3f9e6f308
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiamalt_Spray_Blue_F21: 21300088
+      Tiamalt_Spray_Blue_F12: 21300070
+      Tiamalt_Spray_Blue_F03: 21300052
+      Tiamalt_Spray_Blue_F13: 21300072
+      Tiamalt_Spray_Blue_F07: 21300060
+      Tiamalt_Spray_Blue_F20: 21300086
+      Tiamalt_Spray_Blue_F10: 21300066
+      Tiamalt_Spray_Blue_F16: 21300078
+      Tiamalt_Spray_Blue_F11: 21300068
+      Tiamalt_Spray_Blue_F04: 21300054
+      Tiamalt_Spray_Blue_F14: 21300074
+      Tiamalt_Spray_Blue_F19: 21300084
+      Tiamalt_Spray_Blue_F08: 21300062
+      Tiamalt_Spray_Blue_F15: 21300076
+      Tiamalt_Spray_Blue_F22: 21300090
+      Tiamalt_Spray_Blue_F01: 21300048
+      Tiamalt_Spray_Blue_F09: 21300064
+      Tiamalt_Spray_Blue_F23: 21300092
+      Tiamalt_Spray_Blue_F17: 21300080
+      Tiamalt_Spray_Blue_F24: 21300094
+      Tiamalt_Spray_Blue_F18: 21300082
+      Tiamalt_Spray_Blue_F06: 21300058
+      Tiamalt_Spray_Blue_F02: 21300050
+      Tiamalt_Spray_Blue_F05: 21300056
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

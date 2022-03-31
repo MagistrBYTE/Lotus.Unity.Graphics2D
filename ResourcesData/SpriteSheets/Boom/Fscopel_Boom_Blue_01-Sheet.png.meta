@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 3e45029e3be34aafa532621f8adfa5cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 01
+  - first:
+      213: 21300002
+    second: 02
+  - first:
+      213: 21300004
+    second: 03
+  - first:
+      213: 21300006
+    second: 04
+  - first:
+      213: 21300008
+    second: 05
+  - first:
+      213: 21300010
+    second: 06
+  - first:
+      213: 21300012
+    second: 07
+  - first:
+      213: 21300014
+    second: 08
+  - first:
+      213: 21300016
+    second: 09
+  - first:
+      213: 21300018
+    second: 10
+  - first:
+      213: 21300020
+    second: 11
+  - first:
+      213: 21300022
+    second: 12
+  - first:
+      213: 21300024
+    second: 13
+  - first:
+      213: 21300026
+    second: 14
+  - first:
+      213: 21300028
+    second: 15
+  - first:
+      213: 21300030
+    second: 16
+  - first:
+      213: 21300032
+    second: 17
+  - first:
+      213: 21300034
+    second: Fscopel_BlueExplosion_F01
+  - first:
+      213: 21300036
+    second: Fscopel_BlueExplosion_F02
+  - first:
+      213: 21300038
+    second: Fscopel_BlueExplosion_F03
+  - first:
+      213: 21300040
+    second: Fscopel_BlueExplosion_F04
+  - first:
+      213: 21300042
+    second: Fscopel_BlueExplosion_F05
+  - first:
+      213: 21300044
+    second: Fscopel_BlueExplosion_F06
+  - first:
+      213: 21300046
+    second: Fscopel_BlueExplosion_F07
+  - first:
+      213: 21300048
+    second: Fscopel_BlueExplosion_F08
+  - first:
+      213: 21300050
+    second: Fscopel_BlueExplosion_F09
+  - first:
+      213: 21300052
+    second: Fscopel_BlueExplosion_F10
+  - first:
+      213: 21300054
+    second: Fscopel_BlueExplosion_F11
+  - first:
+      213: 21300056
+    second: Fscopel_BlueExplosion_F12
+  - first:
+      213: 21300058
+    second: Fscopel_BlueExplosion_F13
+  - first:
+      213: 21300060
+    second: Fscopel_BlueExplosion_F14
+  - first:
+      213: 21300062
+    second: Fscopel_BlueExplosion_F15
+  - first:
+      213: 21300064
+    second: Fscopel_BlueExplosion_F16
+  - first:
+      213: 21300066
+    second: Fscopel_BlueExplosion_F17
+  - first:
+      213: 21300068
+    second: Fscopel_Boom_Blue_01_F01
+  - first:
+      213: 21300070
+    second: Fscopel_Boom_Blue_01_F02
+  - first:
+      213: 21300072
+    second: Fscopel_Boom_Blue_01_F03
+  - first:
+      213: 21300074
+    second: Fscopel_Boom_Blue_01_F04
+  - first:
+      213: 21300076
+    second: Fscopel_Boom_Blue_01_F05
+  - first:
+      213: 21300078
+    second: Fscopel_Boom_Blue_01_F06
+  - first:
+      213: 21300080
+    second: Fscopel_Boom_Blue_01_F07
+  - first:
+      213: 21300082
+    second: Fscopel_Boom_Blue_01_F08
+  - first:
+      213: 21300084
+    second: Fscopel_Boom_Blue_01_F09
+  - first:
+      213: 21300086
+    second: Fscopel_Boom_Blue_01_F10
+  - first:
+      213: 21300088
+    second: Fscopel_Boom_Blue_01_F11
+  - first:
+      213: 21300090
+    second: Fscopel_Boom_Blue_01_F12
+  - first:
+      213: 21300092
+    second: Fscopel_Boom_Blue_01_F13
+  - first:
+      213: 21300094
+    second: Fscopel_Boom_Blue_01_F14
+  - first:
+      213: 21300096
+    second: Fscopel_Boom_Blue_01_F15
+  - first:
+      213: 21300098
+    second: Fscopel_Boom_Blue_01_F16
+  - first:
+      213: 21300100
+    second: Fscopel_Boom_Blue_01_F17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e492ea9aceace4c8c67a8ada9ba2db
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599fdacc6a8ff394598f358ba94dadc1
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37451f5ebf4a75a4c91017290bd9ca3e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca9b445c8328b542a36bca83c020a7e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77403c025304cba42ae18163053e1539
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2cdeba522fef438271166d6d7a438
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F07
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84078d2cfe32be248aaf7ede2f911df7
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F08
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e735226f0f7842bcee83be031f472
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F09
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8411159f26b445a040b5f698514bc
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ef9bb7372bbd4f81a01616317756e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f058767d8b6604eb5f606abecfe763
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee9bf2e1bfe36a45b6ba54009e58f16
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20f7eae7ace68845bf405fa4d17a973
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed0b67b861348e42aa72b26141ae844
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1d6c1a619fac644bb57bbda9fbced2
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743302f5017a64147ac621ffa1ebb0ce
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fscopel_Boom_Blue_01_F17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde1a1d6160c59940a8ed190fe13803d
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fscopel_Boom_Blue_01_F01: 21300068
+      Fscopel_Boom_Blue_01_F11: 21300088
+      Fscopel_Boom_Blue_01_F15: 21300096
+      Fscopel_Boom_Blue_01_F06: 21300078
+      Fscopel_Boom_Blue_01_F14: 21300094
+      Fscopel_Boom_Blue_01_F07: 21300080
+      Fscopel_Boom_Blue_01_F04: 21300074
+      Fscopel_Boom_Blue_01_F16: 21300098
+      Fscopel_Boom_Blue_01_F13: 21300092
+      Fscopel_Boom_Blue_01_F05: 21300076
+      Fscopel_Boom_Blue_01_F08: 21300082
+      Fscopel_Boom_Blue_01_F09: 21300084
+      Fscopel_Boom_Blue_01_F10: 21300086
+      Fscopel_Boom_Blue_01_F17: 21300100
+      Fscopel_Boom_Blue_01_F02: 21300070
+      Fscopel_Boom_Blue_01_F03: 21300072
+      Fscopel_Boom_Blue_01_F12: 21300090
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,23 +1,28 @@
 {
-    "name": "com.magistrbyte.cubexgraphics2d",
-    "version": "1.0.0",
-    "displayName": "CubeXGraphics2D",
+    "name": "com.magistrbyte.lotus.unity.graphics2d",
+    "version": "1.3.0",
+    "displayName": "Lotus.Unity.Graphics2D",
     "description": "General set Graphics2D for Unity",
     "unity": "2019.1",
-
-    "dependencies": {
-        "com.magistrbyte.cubexbasis": "1.0.0"
-    },
-
-    "keywords": [
+    "keywords":
+    [
         "ElementUI",
         "IMGUI",
         "Sprite",
         "ScreenGame"
     ],
-    "author": {
+    "author":
+    {
         "name": "MagistrBYTE aka DanielDem",
         "email": "dementevds@gmail.com"
     },
+
+    "dependencies":
+    {
+        "com.magistrbyte.lotus.unity.core": "1.3.0",
+        "com.magistrbyte.lotus.unity.math": "1.3.0",
+        "com.magistrbyte.lotus.unity.algorithm": "1.3.0"
+    },
+
     "type": "library"
 }
